@@ -1,0 +1,48 @@
+name: Gud daily pipeline
+
+# Runs the pipeline every morning so you never have to.
+# Collects news, filters it, writes it, verifies it, and saves the day's stories.
+
+on:
+  schedule:
+    - cron: "0 5 * * *"    # 05:00 UTC = 6am BST (British summer) / 5am GMT (winter)
+  workflow_dispatch: {}     # lets you also run it by hand from the Actions tab
+
+permissions:
+  contents: write           # allows the robot to save results back to your repo
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Get your code and database
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install libraries
+        run: pip install -r requirements.txt
+
+      - name: Run the pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python gud_pipeline.py run --limit 300
+
+      - name: Show the queue (visible in the log)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python gud_pipeline.py stats
+
+      - name: Save stories and database back to the repo
+        run: |
+          git config user.name  "Gud bot"
+          git config user.email "actions@github.com"
+          git add -A output gud.db
+          git diff --staged --quiet && echo "nothing new today" || git commit -m "Stories $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash || true
+          git push
