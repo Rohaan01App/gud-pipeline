@@ -1,0 +1,78 @@
+{
+  "date": "2026-08-04",
+  "stories": {
+    "nature": {
+      "id": "5978eafad55c63b29106",
+      "cluster": "nature",
+      "headline": "Reintroduced beavers create wetlands that boost drought resilience",
+      "tease": "Reintroduced beavers are quietly rebuilding wetlands that help landscapes withstand drought.",
+      "summary": "Beavers brought back to Devon and Cornwall rivers are building dams and ponds that hold water through dry spells, researchers say. Dr Alan Puttock of the University of Exeter found that beaver wetlands slow the flow of water, storing around 1,000 cubic metres each and cutting peak flows by 30%. Reintroduced to the River Otter in 2015, and more recently to rivers in Cornwall, the animals recreate the complex, water-holding landscapes that modern drainage has largely removed. One wetland won't solve drought on its own, Puttock says, but as beaver numbers grow alongside other wetland projects, landscapes become steadily less prone to running dry.",
+      "deeper": "Beavers were hunted out of Britain around 400 years ago, but since being reintroduced to a few English rivers, they've quietly started rebuilding something we'd drained away: wet, tangled landscapes that hold onto water. Dr Alan Puttock, who has studied them for a decade, says their dams and ponds slow water down instead of letting it rush off the land, which helps both when it floods and when it doesn't rain for weeks. He didn't set out to study drought or wildfire \u2014 his early work was on flood management. But watching research from the US, he's come round to a simple idea: water doesn't burn. Wet ground can act as a natural firebreak as well as a buffer against dry spells. No single beaver wetland fixes a drought, Puttock is careful to say. But as beavers spread, and as people build more wetlands alongside them, the wider landscape becomes more forgiving of extremes \u2014 wetter when it needs to be, drier land less parched. It's a small, patient kind of resilience, built by animals doing what they've always done.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c5yr7z150d7o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.0,
+        7.5,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": false
+    },
+    "discovery": {
+      "id": "5ecace204795b0238e85",
+      "cluster": "discovery",
+      "headline": "First UK baby undergoes in-womb surgery for rare birth defect",
+      "tease": "A pioneering fetal surgery trial gave baby Theo a chance before he was even born.",
+      "summary": "Theo, now five months old and thriving, is the first British baby to have surgery inside the womb to fix a serious birth defect called gastroschisis, where the intestines grow outside the belly. Surgeons in Texas, partially exposing his mother's womb, used keyhole techniques to gently place his organs back inside his abdomen at 26 weeks. He was the third baby in the world treated in this trial. His parents, Maisie Savage and Josh French from London, travelled from Great Ormond Street Hospital's care to Houston for the operation. Theo was later carried to term and born by vaginal delivery, healthy and well.",
+      "deeper": "Gastroschisis usually means a baby is born with their intestines outside their body, often requiring months of intensive care and repeated surgery after birth. Doctors in Texas tried something different: fixing it before birth. They carefully opened part of the mother's womb, drained the fluid around the baby, and used keyhole surgery to tuck the intestines back inside, stitching everything closed so the pregnancy could continue as normal. Theo's parents, Maisie and Josh, had been told to expect a difficult first six months for their son. Instead, after the operation and a hard recovery for Maisie, Theo was born at full term, healthy and, as his mother put it, 'a completely normal baby.' The surgeon who led the trial, Dr Michael Belfort, said the team had zero complications. Doctors at Great Ormond Street hope to bring the procedure to the UK if the wider trial succeeds, and Belfort believes similar in-womb surgery could one day help with heart and lung conditions too. For one family, it already meant a different, gentler start than they'd feared.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.0,
+        8.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "3f553aa2f454ab5822d6",
+      "cluster": "progress",
+      "headline": "Volunteers clear Syston Brook ahead of rains",
+      "tease": "Local volunteers prepped a dried-out brook to help prevent future flooding.",
+      "summary": "Nineteen volunteers from the Syston Community Flood Group spent a summer day shovelling two to three tonnes of solid silt out of Syston Brook in Leicestershire, using the dry months to get ahead of winter flooding. They also cleared vegetation from the banks, filling 20 brown bins for composting. The Environment Agency then removed the silt they'd loosened. Syston had suffered serious flooding in January 2024 and 2025, so the group timed their work for when water levels were low enough to reach the build-up that had been blocking the channel. The Environment Agency plans further work later this year.",
+      "deeper": "When a brook keeps flooding your town, the fix isn't glamorous: someone has to get in and dig out the silt that's built up on the bottom. That's what nineteen people from Syston did this summer, wading into a concrete-bottomed channel to shift two or three tonnes of solid muck by hand, plus clearing plants growing at the water's edge that could break off and cause blockages downstream.\n\nVolunteer Janette Hick said the timing mattered - they'd wanted to do this job the year before, but there was too much debris upstream to tackle first. This year, with a dry January behind them, they finally got to the root of the problem.\n\nThe Environment Agency, which had already cleared 380 tonnes of silt from the same brook earlier in 2025, hauled away what the volunteers dug loose and plans to return for more work later this year. Charnwood Borough Council took the cleared vegetation for composting.\n\nHick's message to neighbours was simple: don't get comfortable just because one winter passed quietly. Clean your drains, keep flood barriers ready, and remember that the weather doesn't keep promises.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c4gwr53qrw7o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.0,
+        8.0,
+        6.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    }
+  },
+  "ledger": 4
+}
