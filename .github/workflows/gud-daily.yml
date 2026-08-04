@@ -5,7 +5,9 @@ name: Gud daily pipeline
 
 on:
   schedule:
-    - cron: "0 5 * * *"    # 05:00 UTC = 6am BST (British summer) / 5am GMT (winter)
+    # Odd minute, off the hour — GitHub's scheduler is heavily contested on the hour
+    # and will silently skip runs. 06:23 UTC = 7:23am BST / 6:23am GMT.
+    - cron: "23 6 * * *"
   workflow_dispatch: {}     # lets you also run it by hand from the Actions tab
 
 permissions:
@@ -18,10 +20,10 @@ jobs:
 
     steps:
       - name: Get your code and database
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
