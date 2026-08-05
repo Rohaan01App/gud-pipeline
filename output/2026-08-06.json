@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-06",
+  "stories": {
+    "nature": {
+      "id": "61639cd9bcfd07c127b1",
+      "cluster": "nature",
+      "headline": "Elusive feral cat caught after killing rare NZ ducks",
+      "tease": "After three years evading traps, the predator threatening rare p\u0101teke ducks is finally gone.",
+      "summary": "A feral cat that eluded conservationists for three years has finally been caught in New Zealand, closing the book on a long threat to one of the country's rarest ducks. The cat, nicknamed Nine Lives, had killed dozens of p\u0101teke, or brown teal, released onto the Purerua peninsula as part of a recovery effort. Trappers tracked its unpredictable movements for years before noticing a pattern at a local quarry, where they laid out food and cameras to finally catch it. The team behind Pest Free Purerua can now plan to reintroduce more ducks, with one less predator standing in the way.",
+      "deeper": "For three years, one cat outsmarted an entire conservation team. It showed up at odd hours, vanished for months, and killed dozens of rare ducks being carefully reintroduced to a New Zealand peninsula. Every time trappers got close, it slipped away, earning it the name Nine Lives.\n\nWhat finally worked was patience and a bit of detective work. When the cat started visiting the same quarry three nights running, the team laid out food it liked and waited with cameras and cages. A phone alert one night showed a cat inside a trap.\n\nAndy Mentor, who led the effort, said the team doesn't take the win for granted after being baffled for so long. The cat's body will be examined and preserved, partly to understand what it had been eating, and partly to help teach people about the toll feral cats take on native wildlife.\n\nThe project can now consider bringing p\u0101teke, the country's rarest mainland duck, back to the peninsula. It's a small, hard-won step in New Zealand's much larger effort to protect native species from introduced predators.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/environment/2026/aug/02/alfred-drummond-herdman-animal-dung-fungi-films-aoe",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/04/nine-lives-feral-cat-new-zealand-caught-trapped",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        6.5,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "discovery": {
+      "id": "f6d092b3f9ec1e509348",
+      "cluster": "discovery",
+      "headline": "NASA's PUNCH Mission Predicts Solar Storm Arrival Within 30 Minutes",
+      "tease": "A new forecasting method could give Earth sharper warnings before solar storms strike.",
+      "summary": "Scientists using NASA's PUNCH mission have predicted the arrival of a solar storm at Earth to within 30 minutes, in a test that could sharply improve space weather forecasting. PUNCH's four small spacecraft continuously image the space between the Sun and Earth, tracking a coronal mass ejection almost the whole way rather than just the first fifth of its journey, as older instruments could. Using images from a May 2025 eruption, a computer model tracked the cloud's speed and shape and, twelve hours after launch, forecast its Earth arrival eight hours later \u2014 a prediction that held up. Better timing means more warning for power grids, satellites, and astronauts.",
+      "deeper": "Solar storms start as huge clouds of material blasted off the Sun, and knowing exactly when one will hit Earth has always been guesswork, since older instruments could only see the first stretch of the journey. NASA's PUNCH mission changes that. Four small satellites now take a continuous, wide-angle picture of the space between the Sun and Earth, refreshing every few minutes, so scientists can watch a storm cloud travel nearly the whole way rather than losing sight of it partway.\n\nTo test the idea, researchers fed images of a real eruption from May 2025 into a forecasting model. Using the cloud's speed and shape as it moved, the model predicted when it would reach Earth \u2014 and got remarkably close, within half an hour. Craig DeForest, who leads the mission, compared the leap to going from steam engines to modern combustion engines.\n\nIt's an early test, based on one event, and the findings are still under review. But if it holds up, it points to a future where warnings about incoming solar storms are precise enough to actually help \u2014 giving grid operators, satellite teams, and astronauts real time to prepare rather than a rough guess.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        8.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "6ecf73fc28d74cb90143",
+      "cluster": "progress",
+      "headline": "Researchers Deploy AI Chatbot to Recover Nazi-Looted Art",
+      "tease": "New tools, including AI and 'wanted' posters, are helping reunite looted artworks with rightful owners.",
+      "summary": "Three researchers at Santa Clara University have built an AI chatbot to help track down art the Nazis looted during World War II. Called the AI Provenance Assistant, it lets anyone ask plain-language questions and searches scattered, inconsistently formatted ownership records for answers. Of an estimated 650,000 works seized between 1933 and 1945, thousands remain missing or unreturned, partly because records are split across databases with different languages and filing systems. By translating simple questions into database searches, the tool aims to make that tangled research faster, helping identify pieces and reconnect them with museums or families still waiting for their return.",
+      "deeper": "Tracing a single looted painting can mean digging through old archives written in different languages, with names spelled inconsistently and details sometimes altered on purpose. That's the tangle a new chatbot from Santa Clara University is trying to untangle. Instead of replacing the historians who do this work, it lets them \u2014 or anyone \u2014 type an ordinary question and get a useful answer pulled from a huge database of art the Nazis processed through a Paris museum during the war. One creator calls it a 'data docent': a guide through decades of messy paperwork, not a substitute for the paperwork itself. A law professor who reviewed the tool is hopeful but wants it linked to original scanned documents, so people can double-check its answers against the real historical record. Other museums are trying their own approaches \u2014 Paris's Mus\u00e9e d'Orsay is publicly displaying unclaimed paintings to invite tips, while a museum near Orl\u00e9ans has put up old-fashioned 'wanted' posters for 424 missing works. Together, these efforts show how patient detective work, old and new, keeps chipping away at a decades-old wrong.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/07/palm-oil-expansion-reignites-decade-old-indigenous-land-conflict-in-indonesia/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/to-recover-artworks-looted-by-the-nazis-researchers-are-getting-creative-with-new-strategies-including-an-ai-chatbot-and-a-campaign-of-wanted-posters-180989247/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        8.0,
+        7.5,
+        8.5,
+        8.0
+      ],
+      "evergreen": false
+    }
+  },
+  "ledger": 10
+}
