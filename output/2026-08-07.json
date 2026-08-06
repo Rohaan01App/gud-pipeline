@@ -1,0 +1,74 @@
+{
+  "date": "2026-08-07",
+  "stories": {
+    "discovery": {
+      "id": "bf499697fb1c84085c02",
+      "cluster": "discovery",
+      "headline": "Engineered yeast produces cancer drug precursor, sparing rare plant",
+      "tease": "Scientists coaxed yeast to make a cancer drug ingredient once harvested from an endangered flower.",
+      "summary": "Scientists have engineered baker's yeast to produce a precursor for a cancer drug that normally comes from an endangered plant and its relatives. The yeast makes the compound through fermentation, the same basic process used to brew beer, rather than through harvesting the rare flower. This offers a way to keep making the drug without depleting the wild plant population it usually depends on.",
+      "deeper": "There's a cancer drug that comes from a rare, endangered flower. Making enough of it the usual way means harvesting that plant and its relatives, which puts more pressure on a species already struggling. Researchers found a workaround: they altered the genes of ordinary baker's yeast, the same organism used for bread and beer, so that it produces the chemical building block the drug is made from. Instead of growing and picking rare flowers, you can grow yeast in a tank. It's a simple swap with a real payoff. The drug supply doesn't have to depend on stripping a vulnerable plant from the wild, and the plant gets a chance to recover instead of being harvested for medicine. It's a small but useful example of how tweaking microbes can take pressure off nature, while still keeping the medicines people need flowing.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02397-5",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02428-1",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080923.htm",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        8.0,
+        8.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "7c64768261b473076412",
+      "cluster": "progress",
+      "headline": "Amazon rope bridges log 15,000 crossings, zero roadkill",
+      "tease": "Simple canopy bridges are quietly saving countless animals from becoming roadkill in the Amazon.",
+      "summary": "Rope bridges strung above roads in the Brazilian Amazon have let animals cross safely 15,000 times without a single roadkill. Eight bridges went up in 2024 in Alta Floresta, Mato Grosso, and camera traps tracked crossings over 15 months. Six primate species used them, including the critically endangered Alta Floresta titi monkey. The bridges use layered ropes so different animals can walk, swing, or use their tails to cross. Roads through the forest normally force tree-dwelling animals onto the ground, cutting off habitat and risking their lives. A similar project along a highway through Indigenous land has logged 1,250 crossings over five years, and Brazil has now adopted the bridge design as a highway standard.",
+      "deeper": "Roads cut straight through forest that monkeys and other tree-dwelling animals normally never touch the ground in. When a road splits their territory, they either stay stuck on one side or risk crossing on foot, where cars are waiting. The fix here is simple: rope bridges strung high above the traffic, built with different rope layers so a monkey that walks, one that swings arm over arm, and one that relies on its tail can all get across in their own way.\n\nIn Alta Floresta, eight of these bridges recorded 15,000 crossings in just over a year, with zero roadkill. Some animals took to it fast; tufted capuchins needed seven months to trust the structure. A related project on a highway running through the Waimiri-Atroari Indigenous Territory involved the local community in choosing bridge sites, and has logged 1,250 primate crossings over five years.\n\nBrazil loses an estimated 9 million mammals to roads each year, and fewer fruit-eating monkeys can mean less seed-spreading in the forest too. A bill for a national wildlife road-safety plan is awaiting a Senate vote, and the government has already adopted this bridge design as its standard. More are planned, though researchers note they'll only keep working with regular upkeep and continued monitoring.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729010705.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-social-vulnerability-evolve-tropical-cyclone.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/amazon-canopy-bridges-enable-15000-wildlife-crossings-without-a-single-roadkill/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        8.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    }
+  },
+  "ledger": 16
+}
