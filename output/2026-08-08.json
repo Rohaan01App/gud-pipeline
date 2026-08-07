@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-08",
+  "stories": {
+    "nature": {
+      "id": "c3b51071da1ceea33270",
+      "cluster": "nature",
+      "headline": "Maldives conservationists use social media to curb illegal fishing",
+      "tease": "How online reporting and parrotfish ecology are helping protect vulnerable reef species.",
+      "summary": "A social media campaign in the Maldives helped win a nationwide ban on catching parrotfish, a species that turns out to be essential to keeping the country's islands above water. When Shaha Hashim noticed parrotfish appearing in local markets during the pandemic, she and others launched #FishForTomorrow to explain why that mattered: parrotfish grind coral into sand, producing most of the new sediment that helps low-lying atolls grow and keep pace with rising seas. The campaign went viral, an online poll showed strong public support, and in 2020 the government banned catching all parrotfish species, largely because of that groundswell.",
+      "deeper": "Parrotfish spend their days biting into coral to eat the algae inside, then excreting the leftover coral as fine white sand. It sounds unglamorous, but that sand is what builds and replenishes the beaches and reef flats of the Maldives. Researchers found parrotfish generate most of the new sand around these reef islands, sand the islands need to keep rising as sea levels do.\n\nShaha Hashim, who co-founded Maldives Resilient Reefs, noticed parrotfish and other unprotected species turning up in markets as people lost tourism jobs during COVID and turned to fishing. Rather than pushing for a ban through scientific reports alone, her group ran a social media campaign explaining, in plain terms, what parrotfish actually do for the reefs. People responded: fishers posted videos releasing parrotfish caught by accident, scientists backed the campaign, and a poll found most respondents wanted legal protection. The government banned all parrotfish catching in 2020.\n\nExperts caution the ban alone won't fix everything, since waves, currents, and coastal development also shape these islands. But it shows how public understanding, not just policy from above, can move fast when people grasp why a small fish matters.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-nature-isnt-size.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/malaysia-implements-total-e-waste-import-ban-to-curb-toxic-trade/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582815-at-what-point-does-my-family-tree-stop-doubling-and-start-decreasing/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/how-social-media-and-parrotfish-poop-are-protecting-the-maldives/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        8.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "discovery": {
+      "id": "6a216a156fad28d2b168",
+      "cluster": "discovery",
+      "headline": "AI Models Move Into Operational Tropical Cyclone Forecasting",
+      "tease": "Scientists detail how AI is now helping predict hurricanes with real operational impact.",
+      "summary": "Weather agencies have begun using artificial intelligence models as part of their day-to-day forecasting for tropical cyclones, according to research published in Nature. The shift marks AI moving from experimental research tool to something forecasters actually rely on when tracking and predicting these storms. Details of exactly how the models perform and where they're deployed are still emerging, but the move itself is notable: AI forecasting tools are no longer just promising in theory, they're being put to work.",
+      "deeper": "For years, AI weather models have shown promise in research settings, doing well on test cases and historical storms. This new research marks something different: these models are now part of real, operational forecasting for tropical cyclones, not just academic exercises.\n\nThat distinction matters. A model that performs well on past data is interesting. A model that forecasters trust enough to use when a live storm is bearing down on a coastline is something else entirely. Getting there means clearing a much higher bar for speed, reliability, and consistency.\n\nThe research, published in Nature, doesn't give us all the specifics yet on how these models stack up against traditional forecasting methods day to day. But the headline fact stands: AI has crossed a threshold from experimental to operational in one of the highest-stakes areas of weather prediction. Tropical cyclones affect millions of people every year, and better, faster forecasts can mean better warnings. This is an early step, but it's a real one \u2014 AI forecasting tools are now part of the actual toolkit meteorologists reach for.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02388-6",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10953-2",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        8.0,
+        8.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "fd2433a02ffecb75674e",
+      "cluster": "progress",
+      "headline": "Chemists convert PVC waste into high-grade motor lubricant",
+      "tease": "A clever chemical trick turns troublesome plastic waste into valuable industrial lubricant.",
+      "summary": "Chemists have found a way to turn PVC waste into a high-grade motor lubricant. Using a chemistry trick, they worked out how to untangle the plastic's molecular structure and rebuild it into a valuable product. PVC is one of the hardest plastics to recycle, so most of it ends up burned or buried. This method offers a different path: turning old plastic into something worth using rather than throwing away. It points to a way of treating junk plastic as a raw material rather than trash.",
+      "deeper": "PVC is tough stuff. It's in pipes, cables, flooring \u2014 and it's notoriously hard to recycle because of the way its molecules are put together. Most of it gets landfilled or incinerated instead.\n\nA team of chemists found a way around that. They worked out the chemistry needed to break down PVC waste and rebuild the material into something new: a high-grade motor lubricant, the kind of product usually made from fresh petroleum-based ingredients.\n\nThe appeal is that this turns a stubborn waste problem into a useful commodity. Instead of PVC piling up because no one has a good way to process it, it becomes a starting material for something people already need and buy.\n\nIt's a reminder that some of the most useful recycling breakthroughs aren't about doing more with plastic \u2014 they're about finally understanding what's chemically possible with the plastic we already have too much of.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        8.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "6985476e7e51cdeaf4e2",
+      "cluster": "animals",
+      "headline": "Pumas reduce deer-vehicle collisions on patrolled roads",
+      "tease": "Where big cats roam, fewer cars collide with deer, new research shows.",
+      "summary": "Roads patrolled by pumas see fewer collisions with deer, according to new research. The big cats' presence appears to change deer behavior near roadways, making the animals less likely to wander into traffic. Researchers tracked the pattern in areas where pumas are active and compared it to stretches without the predators nearby. The finding points to a quiet benefit of keeping large carnivores on the landscape: safer roads for drivers, alongside whatever else the presence of pumas does for the wider ecosystem they patrol.",
+      "deeper": "Here's the idea: when pumas are around, deer act differently. They seem to avoid open, exposed spots like roadsides more often, because that's where a predator could catch them off guard. Fewer deer lingering near the road means fewer deer stepping out in front of cars.\n\nResearchers noticed this by comparing roads where pumas are known to patrol against roads without them, and the pattern held up \u2014 collisions dropped where the cats were present.\n\nIt's a reminder that predators do a lot of their work quietly, just by existing. Deer don't need to be hunted to be affected by a puma nearby; the mere possibility of one is enough to shift where they choose to stand still and where they choose to move on.\n\nFor drivers, that translates into something very ordinary and welcome: a lower chance of a sudden collision on a dark road. It's a small, practical example of how keeping large carnivores in a landscape can ripple outward into everyday safety, not just wilderness health.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02398-4",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02429-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        9.0
+      ],
+      "evergreen": false
+    }
+  },
+  "ledger": 28
+}
