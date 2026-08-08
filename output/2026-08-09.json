@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-09",
+  "stories": {
+    "nature": {
+      "id": "cb366aa2263bba3fe97c",
+      "cluster": "nature",
+      "headline": "Rangers patrol Sumatra's Batutegi forest to curb deforestation",
+      "tease": "Meet the small ranger team protecting nearly 60,000 hectares of vital Sumatran forest.",
+      "summary": "For fifteen years, ranger Wandi Harmoko has patrolled Batutegi forest in southern Sumatra, one of just eight officers covering nearly 60,000 hectares of habitat for tigers, sun bears and slow lorises. His team now pairs on-the-ground patrols with satellite tools, drone mapping and a mobile app that logs snares and encroachment in real time, letting them target patrols instead of walking blindly through the landscape. Local farmers are also helping install boundary markers between protected core forest and farming zones. The forest matters beyond its wildlife: it feeds a reservoir that irrigates rice farms across half a dozen districts, which is part of why officials have kept it protected from mining and plantations.",
+      "deeper": "Wandi Harmoko traded a desk job in municipal policing for a life spent walking ridgelines in Sumatra's Batutegi forest. He's been at it since the ranger unit was created around 2011, and he still finds it hard when patrols end in arrests. \"It creates an inner conflict,\" he says, because he understands why people cut trees or set snares \u2014 coffee farming and hunting are how many nearby families get by.\n\nWhat's changed is how his small team works. Instead of walking randomly through thousands of hectares, they now use satellite images and a phone app that maps exactly where snares, logging, or cleared land turn up. That data tells them where to go next, making eight rangers cover far more ground than they could on foot alone.\n\nThey're also tackling a quieter problem: nobody agreed on where the strictly protected forest ends and farmland begins. So rangers and local farmers are putting up boundary signs together, so no one can later say they didn't know.\n\nA conservationist who works nearby says the real measure of success won't be arrests \u2014 it'll be years from now, when conflict with wildlife stays low and people's lives improve enough that they stop needing the forest's resources to survive.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-metal-deposits-reveal-ice-ages.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/environmental-activists-in-kenya-concerned-over-billionaires-planned-oil-refinery/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582816-how-does-my-energy-use-differ-if-i-walk-jog-or-run-for-1-kilometre/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/on-the-front-lines-of-conservation-in-sumatra-rangers-safeguard-batutegi-forest/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        8.0,
+        7.5,
+        9.0,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "discovery": {
+      "id": "ef745f818b52fb5c65ae",
+      "cluster": "discovery",
+      "headline": "Concorde outran the Moon's shadow to study an eclipse",
+      "tease": "Scientists used a supersonic jet to extend a solar eclipse for record-breaking observation.",
+      "summary": "In June 1973, eight scientists chased a solar eclipse across Africa in a Concorde jet, stretching totality from a few minutes to 74. Flying at more than twice the speed of sound, the aircraft kept pace with the Moon's shadow long enough for researchers to study the Sun's corona in unprecedented detail. The plane was fitted with ceiling portholes so each science team could point instruments skyward. Pilots hit their rendezvous point within one second, using only inertial navigation, no GPS. More than fifty years later, no one has matched even half that observation time.",
+      "deeper": "A total solar eclipse usually lasts only a few minutes before the Moon's shadow races on. Pierre L\u00e9na, an astronomer in Paris, realized that a plane fast enough could stay inside that shadow far longer. The Concorde, flying at more than twice the speed of sound, was the only aircraft close to matching the shadow's speed near the equator.\n\nL\u00e9na convinced Concorde's test-flight chief to let him use the prototype, then invited scientists from France, Britain and the US to share the flight, cutting ceiling portholes into the fuselage so each team could aim an instrument at the corona. On June 30, 1973, the jet took off from the Canary Islands to meet the eclipse over Mauritania, hitting its mark within a single second using only inertial navigation.\n\nInside the shadow, the sky went fully dark and the horizon curved with light glowing just outside the eclipse zone. Headwinds cut what could have been 80 minutes down to 74, still a record L\u00e9na says nobody has come close to since. When the plane landed in Chad, crowds greeted them in the streets, celebrating a moment of shared wonder that outlasted the eclipse itself.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-unprecedented-biomass-loss-europe-forests.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10899-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        9.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "924a35029706c09a6dd0",
+      "cluster": "progress",
+      "headline": "Conservationist Vinod Rishi's work secured elephant migration corridors",
+      "tease": "One man's decades of work helped India's elephants keep their ancient migration routes.",
+      "summary": "Vinod Rishi spent decades making sure India's elephants could keep moving between forests, even as roads, farms, and dams closed in on their old routes. As the first director of Project Elephant, launched in 1992, he pushed conservation to think beyond single parks and toward whole landscapes elephants crossed. In North Bengal, he helped get the Teesta Barrage Project altered so elephants could still pass through a corridor it threatened. Trained as an engineer, he tested official claims and statistics against what he found in the field, an approach that shaped how India managed elephant habitats, migration paths, and conflict with people. Rishi died on July 29 in Dehradun.",
+      "deeper": "Elephants don't stay put. They walk long routes between forests, crossing land that other people have since turned into farms, roads, and dams. Vinod Rishi understood this early, and it shaped his whole career in Indian forestry. Trained as an engineer, he didn't just accept official reports \u2014 he went and looked. When newspapers said a leopard had frightened a village, he visited and found the villagers weren't bothered at all. That habit of checking things himself made him effective when India launched Project Elephant in 1992, and he became its first director. One of his clearest achievements came in North Bengal, where a dam project threatened a route elephants had used for generations. Rishi worked to get the project changed so the animals could still cross. He later called it his first real experience of getting development plans and wildlife needs to work together, rather than clash. Colleagues remembered him as humble and easy to work with, willing to set aside his official rank to help conservationists outside government. He kept writing about the animals and places he'd known until his death this July, work that quietly insisted elephants' old paths were worth protecting.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051519.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-marine-carbon-technology-dioxide-seawater.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/vinod-rishi-helped-give-indias-elephants-room-to-roam/",
+          "tier": 2
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-adding-ai-tool-google-earth.html",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        8.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "29c3942454376cc106b1",
+      "cluster": "animals",
+      "headline": "Feral Cat Threatening Rare Ducks Caught After Three Years",
+      "tease": "A years-long conservation chase ends, giving reintroduced ducks a real chance to thrive.",
+      "summary": "After a three-year chase, conservationists in New Zealand have caught the feral cat that had been killing rare brown teal ducks on the Purerua Peninsula. The cat, nicknamed Nine Lives, evaded traps for years by showing up unpredictably, at all hours and in different spots. Last month it returned to the same place three nights running, giving the team a chance to set cages baited with salmon, fried chicken and rabbit. It worked. The ducks, called p\u0101teke, are down to about 2,000 birds nationwide after decades of decline, so removing one persistent predator matters for a species still rebuilding.",
+      "deeper": "For three years, a large gray tabby outwitted the people trying to protect New Zealand's rarest mainland duck. Every time conservationists released captive-raised p\u0101teke ducklings, the cat found them. Cameras caught him again and again, but he never showed a pattern \u2014 appearing at dusk, then midnight, then not at all for months. Trapper Mike Cadogan said once the cat tasted duck blood, he just kept killing.\n\nThe break came when Nine Lives visited the same spot three nights straight. The team set traps loaded with foods a cat couldn't resist, and this time it worked.\n\nP\u0101teke once numbered in the hundreds of thousands across New Zealand before introduced predators like cats, rats and stoats nearly wiped them out, leaving just 700 birds by the 1990s. Decades of conservation work have brought that number back up to around 2,000, but the species remains fragile.\n\nProject manager Andy Mentor says the case shows how hard feral cats are to remove once they know a landscape well. His team is careful to distinguish feral cats from pets \u2014 it's the wild, unowned cats, of which New Zealand has millions, that pose the threat to native wildlife like this one.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-07-technical-flaws-inflate-australia-forest.html",
+          "tier": 1
+        },
+        {
+          "name": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/factcheck-how-nuclear-gas-wind-and-solar-power-are-affected-during-heatwaves",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/us-news/2026/aug/05/florida-python-hunting-contest-winner-2026",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/nine-lives-a-feral-cat-hunting-rare-ducks-in-new-zealand-has-been-caught-and-killed-after-three-years-180989267/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        8.5,
+        7.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    }
+  },
+  "ledger": 40
+}
