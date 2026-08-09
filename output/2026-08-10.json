@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-10",
+  "stories": {
+    "nature": {
+      "id": "835e1196e1c44da4cdf7",
+      "cluster": "nature",
+      "headline": "Japanese coastal city plants forests as tsunami buffer",
+      "tease": "Communities in Fukushima grow living seawalls, one tree-planting weekend at a time.",
+      "summary": "Volunteers in coastal Japan have planted more than 680,000 trees along the shoreline over the past 14 years, building forest barriers meant to soften the force of tsunamis. The Chinju no Mori Project took its cue from the dense sacred groves that surround Shinto shrines, many of which survived the 2011 tsunami largely intact. Using a planting method that packs many species tightly together, organizers grow fast, sturdy forests that can absorb wave energy and discourage building in risky areas. Research on past tsunamis shows these forests, alongside tall seawalls, can reduce both deaths and damage \u2014 even though most towns still rely on concrete alone.",
+      "deeper": "After the 2011 earthquake and tsunami devastated Japan's Tohoku coast, people noticed something: the forest groves around old Shinto shrines had often survived when everything around them was swept away. Those shrines, it turned out, were usually built on higher ground that past generations had marked as safe, surrounded by trees planted almost like a living wall.\n\nA project called Chinju no Mori took that old wisdom and put it to work, planting hundreds of thousands of trees along the coast \u2014 more than 20 species crowded close together so they compete for light and grow tall fast, with shrubs filling in below. The result is thick, resilient forest that can help absorb a wave's force.\n\nOrganizers like Makoto Shinkawa see it as a return to something communities once knew instinctively. Researchers studying past tsunamis found forests work especially well against smaller waves, while tall seawalls remain more protective against the biggest ones \u2014 so the two together may offer the best defense. Most Japanese towns still lean on concrete alone, but this project is a reminder that nature and engineering can share the job of keeping people safe.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-07-pacific-cloud-brightening-weaken-el.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/in-coastal-japan-one-project-is-planting-forests-to-stand-against-tsunamis/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cm2g1rlkv9ko?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Ars Technica Sci",
+          "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "discovery": {
+      "id": "911c4308b4bf58e1e7db",
+      "cluster": "discovery",
+      "headline": "Fecal transplant shows early promise for food allergy treatment",
+      "tease": "A first-of-its-kind trial suggests gut bacteria transplants could ease severe food allergies.",
+      "summary": "A first trial of fecal transplants to treat food allergy in people has produced results researchers are calling exciting. The approach uses transplanted gut bacteria, rather than drugs, to try to shift how the immune system responds to food. It matters because current treatments for food allergy are limited, leaving many people with few good options for managing or reducing their reactions. This early trial suggests a different route worth exploring further, though it is still the first step.",
+      "deeper": "The idea here is simple: swap in healthy gut bacteria and see if the immune system calms down around food it normally treats as a threat. That's what a fecal transplant does \u2014 it moves bacteria from a donor's gut into someone else's, in hopes those microbes settle in and change how the body reacts.\n\nThis trial tested that idea specifically for food allergy in people, and the early results have researchers describing them as exciting. That word matters because food allergy treatment has not had many breakthroughs. Right now, options are limited \u2014 mostly avoidance, and treatments that manage symptoms rather than address a root cause.\n\nWhat's genuinely new is the target: gut bacteria, not the immune system directly. If tweaking someone's microbiome can dial down an allergic response, that opens a different kind of treatment altogether, one that doesn't rely on daily medication.\n\nIt's still early. This is a first trial, and the source doesn't detail how many people took part or how allergies changed. But it's a real step toward a treatment approach that didn't exist before, for a condition where people badly need more choices.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-east-africa-iconic-peaks-good.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/social-media-images-lead-to-first-recording-of-parasitoid-wasp-species-in-japan/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02440-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        8.0,
+        7.0,
+        10.0,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "4fe836bb19533a79011d",
+      "cluster": "progress",
+      "headline": "Ancient protein boosts cancer immunotherapy in mouse study",
+      "tease": "A billion-year-old protein could help immune therapies defeat resistant tumors.",
+      "summary": "Researchers in Japan found that a protein made right inside tumors, not the version circulating in blood, decides whether cancer immunotherapy works. This protein, called C3, keeps immune-suppressing cells from crowding into the tumor, giving the body's defenses a clearer shot at cancer cells. In mice, cutting blood levels of C3 by 90% barely changed treatment results, but blocking local production inside the tumor made immunotherapy fail. A drug mimicking C3's local effect restored treatment success, even in tumors that had resisted it, and extended survival. Lung cancer patients with more C3 near their tumors also responded better and lived longer.",
+      "deeper": "This protein, called C3, has been part of animal immune systems since long before animals had blood vessels \u2014 even sponges and jellyfish carry versions of it. Scientists knew it circulates in blood and helps fight infections, but its role inside tumors was a mystery. A team at Nagoya University, led by Yuki Miyai, found that C3 made locally by cells surrounding a tumor acts like a gatekeeper: it stops harmful immune cells from moving in and shutting down the body's attack on cancer. Blood levels of C3 turned out not to matter much at all \u2014 only the local supply did. When the researchers used a drug that copied this gatekeeping effect, immunotherapy started working in tumors that had previously resisted it, and treated mice lived longer. Checking lung cancer patients told a similar story: those with more C3 near their tumors responded better to treatment, while none with low local levels responded. The team now wants to find ways to boost C3 inside tumors and figure out the best timing to use it, which could eventually help doctors predict who will benefit from immunotherapy and help others who currently don't.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "3640b1185ef07787776d",
+      "cluster": "animals",
+      "headline": "Nepal's tiger population reaches 429, up from 355 in 2018",
+      "tease": "A conservation effort quietly quadrupled Nepal's wild tigers in just over a decade.",
+      "summary": "Nepal now has an estimated 429 wild tigers in the wild, up from 355 four years ago and nearly four times the number counted 16 years ago. Officials announced the count on World Tiger Day, calling it the result of years of habitat protection, anti-poaching work, and efforts to safeguard the deer and other prey tigers depend on. The growth has been strongest in newer parks like Banke, Parsa, and Shuklaphanta, where conservationists have built ponds and wetlands and worked with India on connecting habitats across the border. Nepal first pledged in 2010 to double its tiger numbers, when it had only 121.",
+      "deeper": "The most interesting clue in this recovery is water, not food. Researchers expected tiger numbers to track prey animals like deer, but that link doesn't hold everywhere. In Bardiya, one of Nepal's oldest parks, the deer population actually grew by nearly three-quarters \u2014 yet tiger numbers there fell. Meanwhile, newer parks with fewer prey have gained tigers steadily. Conservationists think changing river courses have dried out parts of older parks, pushing tigers toward areas where officials have built artificial ponds and wetlands. Invasive weeds spreading through old grasslands may also be squeezing out the grazing land tigers' prey needs. Researcher Santa Raj Jnawali, who grew up near Bardiya, has watched these shifts firsthand and points to water access, weed spread, and cross-border movement with India as the real drivers, more than any change in park management. The recovery is real progress \u2014 Nepal has nearly quadrupled its tiger population in sixteen years \u2014 but it's uneven, and some Bardiya residents worry their local numbers were undercounted. Researchers also flag a new worry: as tigers move into new territory, they may be pushing leopards closer to human settlements.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-wildfires-disposable-bbqs-beaches.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/nepals-newest-national-parks-drive-tiger-recovery-but-new-concerns-arise/",
+          "tier": 2
+        },
+        {
+          "name": "Ars Technica Sci",
+          "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/some-free-roaming-cats-in-new-york-city-are-parasite-super-shedders-study-shows/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.0,
+        8.0,
+        8.0
+      ],
+      "evergreen": false
+    }
+  },
+  "ledger": 50
+}
