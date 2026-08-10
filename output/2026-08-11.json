@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-11",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "a5a4d9a52b08ad9f31fd",
+      "cluster": "discovery",
+      "headline": "Scientists create full-color night vision goggles",
+      "tease": "A clever twist turns invisible infrared light into vivid, true colors at night.",
+      "summary": "A team at the Beijing Institute of Technology has built night vision goggles that show infrared light in full color, not just the familiar green glow. Standard night vision only shows brightness, warmer things look a bit brighter, cooler things a bit dimmer, all in one color. The new device uses tiny light-absorbing particles paired with a special screen that shifts from red to cyan depending on the wavelength and strength of incoming infrared light. That gives wearers far finer detail than brightness alone can offer. The team tested it on a lightweight eyeglass, and even showed the technology could trigger responses in mouse and human eyes.",
+      "deeper": "The interesting part isn't that scientists made infrared visible, that's old news. It's that they made it colorful in a way that actually carries information. Old night vision goggles turn heat into shades of green: brighter for warm, dimmer for cool. But our eyes are much better at telling colors apart than brightness levels, so most of that visual sharpness goes to waste.\n\nThe Chinese researchers, led by Xin Tang and Ge Mu, built a detector using extremely small particles that respond differently depending on the exact wavelength of infrared light hitting them. Paired with a screen that shifts between red and cyan light depending on how many charge carriers arrive, the device effectively translates infrared wavelength and intensity into color and brightness together, much closer to how natural vision works.\n\nThey tested a lightweight, see-through eyeglass version that produced sharp, color-coded infrared images, and even showed the light could trigger real responses in mouse brains and human eyes, hinting at future use in vision aids. The researchers are careful to note it's early days: everything so far has been tested under controlled lab conditions, not messy real-world scenes, and the device still needs an external power source.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Ars Technica Sci",
+          "url": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Science",
+          "url": "https://www.theguardian.com/science/audio/2026/aug/04/wildlife-trusts-fight-to-save-historic-english-landscape-podcast",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/05/pakistani-authorities-ban-international-media-from-reporting-in-most-of-country",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/07/minns-said-he-wouldnt-gloat-about-icac-hearings-into-the-liberals-instead-hes-quietly-taken-out-the-trash",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        8.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "7450379cffad8762d736",
+      "cluster": "progress",
+      "headline": "Bangladesh turns banana stem waste into fiber products",
+      "tease": "Farmers are finding new profit in what used to be discarded banana stems.",
+      "summary": "In Bangladesh, farmers and small entrepreneurs are turning banana stems left over after harvest into fiber for sarees, bags, mats, and handicrafts. The stems were once discarded, but the fiber inside them is strong, soft, and biodegradable. A recent study found the country could produce nearly 38,000 tons of banana fiber a year, worth more than $94 million in exports, well above what it earns from exports today. Entrepreneurs across the country are building small workshops, training networks of home-based workers, and finding buyers abroad, turning agricultural waste into a growing source of income.",
+      "deeper": "Bananas are everywhere in Bangladesh, but until recently, the stems left behind after harvest were just waste. Now people are pulling fiber out of those stems and turning it into cloth, baskets, and rope. The fiber itself is notable: silky and strong on the inside, tougher and coarser near the outer layers, and useful for everything from sarees to sanitary pads.\n\nParveen Akhter, who collects stems from nearby orchards, sells the fiber she processes to export buyers. Md Hafijul Islam, who builds and sells fiber-extraction machines, got the idea after watching videos from China and India. He now supports over a thousand women who braid fiber at home for extra income, and he buys back fiber from entrepreneurs for years after they buy his machines.\n\nEven what's left after the fiber is pulled out doesn't go to waste \u2014 it can become compost, another possible source of income. Researcher Rojina Akter, who studied the sector, says the potential is real, but it depends on the government and textile industry paying attention. What's happening now, entrepreneur by entrepreneur, machine by machine, is a small industry finding its footing from something that used to just rot in the fields.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223420.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02437-0",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-germany-rhine-river-threatens-economy.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10879-9",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        8.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "eb94e19ac579747b0afb",
+      "cluster": "animals",
+      "headline": "Rescued orangutans establish new wild population in Sumatra reserve",
+      "tease": "A once-empty forest now hosts a growing orangutan population built from rescued animals.",
+      "summary": "Fifteen years ago, a forest in Sumatra's Jantho reserve had no orangutans at all. Now it's home to a wild, growing population, almost entirely made up of rescued animals given a second chance. Since 2011, conservationists have brought nearly 200 orangutans there after rescuing them from the illegal wildlife trade or relocating them from areas where deforestation had put them in conflict with people. At least 10 orangutans have now been born in the reserve, a sign the forest is becoming self-sustaining. Protecting it means safeguarding the surrounding forests and rivers that both the apes and local communities depend on.",
+      "deeper": "What's striking about Jantho isn't just that orangutans live there now \u2014 it's that none of them started out belonging there. Every animal in this forest either came from a rescue after being caught in the illegal pet trade, or was moved after losing its home to logging and farmland. Bringing them back to the wild isn't quick. Some had to relearn basic survival skills they'd normally pick up from their mothers. Others simply had to adjust to a new, unfamiliar forest.\n\nWhat tells conservationists it's working isn't a headcount of releases \u2014 it's births. At least ten orangutans have been born in Jantho since the project began, with possibly more hidden in the dense canopy. Births mean the population isn't just surviving on human effort anymore; it's starting to sustain itself.\n\nBut the story isn't finished. Like other protected forests in the region, Jantho is under pressure from human activity creeping in at its edges. Keeping this population going will mean protecting the wider forest and rivers it depends on \u2014 not just the animals inside it.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/video/2026/08/how-rescued-orangutans-are-rebuilding-a-new-wild-population-in-sumatra/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582931-canadian-wildfires-are-reducing-solar-power-generation-in-europe/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Science",
+          "url": "https://www.theguardian.com/society/2026/aug/05/midlife-health-factors-delay-dementia-study",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cj4kqkxdxkdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        8.5,
+        8.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    }
+  },
+  "ledger": 61
+}
