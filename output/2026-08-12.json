@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-12",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "09d9fe6438766f2c62a9",
+      "cluster": "discovery",
+      "headline": "NASA engineers extend Voyager 2's power supply by a year",
+      "tease": "Clever power management keeps a nearly 50-year-old spacecraft exploring deep space longer.",
+      "summary": "NASA engineers have bought Voyager 2 another year of scientific life by rewiring how the nearly 50-year-old spacecraft uses its dwindling power. The team at the Jet Propulsion Laboratory shut down certain systems and swapped in others that sip less energy, while keeping the craft warm enough to keep working. Voyager 2 runs on decaying plutonium, which yields about 4 fewer watts each year, forcing controllers to retire instruments over time. This fix, nicknamed the 'Big Bang' plan, means the probe's three remaining instruments can keep gathering data instead of going dark before the end of 2026. NASA plans a similar fix for Voyager 1.",
+      "deeper": "Voyager 2 has been flying for nearly 50 years, and its power source, a chunk of decaying plutonium, has been fading a little every year. To keep the spacecraft's remaining instruments running, engineers at NASA's Jet Propulsion Laboratory had to get creative. They found ways to switch off some power-hungry systems and replace them with leaner alternatives, all while making sure the spacecraft stayed warm enough to keep functioning in deep space.\n\nIt was a nervy job. Project manager Suzanne Dodd pointed out there were 'no do-overs' if something went wrong flipping switches on systems that deeply intertwined with the spacecraft's core functions, which is partly why the team started calling the plan their 'Big Bang.'\n\nThe payoff: Voyager 2's three remaining science instruments should now keep working for at least another year, rather than losing one before 2026 ends. Dodd described the tradeoffs simply, saying every watt saved is a choice about what we still get to learn from so far away. NASA now plans to try the same fix on Voyager 1, which is even farther from home.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/confused-about-carbon-capture-experts-explain-why-we-need-different-types-284679",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cyvl881jeveo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Science",
+          "url": "https://www.theguardian.com/science/2026/aug/03/did-you-solve-it-are-you-a-match-for-the-worlds-smartest-teen",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        8.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "a3701a20150e13bd0d94",
+      "cluster": "progress",
+      "headline": "Urban canals lower nearby temperatures during heat waves",
+      "tease": "Manchester researchers find city canals cool surrounding air by over 2\u00b0C.",
+      "summary": "Canals running through cities can cool the air around them by more than 2\u00b0C during heat waves, according to new research from The University of Manchester. The cooling comes from the water itself, which stays cooler than the streets and buildings around it and helps bring down the temperature of the surrounding air. It's a simple, low-cost way to ease the worst of urban heat, using infrastructure that many cities already have. As heat waves become a bigger part of city life, this points to a practical tool planners can lean on without building anything new.",
+      "deeper": "Cities get hot in ways that open countryside doesn't \u2014 concrete and asphalt soak up heat all day and release it slowly, keeping streets warm long after the sun goes down. Researchers at The University of Manchester looked at the canals that run through many old industrial cities and found they quietly push back against this. During heat waves, the water near these canals stayed noticeably cooler, by more than 2\u00b0C, than areas without them.\n\nThe idea is simple: water heats up and cools down more slowly than stone or tarmac, so a canal acts like a steady, cool patch in an otherwise overheated landscape. That coolness spreads a little into the air nearby, giving people living or working close to canals some relief during the hottest days.\n\nIt's a modest effect, but a useful one, especially because canals already exist in many cities and don't need to be built from scratch. As heat waves grow more common, this research suggests that looking after and opening up access to existing waterways could be a straightforward way to make cities a bit more bearable in summer.",
+      "scene": "sun",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02289-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        6.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "47d8ef99444ff87178cb",
+      "cluster": "animals",
+      "headline": "Detection dogs help scientists study rare, elusive species",
+      "tease": "Trained dogs sniff out scat, opening a window into secretive wildlife like black-footed cats and pangolins.",
+      "summary": "In South Africa's Karoo, two German Shorthaired Pointers named Lyka and Sebala are sniffing out scat from some of the region's hardest-to-study animals, including black-footed cats and Temminck's pangolins. Working with conservation biologist Michelle Schroeder, the dogs have found hundreds of samples in months, work that took a human researcher over a year to match on her own. Each scat carries genetic clues about an animal's sex, health, diet, and relationships to others nearby. That data is helping scientists estimate population sizes, track gene flow across the landscape, and even flag habitats worth protecting from development.",
+      "deeper": "Some animals are just hard to see. Black-footed cats hide in burrows by day and leave droppings almost anywhere, with no pattern to follow. Pangolins are nocturnal, camouflaged, and their droppings vanish within a day or two. So researchers turned to dogs, whose noses can pick up what humans simply can't.\n\nMichelle Schroeder's dogs, Lyka and Sebala, found in a few months what she'd spent over a year searching for alone. Each dropping they find holds what she calls \"nuggets of genetic data\" \u2014 enough to tell researchers an animal's sex, sometimes its identity, and how populations connect across the landscape. Early results from the Karoo suggest black-footed cats there still have healthy genetic diversity and can move freely between areas, though researchers caution this may not hold everywhere.\n\nThe same approach is helping protect riverine rabbits, too. When dogs and camera traps confirmed rabbits were living in land proposed for wind-energy projects, it gave conservationists solid evidence to push back on development in sensitive habitat.\n\nThe work isn't glamorous, and funding is tight \u2014 a pangolin tracking project stalled this year for lack of money. But for Schroeder and her colleagues, the dogs are more than tools. They're partners who, when the fieldwork ends, get to just be dogs again.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02398-4",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02429-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 73
+}
