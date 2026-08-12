@@ -1,0 +1,201 @@
+{
+  "date": "2026-08-13",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "27a2f51dd00476ff3c49",
+      "cluster": "discovery",
+      "headline": "Vaccine strategy guides immune cells toward HIV antibodies",
+      "tease": "Primate studies show a promising path toward vaccines that neutralize diverse HIV strains.",
+      "summary": "Three new studies show vaccines can steer the immune system toward making antibodies that work against many strains of HIV. Researchers designed the vaccines to seek out and prime a rare group of immune cells called B cells, coaxing them to produce these broadly effective antibodies. The work was done in non-human primates rather than humans, but it points to a workable strategy for a problem that has stalled HIV vaccine research for years: getting the immune system to make the right kind of antibody in the first place.",
+      "deeper": "HIV is hard to vaccinate against because it mutates so much that antibodies against one strain often don't work against another. Scientists have long wanted to trigger antibodies that can hit many strains at once, called broadly neutralizing antibodies. The catch is that only a small, rare set of immune cells, called B cells, has the potential to make them.\n\nWhat these three studies show is that a carefully designed vaccine can find those rare cells and nudge them along the right path, step by step, toward producing the broad antibodies. Instead of hoping the immune system stumbles onto the answer, the vaccine strategy guides it there.\n\nThe work was done in monkeys, not people, so there's a gap between this and a usable human vaccine. But it's a meaningful proof that the approach can work at all, which matters after decades where an HIV vaccine has been one of the hardest goals in medicine. It gives researchers a clearer path to follow next.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02334-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10977-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.5,
+        8.0,
+        8.0,
+        10.0,
+        9.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "d7288966dd0d2542a209",
+      "cluster": "progress",
+      "headline": "Indigenous women lead forest restoration in Kenya's Mau",
+      "tease": "See how Indigenous women are regreening Kenya's Mau Forest while reshaping their communities' gender roles.",
+      "summary": "In Kenya's Mau Forest, a network of Indigenous women's groups is restoring degraded land while building incomes and influence at home. The Paran Women Group, started in 2005, now links 64 groups of Maasai, Ogiek and other communities through tree nurseries, kitchen gardens, savings groups and beekeeping. Women who once depended entirely on husbands for money now earn their own, and families increasingly make decisions together rather than leaving them to men alone. Research backs the approach: restoration efforts that deliberately address unequal gender roles tend to improve both women's standing and long-term conservation results.",
+      "deeper": "Judy Mukut's day starts before dawn with chores, then continues at a resource center where she helps restore the Mau Forest. It's a full life, but she says organizing her time has taught her something bigger: her contribution matters, and she doesn't have to wait for others to decide things for her.\n\nThat shift shows up across the Paran network. Nancy Letina became her family's sole provider after her husband died, and joining a women's group gave her the skills and income to support her children herself. Her group has since grown and sold over 10,000 native tree seedlings. Small weekly savings let women borrow money for emergencies without cutting down trees for charcoal \u2014 protecting both their families and the forest.\n\nWomen also say the forest's recovery has brought cleaner water and steadier rain, though researchers note that confirming this needs more long-term data. Meanwhile, herbal practitioner Ntoiye Kimorgo encourages members to plant medicinal trees, keeping alive knowledge passed down from their grandparents. For these women, restoring the forest and reclaiming a voice at home have become the same project.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-aging-microplastics-environmental-contaminants.html",
+          "tier": 1
+        },
+        {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/smart-clothes-will-soon-be-on-sale-but-regulations-are-needed-to-prevent-a-new-waste-mountain-287269",
+          "tier": 2
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-siberia-methane-threat-offset-global.html",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        8.0,
+        7.5,
+        8.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "c40e2c1bc3721ce20297",
+      "cluster": "animals",
+      "headline": "Kazakhstan reintroduces tigers after 70-year absence",
+      "tease": "A decade-long conservation plan just released the first tiger back into Kazakhstan's wild.",
+      "summary": "A tiger named Umit \u2014 Kazakh for hope \u2014 was released into a nature reserve by Lake Balkhash on 31 July, the first step in bringing tigers back to Kazakhstan after 70 years without them. The caspian tiger once roamed the region but was declared extinct decades ago. Scientists later found it was genetically almost identical to the amur tiger of eastern Russia, which made this reintroduction possible. Umit, wild-caught in Russia, will be joined by a male and two cubs over time, with the goal of a self-sustaining population of about 50 tigers living on wild boar, deer and kulans.",
+      "deeper": "For decades, the caspian tiger was a ghost \u2014 hunted, pushed out of its forests, and declared extinct in 2003. But a genetic study found something surprising: this tiger wasn't really a separate species. It was nearly identical to the amur tiger still living in Russia's far east, just separated by hunting and time. That discovery meant conservationists could, in effect, bring the caspian tiger back using its closest living relative.\n\nSo on a summer day in Kazakhstan, a wild female tiger called Umit walked into a reserve by Lake Balkhash, flown in rather than having migrated on foot, as her ancestors once did. A male and two cubs, raised with as little human contact as possible, are expected to follow.\n\nTigers elsewhere in Russia have adapted quickly after similar releases, hunting within days of being set free. But experts are careful to note this only works if there's enough prey and habitat waiting for them. Wild tiger numbers worldwide have fallen sharply over the past century, so this is one small, hopeful test of whether a lost population can be coaxed back to life.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/david-page-wrote-about-the-mountains-and-worked-to-protect-them/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/sponsored/this-fall-discover-williamsburgs-one-of-a-kind-haunted-history-180989117/",
+          "tier": 2
+        },
+        {
+          "name": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/over-100-refill-stations-for-home-laundry-cleaners-to-open-across-singapore-at-30-discount/",
+          "tier": 3
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/us-news/2026/aug/06/washington-state-wildfires",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        8.0,
+        9.0,
+        9.0,
+        9.0,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "space": {
+      "id": "6e69f58e5091c71eca0a",
+      "cluster": "space",
+      "headline": "NASA finishes first astronaut-deployed lunar science instrument",
+      "tease": "A seismic monitoring station built for the Moon's South Pole is finally ready to fly.",
+      "summary": "NASA engineers have finished building the first science instrument designed for Artemis astronauts to set up on the Moon. The suitcase-sized device, called LEMS, holds two sensitive seismometers that will track moonquakes and meteorite impacts near the lunar South Pole. It's now complete and waiting in a clean room at NASA Goddard until it's assigned to a mission. The instrument's modular design means new tools can be added later, so it can grow alongside future science needs. It picks up where Apollo-era seismometers left off, which recorded about 13,000 moonquakes between 1969 and 1977 before going silent.",
+      "deeper": "Think of LEMS as a stethoscope for the Moon. Once astronauts place it near the lunar South Pole, it will listen for tiny shakes in the ground \u2014 moonquakes, and the thuds of small meteorites hitting the surface. Scientists can use those vibrations to figure out what the Moon is made of on the inside, the same way doctors use sound to understand what's happening inside a body.\n\nThe last time anyone did this was during Apollo, when astronauts left seismometers running from 1969 to 1977. Those instruments picked up thousands of quakes and gave scientists their first real picture of the Moon's interior. LEMS picks up that thread decades later, and it's built to last: its modular design means new instruments can be bolted on as needs change, rather than starting from scratch each time.\n\nFor now, the finished hardware sits in a clean room at NASA Goddard, waiting for a mission assignment. NASA officials describe it as a step toward understanding not just the Moon's history, but the practical hazards \u2014 like ground shaking \u2014 that future astronauts living and working there will need to know about.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_July_2026",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        6.5,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": false
+    }
+  },
+  "ledger": 85
+}
