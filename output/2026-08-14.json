@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-14",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "5b823054099436c74018",
+      "cluster": "discovery",
+      "headline": "Scientists Recover DNA from Ancient Parchment Without Damage",
+      "tease": "A new method turns centuries-old manuscripts into genetic time capsules of history.",
+      "summary": "Researchers have found a way to pull genetic material from centuries-old parchment without harming the document itself. By gently rubbing the surface with a dry brush, the same kind used for medical Pap smears, they can lift cellular traces left behind when the animal skin was first made. Tested on 91 manuscripts at Duke University, from England to Ethiopia, dating as far back as the late 700s, the method opens up parchment as a source of DNA. That genetic information could reveal where and when documents were made, and how farm animals and their diseases changed over centuries.",
+      "deeper": "Parchment is made from animal skin, and skin holds onto tiny traces of the animal it came from, cells caught in fibers, sometimes for well over a thousand years. Getting at that DNA used to mean risking damage to rare manuscripts, which made libraries understandably reluctant to let researchers near their collections.\n\nThe new approach solves that. Scientists simply brush the parchment's surface with a dry cytology brush, the same tool doctors use for cervical screenings, then extract whatever cells it picks up. No cutting, no soaking, no harm to the page.\n\nTim Stinson, an English professor involved in the work, says the appeal is straightforward: parchment carries genetic clues alongside its written text, clues that can point to when and where a document was made. His colleague Matthew Breen, a geneticist, is especially interested in what centuries of animal-skin records could show about the history of livestock, how breeds formed, how diseases spread among farm animals over generations.\n\nThe researchers hope that proving the method is safe will build trust with the institutions that guard these old documents, opening access to what they see as a largely untapped archive, one that could let genetics and history inform each other in new ways.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02358-y",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080911.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10843-7",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "057432f42819b29879f3",
+      "cluster": "progress",
+      "headline": "Peat restoration cuts wildfire risk in Indonesia's forests",
+      "tease": "Rewetting degraded peatlands is helping Indonesia curb devastating tropical forest fires.",
+      "summary": "Restoring damaged peatland in Indonesia has cut the risk of wildfires tearing through the country's tropical forests. Peatlands hold huge amounts of water when healthy, so bringing them back to a wetter, more natural state makes the ground far less likely to catch and carry fire. That matters because peatland fires threaten habitats, wildlife and people, and the danger grows worse during Indonesia's El Ni\u00f1o years, when long droughts dry out the land. Rewetting and repairing these peat areas gives the forest a buffer against that seasonal risk, protecting both the ecosystem and the communities living nearby.",
+      "deeper": "Peat is basically waterlogged, spongy ground built up over centuries from decaying plants. Left alone, it stays wet and doesn't burn easily. But when peatland is drained, for farming or development, it dries out and turns into fuel. Once dry, it can smoulder and burn for weeks, sending thick smoke over huge areas.\n\nIn Indonesia, this problem gets worse during El Ni\u00f1o years, when the weather turns unusually dry for long stretches. Restoring peatland means blocking drainage channels and letting the water table rise again, returning the ground to its naturally soggy state.\n\nThe encouraging part is that this simple act of rewetting the land measurably lowers fire risk. It's not a high-tech fix. It's closer to undoing damage that was done in the first place, and letting the landscape do what it did for thousands of years before it was drained.\n\nFor the people who live near these forests, and for the wildlife that depends on them, that means fewer of the smoke-filled seasons that peatland fires have brought in the past. It's a reminder that some of the best defences against future disasters are simply repairing what was broken.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042818.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-coastal-storm-conditions-frequent-jersey.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10863-3",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.5,
+        8.5,
+        8.5,
+        9.0,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "fc62a2c795dbdd33300f",
+      "cluster": "animals",
+      "headline": "New deed protects Papua New Guinea's tree kangaroo forests",
+      "tease": "Local leaders signed a landmark agreement safeguarding rainforest, wildlife, and communities together.",
+      "summary": "On June 30, 266 clan leaders from 41 villages in Papua New Guinea's Torricelli Mountains signed a legally binding conservation deed protecting more than 125,000 hectares of rainforest, home to the critically endangered tenkile and weimang tree kangaroos. The deed, built through two years of community consultation, bans commercial logging, mining, and hunting of threatened species, and renews every five years. It came after decades of stalled efforts to secure official government protection left communities exposed to logging pressure. Because conservation deeds rely on PNG's customary land laws, they've held up in court before, giving the people of the Torricellis a real legal shield they helped design themselves.",
+      "deeper": "For over 20 years, the Tenkile Conservation Alliance worked with villages in Papua New Guinea's Torricelli Mountains to protect their forests and the tree kangaroos living there. Government efforts to formally designate the area a protected zone kept stalling, while loggers kept pressing in. So the group tried something else: a conservation deed, a contract that clan leaders write and agree to themselves, using land rights already recognized under PNG law.\n\nIt took two years of conversations across 41 villages before 266 clan leaders signed on a hilltop, followed by celebration, dancing and song. The deed bans logging, mining and hunting of threatened species, and it renews every five years. Similar deeds elsewhere in PNG have already survived court challenges, giving people real legal ground to stand on against loggers.\n\nThe effort has already paid off for the tenkile tree kangaroo, whose numbers have roughly tripled since local hunting bans began years ago. Now the alliance hopes the deed does the same for the forest itself \u2014 and plans to use it as a model for protecting other threatened areas nearby.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-el-nino-adding-fuel-planet.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/new-conservation-deed-aims-to-protect-tree-kangaroos-forests-people-in-papua-new-guinea/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/cn8n19wz4e6o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/this-marine-life-mosaic-discovered-near-the-colosseum-offers-a-surprising-clue-its-building-may-have-housed-firefighters-in-ancient-rome-180989273/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.5,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 97
+}
