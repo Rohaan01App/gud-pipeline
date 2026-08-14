@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-15",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "da3e9472ceb2217fbd9a",
+      "cluster": "discovery",
+      "headline": "Gene therapy restores memory function in mouse brain disorder model",
+      "tease": "Restoring one protein in brain cells eased seizures and boosted memory in mice.",
+      "summary": "Scientists have used gene therapy to restore memory in mice with a neurodevelopmental disorder. By adding back a single gene, Meis2, to a type of brain cell that helps regulate neural circuits, researchers rescued the brain's ability to learn from experience. Treated mice showed better memory, calmer brain activity, and fewer seizures. The approach targets a specific class of inhibitory neurons known to misfire in these disorders, restoring their normal function rather than just masking symptoms. It's early work, done in mice, but it points to a possible way to treat the root cause of some neurodevelopmental conditions rather than only managing their effects.",
+      "deeper": "The brain relies on certain cells to act like brakes, keeping activity balanced so circuits can learn and adapt. In some neurodevelopmental disorders, these brake cells stop working properly, and that seems to contribute to memory problems and seizures.\n\nResearchers found that restoring a single gene, called Meis2, in these cells could bring back their normal function in adult mice. The treated mice regained the kind of brain flexibility needed to learn from new experiences, performed better on memory tasks, showed steadier brain network activity, and had fewer seizures.\n\nWhat's notable is the timing: this wasn't a fix applied early in development, but one that worked in the adult brain, after problems had already set in. That suggests these circuits aren't permanently locked in a faulty state \u2014 they can potentially be corrected later in life.\n\nThe work was done in mice, so it's a long way from a human treatment. But it offers a proof of concept: that some of the memory and seizure problems seen in neurodevelopmental disorders might be reversible, not just manageable, if the right cellular switch is flipped back on.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223424.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02389-5",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801093740.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10822-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "8b83e66b94aa1ab36aed",
+      "cluster": "progress",
+      "headline": "Scientists track wildfire recovery with drones and sensors",
+      "tease": "Researchers built a system to follow ecosystems from controlled burns to long-term regrowth.",
+      "summary": "Scientists north of Reno are tracking exactly how land bounces back after fire, using controlled burns watched over by dozens of ground sensors and three large drones. The drones follow the smoke and heat in real time, while sensors record what happens on the ground, giving researchers a detailed, ongoing picture from the moment flames spread through to long-term recovery. This matters because it turns wildfire recovery from a guess into something measurable, step by step, as ecosystems regrow after burning.",
+      "deeper": "Picture a clear fall day in the desert outside Reno. A team in yellow safety coats sets a small, controlled fire on purpose, in grass and brush, so they can study it closely. Overhead, three large drones track the smoke as it curls and drifts. On the ground, dozens of sensors quietly record what the fire touches and how the land responds afterward.\n\nThe idea is simple: instead of studying a wildfire after the fact, watch the whole story unfold, from first flame to years of regrowth. That gives scientists a much clearer picture of how ecosystems actually recover, rather than piecing it together from scattered evidence later.\n\nIt's careful, patient work, done at a small scale so nothing gets out of control. But the payoff could be a better understanding of what helps land heal after fire, and what slows it down. That kind of knowledge matters more each year, as controlled burns and wildfire recovery become a bigger part of how landscapes are managed.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-summer-isnt-el-nino-scientists.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/in-manilas-shadow-a-forest-refuge-still-shelters-rare-plants/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02327-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        7.5,
+        9.0,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "94c74ed486e940c4f2a7",
+      "cluster": "animals",
+      "headline": "Undersea Internet Cables Can Now Track Whale Movements",
+      "tease": "Scientists found a clever way to monitor whales using cables already crossing the ocean floor.",
+      "summary": "Scientists in Norway have found a new way to track whales deep underwater, using the same fiber-optic cables that carry the world's internet traffic. A blue whale's movement through the water creates faint low-frequency waves that stretch the glass cable buried on the seafloor, and researchers can detect this tiny disturbance from onshore, even when the whale makes no sound at all. Until now, tracking silent, diving whales required suction tags that often fall off quickly. This method could let researchers watch whale behavior at depth for the first time, and help track populations that matter for shipping routes, ocean industry, and whale recovery efforts.",
+      "deeper": "Whales are hard to study once they leave the surface. Researchers usually rely on sound, using underwater microphones to catch their calls, or suction tags that stick to the whale's skin and often fall off within days. This new approach sidesteps both problems by listening to the whale's swimming itself.\n\nA blue whale is so large that simply moving through water pushes out faint waves, the same way a stone dropped in a pond sends ripples outward. Those waves reach the seafloor and stretch buried fiber-optic cables by a tiny amount. Lasers sent down the cable pick up that stretch as a signal. The team, led by geophysicist Martin Landr\u00f8, confirmed a blue whale near a cable off Svalbard by first hearing it call at the surface, then watching the same kind of disturbance as it dove silently.\n\nThe method borrows a century-old physics equation originally used to study collapsing bubbles, applied here to a very different scale. Researchers say it could reveal what whales do during deep dives, including species that feed on the seafloor, and help scientists track whale numbers as populations recover from whaling.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/as-indonesias-new-capital-rises-the-sounds-of-borneos-rainforest-are-changing/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2583176-the-best-new-popular-science-books-of-august-2026/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Science",
+          "url": "https://www.theguardian.com/science/2026/aug/05/gene-editing-allergies-beagles",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/c1e145p5xw5o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    }
+  },
+  "ledger": 108
+}
