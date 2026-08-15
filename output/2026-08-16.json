@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-16",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "0fb70e858bdd0fa0e981",
+      "cluster": "discovery",
+      "headline": "Biomarkers identified for immunotherapy benefit in lung cancer trial",
+      "tease": "Researchers pinpoint who benefits most from a promising lung cancer treatment, guided by new biomarker evidence.",
+      "summary": "Researchers have identified biomarkers that help predict which lung cancer patients will benefit most from a treatment given before and after surgery. Using data from participants in a large clinical trial, the team found signals in patients' tumors linked to how well they responded to the immunotherapy drug nivolumab alongside surgery. Knowing these markers in advance could let doctors identify who is likely to benefit most from this approach, rather than treating everyone the same way. It's a step toward more tailored care for people with operable non-small cell lung cancer, the most common form of the disease.",
+      "deeper": "When someone has lung cancer that can be removed with surgery, doctors sometimes give immunotherapy before and after the operation to improve the odds of success. But this treatment doesn't work equally well for everyone. Scientists looked at data from patients who took part in a major trial testing this combined approach and searched for clues in their tumors that could explain why some people responded better than others.\n\nThey found specific markers that seem to line up with treatment benefit. That matters because right now, doctors often can't tell in advance who's likely to do well on immunotherapy and who might need a different plan. Being able to spot these signals early could help match patients to the treatments most likely to help them, sparing others unnecessary side effects from a therapy less likely to work for their particular cancer.\n\nThis is still early, findings from one trial's participants, and more research will be needed before it changes standard practice. But it points toward a future where lung cancer treatment is chosen based on what a person's tumor looks like, not just guesswork.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223428.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-microplastic-businesses-urged.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10885-x",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.5,
+        7.5,
+        8.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "6aca25f59009490a90c3",
+      "cluster": "progress",
+      "headline": "New framework helps reservoirs use weather forecasts better",
+      "tease": "A transferable tool could help water managers balance droughts and storms more effectively.",
+      "summary": "Researchers have built a framework that helps reservoir managers make better use of weather forecasts when deciding how much water to hold back or release. It's designed to be transferable, so it can be applied across different watersheds rather than built fresh for each one. The work responds to a real challenge on the U.S. West Coast, where reservoirs must handle both long droughts and sudden atmospheric river storms. Better use of forecasts means water systems can be tuned to the weather actually coming, rather than relying on fixed rules built for an average year that no longer fits.",
+      "deeper": "Reservoirs have always had to guess. Hold too much water back and you risk overflow when a big storm hits. Release too much and you risk running dry in a drought. Scientists have been working on a tool that helps reservoir managers use weather forecasts more effectively when making that call, so operations can shift with the forecast instead of sticking to fixed seasonal rules.\n\nThe idea came out of a real problem: the U.S. West Coast swings between long dry spells and intense atmospheric river storms, sometimes in the same year. A one-size-fits-all approach to reservoir operations struggles with that kind of swing. What makes this framework notable is that it's built to be transferable \u2014 usable across different watersheds, not just the one it was tested on.\n\nIt's a quiet, practical kind of progress. No new dam, no new technology, just a better way of using information that already exists \u2014 forecasts \u2014 to run existing infrastructure more sensibly. As extreme weather becomes more common, tools like this help critical systems like water supplies adapt with what they have, rather than waiting for bigger, costlier fixes.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051531.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-social-tackle-climate.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/what-happens-after-a-whale-strands-on-a-mumbai-beach/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02438-z",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "9962ad1f072fab631ee8",
+      "cluster": "animals",
+      "headline": "Colombian village shifts from killing condors to protecting them",
+      "tease": "A once-hostile community now works to save the Andean condor from extinction.",
+      "summary": "In a high village in the Colombian Andes, sheepherders who once poisoned or shot condors are now their protectors. Doris Torres, who grew up blaming the birds for livestock deaths, helped lead a shift toward coexistence with conservationist Fernando Castro. The community built better pens, added roofing, and fenced pastures so predators like foxes take the blame instead of condors. Villagers also learned that condors lack the claws to kill livestock. Condors now soar over the p\u00e1ramo again, juveniles are appearing, and the village is preparing to release captive-bred birds raised without human contact, aiming for at least three by 2027.",
+      "deeper": "For years, condors were feared here, blamed for dead sheep and tied to old stories about witches and bad luck. Doris Torres grew up hearing those stories. But as she learned more about the birds \u2014 that they scavenge rather than hunt, and can't actually grip or kill livestock \u2014 she began to see them differently. Working with conservationist Fernando Castro, she and her neighbors started fixing the real problems: better pens, sturdier roofing, fenced pastures, so foxes and other true predators were kept out instead. Slowly, trust replaced blame. Now condors are a common sight, and young birds have started appearing, a sign they're breeding in the area again. The village is also getting ready to welcome condors raised in captivity in Bogot\u00e1, where keepers use puppets shaped like condors to feed chicks without them getting used to people, so they'll survive in the wild. It's slow, careful work, but for Torres, watching condors fly free again is proof that a community once at war with an animal can become its protector.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-sea-ice-combines-arctic-clouds.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climate-driven-greening-reshaping-east.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10864-2",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        8.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    }
+  },
+  "ledger": 119
+}
