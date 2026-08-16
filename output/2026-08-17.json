@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-17",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "5ca9ee510986e89c7d04",
+      "cluster": "discovery",
+      "headline": "Researchers identify brain rhythm linked to Parkinson's therapy success",
+      "tease": "A newly found brain rhythm could help doctors fine-tune deep brain stimulation for Parkinson's.",
+      "summary": "Scientists have pinned down why a Parkinson's treatment works so well for many patients, and the answer is a specific brain rhythm. Deep brain stimulation, which uses implanted electrodes to calm movement problems, seems to succeed by activating a network that communicates through a fairly fast electrical pulse. Researchers from Cologne, D\u00fcsseldorf, Harvard and Charit\u00e9 Berlin studied fifty patients, tracking both where in the brain this activity happens and its exact timing together for the first time. The strength of this rhythm lined up with how much each patient's symptoms improved. The discovery could help doctors fine-tune stimulation settings for people who haven't yet had the best results.",
+      "deeper": "For years, doctors have known deep brain stimulation helps many people with Parkinson's, without fully understanding why. Some studies mapped where in the brain to stimulate. Others measured the electrical patterns involved. Nobody had combined both at once, until now.\n\nThe team, led by Andreas Horn with first author Bahne Bahners, recorded brain activity directly through patients' implanted electrodes alongside external brain scans. They found a connection between deep brain structures and the front of the brain that runs on a distinctive, comparatively fast rhythm. Patients whose brains showed a stronger version of this rhythm tended to see greater improvement in their movement symptoms after treatment.\n\nThe researchers describe this rhythm as something like a communication channel, carrying the therapeutic signal between brain regions. It's a small but meaningful piece of the puzzle: knowing which network and which rhythm matters could let doctors adjust stimulation more precisely, especially for patients who haven't responded as well as hoped. The team now wants to test more directly whether changing stimulation actually changes this rhythm and, in turn, symptoms. That work is still underway.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10921-w",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02252-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034645.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02460-1",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "3502a325f15e4a06d2c4",
+      "cluster": "progress",
+      "headline": "Radiation-blocking vest tested successfully on Artemis I mission",
+      "tease": "A wearable shield flew astronauts' radiation risk down on its trip around the Moon.",
+      "summary": "A wearable vest designed to protect astronauts from radiation flew to the Moon and back on NASA's Artemis I mission, and data from the trip shows it works. Made by StemRad, the vest doesn't cover the whole body \u2014 it focuses on the hips, stomach and reproductive organs, tissues most vulnerable to radiation damage. Tests using instrumented dummies aboard the uncrewed flight showed the vest could cut radiation exposure by 40 to 60 percent during a major solar storm, performing about as well as a spacecraft's heavily shielded shelter. Unlike that shelter, though, astronauts wearing the vest could keep moving and working during an emergency.",
+      "deeper": "For years, people assumed protecting astronauts from radiation meant wrapping them in something like medieval armor. StemRad's engineers, led by Jordan Houri and Oren Milstein, found a smarter shortcut: the body isn't equally vulnerable everywhere. Bone marrow, where blood cells are made, is especially sensitive, so shielding just the hips and a few other organs can meaningfully cut cancer risk without adding much weight \u2014 every gram matters on a spacecraft. The vest is built from thousands of tiny plastic rods packed between fabric layers, which makes it flexible enough to move in while still blocking particles effectively.\n\nTo prove it worked, StemRad sent two instrumented mannequins, nicknamed Helga and Zohar, around the Moon aboard Artemis I. Only Zohar wore the vest. Using real flight data, the team then modeled how the vest would perform during actual solar storms, finding it cut radiation doses by 40 to 60 percent \u2014 comparable to a spacecraft's dedicated shelter, but without forcing astronauts to stop working. It won't help against the steady background radiation of deep space, but for the sudden danger of a solar storm, it's a lighter, more practical option than building thicker walls.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/nicaraguas-gold-boom-is-now-encroaching-on-protected-areas-and-indigenous-land/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2583065-most-people-prefer-stories-written-by-ai-and-cant-tell-it-apart-from-human-work/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.0,
+        9.0,
+        7.0
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "4aa300f0d98c3cf09085",
+      "cluster": "animals",
+      "headline": "Palawan villagers organize to protect sea turtle nests",
+      "tease": "Local communities are teaming with researchers to give olive ridley hatchlings a fighting chance.",
+      "summary": "On a beach in Palawan, Philippines, villagers walk the sand every night to protect sea turtle nests. Working with the research group LAMAVE, patrollers guard nesting olive ridley turtles from dogs, photograph them for identification, then carefully move their eggs to safe hatcheries. Left alone, most nests would be lost to stray dogs or flooding tides. In the hatcheries, about three in four eggs hatch successfully. Some patrollers, like Jerald Mahusay, once played with turtle eggs as children and now lead the very patrols that protect them \u2014 a shift in one generation from harm to care.",
+      "deeper": "The idea here is simple: a beach that used to lose almost every turtle nest now saves most of them, because people decided to watch over it. Volunteers in Santo Ni\u00f1o walk more than eight kilometers of shoreline at night, shift after shift, looking for nesting turtles. When they find one, they shield her from roaming dogs, take her photo so they can recognize her later, and once she's finished, they gently move her eggs to a guarded hatchery in the sand.\n\nIt isn't a perfect fix \u2014 hatchery success rates run a bit below what undisturbed natural nests would achieve, and everyone involved knows it's a stopgap. Project leader Kalei Suza put it simply: they'd rather the turtles nest safely on their own, because \"mama knows best.\" The long-term hope is for the community to manage the threats \u2014 mainly dogs and development \u2014 well enough that turtles won't need rescuing at all. For now, though, people who grew up near this beach, some who once treated turtle eggs as toys, are the ones keeping the hatchlings alive.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02289-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        8.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
