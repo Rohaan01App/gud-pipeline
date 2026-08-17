@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-18",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "60b2a237cfd0d114242d",
+      "cluster": "discovery",
+      "headline": "Engineered gut probiotics regulate blood sugar in mice and monkeys",
+      "tease": "A smart probiotic senses glucose spikes and responds, easing diabetes in animal studies.",
+      "summary": "Scientists have engineered gut probiotics that can sense blood sugar and act on it. The microbes carry a built-in circuit that switches on when glucose rises, prompting them to release therapeutic factors that help bring levels back down. Tested in mice and monkeys, the bacteria colonize the gut only temporarily and respond automatically, without constant monitoring or injections. This kind of sense-and-respond design points to a simpler way of managing diabetes: a probiotic taken by mouth that adjusts its own activity to the body's needs, rather than a fixed dose given on a schedule.",
+      "deeper": "Think of it like a tiny thermostat living in the gut, except it reacts to sugar instead of temperature. Researchers built a genetic circuit into probiotic bacteria so that when blood glucose climbs, the microbes notice and start producing substances that help lower it. When glucose falls back to normal, they quiet down again.\n\nThe appeal is that this happens automatically, inside the body, without someone checking a meter or timing an injection. The bacteria don't set up permanent residence either \u2014 they pass through the gut rather than staying for good, which matters for safety.\n\nThe team tested the approach first in mice, then in monkeys, and saw it help control blood sugar in both. That jump from mice to primates is notable, since many gut-microbe therapies that work in mice don't hold up in more complex animals.\n\nIt's still early work, done in animals rather than people. But the idea \u2014 a swallowable probiotic that senses a problem and responds on its own \u2014 offers a different template for treating diabetes, one built around biology doing the monitoring rather than a person or a device.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02366-y",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02425-4",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034619.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10890-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.5,
+        8.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "d02d7b9fa1de2e8c4ec7",
+      "cluster": "progress",
+      "headline": "EU restrictions on forever chemicals in food packaging take effect",
+      "tease": "A bloc-wide rule now limits toxic PFAS in the packaging that touches your food.",
+      "summary": "New EU rules limiting 'forever chemicals' in food packaging took effect this week. These substances have been used widely because they resist grease and water, but they don't break down in the environment or the body, which is why they've earned the nickname. The restrictions arrive alongside broader EU rules meant to cut down on packaging waste overall. Together, the measures mark a shift toward packaging that's both less toxic and less wasteful, addressing two long-standing concerns about how food gets wrapped and sold across the bloc.",
+      "deeper": "Forever chemicals get their name because they stick around. They don't break down easily in soil, water, or our bodies, which is exactly why they'd been so popular in food packaging \u2014 they repel grease and moisture, keeping wrappers and containers from getting soggy or stained. The trouble is that persistence cuts both ways: once these chemicals are out in the world, they stay there, and over time exposure has raised health concerns.\n\nThis week, the EU's new restrictions on these substances in food packaging came into force. They landed alongside a separate set of rules targeting packaging waste more broadly, part of a wider push within the bloc to rethink how goods get wrapped and shipped.\n\nIt's a quiet kind of policy change \u2014 no ribbon-cutting, no headline-grabbing single fix \u2014 but it chips away at two problems at once: chemicals that don't go away, and packaging that piles up. For everyday shoppers, it likely means a slow, mostly invisible shift in what's touching their food, and how much of it ends up as waste.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02385-9",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10860-6",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.5,
+        7.0,
+        8.0,
+        7.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "acf5c2bda722a98db6a1",
+      "cluster": "animals",
+      "headline": "White-Tailed Sea Eagle Chick Fledges at Irish Wildlife Park",
+      "tease": "A century after vanishing from Ireland, this majestic raptor's comeback gains a new chick.",
+      "summary": "A white-tailed sea eagle chick has fledged at Fota Wildlife Park in County Cork, the park's first in more than a decade. The eaglet hatched in April to parents \u00c1ine and Tony, who staff say have taken well to raising Europe's largest eagle. The bird was once wiped out across Ireland by human persecution, absent for more than a century. Since 2007, Ireland's National Parks and Wildlife Service and partners have released over 200 sea eagles nationwide, and the population is now considered self-sustaining. This new chick may one day join a European breeding programme, extending its impact beyond Cork.",
+      "deeper": "White-tailed sea eagles used to be a common sight along Ireland's coast, until people hunted them out entirely. For more than a hundred years, the country had none. Then, starting in 2007, wildlife groups began releasing eagles brought over with help from Norwegian researchers, working alongside farmers and local communities who agreed to give the birds a chance. More than 200 eagles later, the population can now sustain itself without more releases.\n\nThis spring's chick, born to parents \u00c1ine and Tony at Fota Wildlife Park, is a small but telling piece of that story. Staff say the pair have handled parenthood well, no small feat given that eaglets need close to a pound of food a day and the adults' wingspans can top eight feet. The park has now bred six such chicks since 1991.\n\nStaff hope this youngster might eventually join a Europe-wide breeding program for endangered birds. It's a reminder that a species people once erased from a place can come back \u2014 not by accident, but because enough people decided it mattered and kept at it for decades.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-unprecedented-biomass-loss-europe-forests.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10899-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        7.5,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
