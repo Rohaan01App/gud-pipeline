@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-19",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "79edcfaecdf7307fbb6c",
+      "cluster": "discovery",
+      "headline": "Genome-wide CRISPR screen finds targets to boost CAR T cells",
+      "tease": "Researchers uncover new genetic targets that could make T cells fight solid tumors better.",
+      "summary": "Researchers have found a way to search the entire genome for genes that make CAR T cells better at fighting solid tumors. CAR T cell therapy already works well against blood cancers, but it has struggled with solid tumors. The team built a model that lets human T cells grow inside tumors in a living system, then ran a genome-wide screen to see which gene changes helped the cells work harder. That screen turned up specific targets that boost the cells' antitumor activity, giving scientists concrete leads for improving a treatment that has so far had limited reach.",
+      "deeper": "CAR T cell therapy trains a patient's own immune cells to hunt cancer, and it has already saved lives in blood cancers. Solid tumors have been a tougher problem, partly because it's been hard to study what's actually happening to these engineered cells once they're inside a tumor.\n\nTo tackle that, researchers built a system where human T cells could be recovered from solid tumors in a living model, rather than just studied in a dish. That let them run a screen across the entire genome, checking gene by gene which changes made the T cells fight harder against the tumor.\n\nThe screen turned up specific genes worth targeting to improve how well CAR T cells perform in this tougher setting. It's early-stage research, but it gives scientists a clearer map of where to look next as they try to extend a therapy that already works for some cancers to the solid tumors that have resisted it so far.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223430.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-avalanche-globally-supersonic-locally-subsonic.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10859-z",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "2fef8469a039788420b8",
+      "cluster": "progress",
+      "headline": "Ordnance Survey maps now track Britain's climate impacts",
+      "tease": "Britain's historic mapmakers turn centuries of precision toward charting a changing climate.",
+      "summary": "Britain's Ordnance Survey, once built to map the coast against Napoleonic invasion, now plays a different defensive role. Its detailed maps are being used to track climate change and help the country adapt to it. The same precision that once charted coastlines for military planning now shows how land, water, and weather are shifting over time. That long history of careful, consistent mapmaking turns out to be exactly what's needed for tracking slow-moving change, giving planners and communities a clearer picture of what's coming and where.",
+      "deeper": "It's a nice bit of history repeating itself in a different key. The Ordnance Survey was set up over two centuries ago to map Britain's shores in case Napoleon's forces landed. That job needed maps that were accurate, detailed, and kept up to date.\n\nThose same qualities turn out to matter just as much now, for a very different threat. Climate change shows up in small, gradual shifts \u2014 a river edging further inland, land use changing, familiar landscapes slowly looking different. You can only spot that kind of change if you have good records to compare against, going back years or decades.\n\nSo the maps that once tracked coastlines for cannons and soldiers are now tracking coastlines for flood risk and land change instead. It's a reminder that infrastructure built for one purpose can quietly become useful for another, if it's built well and kept up. Careful, boring, consistent record-keeping turns out to be one of the more useful tools we have for understanding a changing world.",
+      "scene": "ozone",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02384-w",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080854.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10867-z",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        6.5,
+        7.5,
+        8.5,
+        7.5
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "05ae086a18b5b707c7f3",
+      "cluster": "animals",
+      "headline": "Osprey chicks hatch at Cumbria nature reserve for first time",
+      "tease": "A carefully placed nesting platform finally attracted breeding ospreys to Solway Firth.",
+      "summary": "Three osprey chicks have hatched at Campfield Marsh in Cumbria, the first time the birds have bred successfully at this RSPB reserve. The parents, both believed to be first-time breeders, were drawn in by a nesting platform built to attract the birds. Staff watched anxiously through the incubation period and were relieved when the eggs hatched in June. The chicks, named Ash, Bowness Bobbi and Beau by a local school, have been ringed so their movements can be tracked. It matters because ospreys were wiped out as a UK breeding bird in the early 1900s and have only slowly been returning since the 1950s.",
+      "deeper": "Ospreys almost vanished from Britain, hunted to extinction as a breeding bird by the early 1900s. They came back to Scotland in the 1950s and have been spreading to new areas ever since, one nesting site at a time. Campfield Marsh, a wetland reserve on the Solway Firth, built a platform hoping to tempt a pair in. It worked. A male osprey, ringed in Dumfries a few years ago, paired with an unringed female, and this year they raised three chicks together.\n\nSite manager Mhairi Maclauchlan said the team held their breath through the whole incubation period, then felt huge relief when the eggs finally hatched. She describes ospreys as gentler than you'd expect for birds with such sharp talons, and says they can be oddly funny too, fussing over tidying their nests.\n\nThe chicks, named Ash, Bowness Bobbi and Beau by children at a local school, have been ringed so scientists can follow where they go. They'll spend the summer learning to fish before migrating to Africa in autumn. Since ospreys tend to return to the same site and partner, this pair may well be back next year.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042824.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01845-6",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-triggered-evacuations-guatemala.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10884-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        6.0,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
