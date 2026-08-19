@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-20",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "fcc450fcd8c52aa371c7",
+      "cluster": "discovery",
+      "headline": "Volunteer Builds Machine-Learning Tool to Spot Rare Clouds",
+      "tease": "A citizen scientist's new tool helps NASA track mysterious clouds shifting worldwide.",
+      "summary": "A citizen scientist has built a tool that helps people tell rare, silvery clouds from their more common look-alikes. Namai Chandra volunteers with Space Cloud Watch, a NASA-supported project where people photograph noctilucent clouds \u2014 thin, glowing clouds that appear high in the atmosphere after sunset. These clouds are tricky to identify, and project leaders had been checking every submission by hand. Chandra built a machine-learning tool that screens images automatically but still lets humans review the uncertain ones. Scientists on the project welcomed the idea, and the tool is now helping both volunteers and researchers sort through photos faster.",
+      "deeper": "Noctilucent clouds are an odd, beautiful phenomenon \u2014 thin clouds so high up they catch sunlight long after the sun has set, giving them a silvery shimmer. NASA's Space Cloud Watch project asks ordinary people with cameras to photograph them, since patterns in when and where they appear can reveal things about changes in Earth's atmosphere. The catch: these clouds look a lot like ordinary lower clouds, so someone had to check every photo by hand. Namai Chandra, a volunteer, noticed this bottleneck and thought it was exactly the kind of repetitive task a computer could help with, while leaving the tricky judgment calls to people. He reached out to the project's scientists, who liked the idea, and then built and tested a tool that sorts through images, flags likely noctilucent clouds, and routes uncertain ones for human review. It's now used by both volunteers unsure of what they've photographed and scientists checking submissions. It's a small, practical fix \u2014 one person noticing a problem and building something useful to solve it, making it easier for anyone to join in and help track these clouds.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "b6b9fc2b44f572756c3e",
+      "cluster": "progress",
+      "headline": "App preserves Rainy Lake Ojibwe language and knowledge",
+      "tease": "An Indigenous-led app brings ancestral stories, landmarks, and family ties into reach.",
+      "summary": "A new free app called Indigenous Collections shares Ojibwe stories, oral histories and cultural knowledge, built with elders and language teachers from the Rainy Lake Ojibwe community. Rather than working as a simple dictionary, it uses Ojibwe vocabulary as a way into the culture itself, letting users explore family roots and learn about local landmarks. Motorola and the Lenovo Foundation developed it with Bemidji State University professor Anton Treuer and teacher Jason Jones. About 50,000 people still speak Ojibwe today, many of them elders, so passing the language and its stories to younger generations matters for keeping it alive.",
+      "deeper": "What makes this app different is its focus on stories rather than word lists. Anton Treuer, who helped build it, says storytelling is one of the best ways to pass down not just language but a whole worldview and history. So instead of just translating words, the app holds oral histories, family trees, and information about places that matter to the Rainy Lake Ojibwe community.\n\nThis matters because most Ojibwe speakers today are elders, and the language is considered severely endangered. Treuer has written that communities can't wish a language back to health \u2014 someone has to actually learn it and use it. The project follows similar work Motorola did with Cherokee language on phone interfaces, where choosing words rooted in how elders actually speak gave the technology real cultural meaning rather than just a translation layer.\n\nThere's real tension here too: some Indigenous people are wary of tech companies benefiting from their languages and knowledge. But those involved decided the chance to keep their language reaching younger people was worth that risk.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-indigenous-territory-ecological-stability-agricultural.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/dona-oscarina-master-ceramicist-documented-the-knowledge-of-the-tiquie/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c5ywqp5z5yzo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2583307-why-mathematician-terence-tao-thinks-ai-must-spark-a-rapid-revolution/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        8.5,
+        7.5
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "b363176d1a5aa110862d",
+      "cluster": "animals",
+      "headline": "Georgia Beaches Record Highest Loggerhead Turtle Nest Count in 37 Years",
+      "tease": "Decades of conservation work are paying off for threatened loggerhead sea turtles.",
+      "summary": "Loggerhead sea turtles nesting on Georgia's beaches have just set a new record: more than 4,110 nests this year, the most since counting began in 1989. Georgia's Department of Natural Resources calls it a slow but steady rebound for a species listed as threatened since 1978. Daily patrols by volunteers, researchers, and staff who mark and protect nests, along with 'turtle excluder' devices that keep the animals out of shrimp trawler nets since 1990, have helped nest counts grow about 4% a year since the early 1990s. The count has nearly doubled the original recovery goal for the species.",
+      "deeper": "Loggerheads are slow, patient animals, so any comeback takes decades to show up. Females don't lay their first eggs until they're 30 to 35 years old, so this year's record nests reflect protections put in place a generation ago. Each summer night, females haul themselves onto Georgia's barrier island beaches to bury about 100 eggs in the sand, then head back to sea. Volunteers and researchers with the Georgia Sea Turtle Cooperative walk those beaches at dawn every day, finding and protecting the nests. Shrimp boats now use devices that let turtles escape their nets, cutting down a major cause of death. The population still swings year to year, from a record low of 358 nests in 2004 to over 4,110 now. Officials expect numbers to level off for a while. But if protections stay in place, biologist Mark Dodd says nesting could eventually climb back to levels not seen in Georgia since the 1950s. It's a reminder that patient, unglamorous work, done daily for decades, can slowly turn a species' fortunes around.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-study-finds-it-where-you.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10830-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
