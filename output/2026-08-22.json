@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-22",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "cc3c9966b2959438bc53",
+      "cluster": "discovery",
+      "headline": "UK scientists to grow mini human organs for drug testing",
+      "tease": "A \u00a320m project aims to replace animal testing with lab-grown human tissue models.",
+      "summary": "UK scientists are growing miniature human organs from patients' cells to test new drugs, in a project aimed at cutting animal testing and improving treatment matching. Using tiny lab-grown clumps of tissue called organoids, researchers can study how diseases vary between people and check whether candidate drugs actually reverse the damage in human tissue rather than in mice. A \u00a320m Cambridge hub, funded by the Medical Research Council, will build a library of standardised organoids for academics and drug companies. Early work focuses on bowel diseases, tumours and brain conditions. A further \u00a32m backs nine projects using similar methods, including gel-grown heart cells for safety testing.",
+      "deeper": "For years, testing new medicines has meant giving them to animals first, even though most drugs that pass those tests still fail in people. Part of the problem, researchers say, is that many human diseases simply don't happen the same way, or at all, in mice. So scientists have been growing tiny versions of human organs, called organoids, from real patient cells. These pinhead-sized clumps can behave like the real organ, breaking down the way it does with disease and responding to drugs much as a full organ would.\n\nA new Cambridge hub, backed by \u00a320m, will grow these organoids at scale, starting with ones for bowel diseases like Crohn's, alongside others modelling tumours and brain conditions elsewhere. One company is even growing heart cells in tiny gel spheres to catch dangerous drug reactions before animals or patients are exposed to them.\n\nResearchers are careful to say animal testing won't disappear entirely soon. But the hope is that these human-based models will let scientists spot which treatments work for which patients, and rule out failures earlier, sparing time, money, and animal lives along the way.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/07/climate-shocks-hit-hydropower-in-southern-africa-reviving-interest-in-coal/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/the-danube-river-has-fallen-to-record-low-water-levels-revealing-nazi-warships-bombs-and-woolly-mammoth-bones-in-its-channel-180989255/",
+          "tier": 2
+        },
+        {
+          "name": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/inspiring-ceo-gives-company-to-charity-after-working-80-hour-weeks-for-58-years-saving-it-from-bankruptcy/",
+          "tier": 3
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/business/2026/aug/07/july-heatwaves-uk-shoppers-stay-away-from-high-street",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "5fd363aa34431cf49156",
+      "cluster": "progress",
+      "headline": "National Trust land reshaped to absorb river floodwater",
+      "tease": "A landscape is being reworked to soak up floods before they reach nearby towns.",
+      "summary": "Rangers and volunteers at Attingham Park in Shropshire are turning the estate into a sponge for two rivers. They've built small dams from willow wood, restored ponds, and planted trees and hedgerows to slow water down before it reaches the River Severn and River Tern. The work is one of eight projects under the Severn Valley Water Management Scheme, testing whether nature-based methods can ease flooding risk downstream as the climate changes. Ranger Emilia Fahlstromova said the goal is to re-wet land that has dried out over the years, bringing wetland wildlife back while holding more water on site.",
+      "deeper": "The idea here is simple: give water somewhere to go before it becomes a flood. At Attingham Park, rangers have been wedging willow logs across streams to make small dams, restoring old ponds, and planting trees and hedgerows. Each one slows the water down a little, so it soaks into the land instead of rushing downstream.\n\nRanger Emilia Fahlstromova says wood is the best material for this kind of work, and that the aim is to \"wet the area up\" again after years of drying out, bringing back wetland species along the way.\n\nProject manager Jane Birch points to the bigger shift in thinking: after World War Two, farmland was drained to grow as much food as possible. Now, she says, it makes sense to hold water on the land instead, to cut flooding risk further downstream.\n\nA BBC environment correspondent noted that even something as simple as a few logs in a stream can make a real difference, and that some land flooding a bit isn't necessarily a bad thing if it means less flooding elsewhere. It's a small, low-tech experiment, but one that could shape how the wider Severn valley handles water as storms get harder to predict.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02385-9",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10860-6",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "a10c1639de36cfe40e32",
+      "cluster": "animals",
+      "headline": "Amur Tiger Released in Kazakhstan After Decade-Long Rewilding Effort",
+      "tease": "A decade of reforestation and prey restoration brings tigers back to Central Asia.",
+      "summary": "A female Amur tiger named Hope has been released into Kazakhstan's Ile-Balkhash Nature Reserve, the first tiger to roam the country in more than 70 years since the Caspian tiger went extinct. It's the result of a decade-long effort that began with rebuilding the habitat and restoring prey species like deer, antelope, and wild ass before any tigers arrived. Three more tigers, including two cubs, are being gradually acclimated for future release. If successful, Kazakhstan will become the first country to bring back a tiger population to a landscape it had vanished from.",
+      "deeper": "What makes this project unusual is the order things happened in. Rather than releasing tigers and hoping the ecosystem could support them, Kazakhstan spent years first: planting forest, then reintroducing deer, antelope, and wild ass so there would be enough prey for tigers to hunt on their own. Only once that foundation was in place did the tigers arrive, and even then, carefully. Hope, the first tiger released, spent time in a large enclosure adjusting to the sights and smells of her new home before being fitted with a GPS collar and let go. A male and two cubs are still being monitored to see if they're ready to hunt for themselves. Officials have also set up a response team to prevent conflicts with nearby communities, since the reserve isn't fenced and tigers may eventually roam beyond it. The Amur tiger stands in for the Caspian tiger, which vanished from the region decades ago and was its closest relative. If the population takes hold, it would mark the first time any country has restored a tiger species to land where it had gone extinct.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-metal-deposits-reveal-ice-ages.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/environmental-activists-in-kenya-concerned-over-billionaires-planned-oil-refinery/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582816-how-does-my-energy-use-differ-if-i-walk-jog-or-run-for-1-kilometre/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/on-the-front-lines-of-conservation-in-sumatra-rangers-safeguard-batutegi-forest/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        8.5,
+        9.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
