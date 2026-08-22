@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-23",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "73c75143f3bb57091866",
+      "cluster": "discovery",
+      "headline": "Mouse brains found to self-repair via traveling astrocyte nuclei",
+      "tease": "Scientists discover a surprising cellular trick that helps damaged brains rebuild lost networks.",
+      "summary": "The adult brain can rebuild support cells that were once thought gone for good. Researchers at the University of Zurich watched mouse brains over several weeks and found a special group of astrocytes gathering at the edges of damaged tissue. Rather than sending whole new cells in first, they send just the nuclei of their new offspring gliding across long distances into the injured area, helping knit the astrocyte network back together. Astrocytes normally feed and support neurons, so losing them, through injury or diseases like neuromyelitis optica, can hurt brain health. This discovery suggests the brain has more built-in repair capacity than assumed.",
+      "deeper": "Here's the surprising part: when these support cells need to rebuild a damaged patch of brain, they don't just divide and move whole new cells into place. Instead, the freshly made nucleus from a new cell slides on its own, gliding a long way through the cell's branching arms, until it reaches the injury and settles in. It's a bit like sending a seed ahead rather than moving the whole plant.\n\nScientists at the University of Zurich, led by Marina Herwerth, Matthias Wyss, and Bruno Weber, watched this happen in real time in living mice using a specialized microscope, tracking the process over weeks. They also studied which genes switched on during the repair.\n\nThis matters because astrocytes, the star-shaped cells that feed neurons and keep brain tissue healthy, were long thought to be irreplaceable once destroyed by injury or certain immune diseases. Finding that the brain has a natural way to regrow them opens a door. If scientists can learn to switch on this repair process deliberately, it could eventually help people recover from brain injuries or autoimmune conditions that wipe out these cells. The genes involved in the process, the researchers say, are a promising starting point for that future work.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01360-8",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10963-0",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02458-9",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "581a8ff62c229ebf63a8",
+      "cluster": "progress",
+      "headline": "Andy Green sets hydrogen car speed record at 406mph",
+      "tease": "A British driver just proved hydrogen power can break astonishing speed limits.",
+      "summary": "Andy Green has set a new land speed record for a hydrogen-powered car, reaching 406mph at Utah's Bonneville Salt Flats. The 64-year-old former RAF pilot, already the only person to break the sound barrier on land, drove JCB's Hydromax vehicle, powered by two hydrogen combustion engines with 1,600 combined horsepower. The result more than doubles the previous hydrogen car record of 185.5mph, set in 2004. It shows that hydrogen combustion, an alternative to batteries or fossil fuels, can deliver serious performance, offering another route toward cleaner transport without giving up power or speed.",
+      "deeper": "There's more than one way to make an engine cleaner, and this record is a demonstration of one option: burning hydrogen instead of petrol or diesel, rather than relying on batteries. JCB built the Hydromax specifically to test how far that idea could go, and handed the driving to Andy Green, a man with a habit of setting land speed records \u2014 he broke the sound barrier in a jet-powered car in 1997 and set a diesel record twenty years ago. Green says his wife talked him into taking on the challenge when JCB's chairman came calling. The team tested the car in England earlier this year before shipping it to Utah's salt flats, where the flat, hard ground makes high-speed runs possible. Averaging two runs at 406mph, the car more than doubled the old hydrogen record. It's a niche achievement in some ways \u2014 most of us will never drive anything like it \u2014 but it's a public, measurable sign that hydrogen combustion engines can perform, not just function, which matters for anyone weighing up alternatives to fossil fuel engines.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        6.0,
+        8.5,
+        9.0,
+        7.5
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "21cf8aebc6a96aeb841a",
+      "cluster": "animals",
+      "headline": "Scientists Observe Harbor Porpoise Mating From Golden Gate Bridge",
+      "tease": "Years of bridge-side observation reveal mating secrets that could help protect vulnerable porpoises.",
+      "summary": "For years, scientists knew almost nothing about how harbor porpoises mate. William Keener and colleagues solved that mystery by watching the animals from the pedestrian walkway of the Golden Gate Bridge, where porpoises returned in 2008 after decades away. High above the water, researchers had a clear view no boat could get without scaring the shy animals off. Over eight years they captured 144 photos and videos, revealing a fast, one-sided mating approach that always came from the female's left. The findings, the first detailed account for any porpoise species, are helping researchers worldwide understand what these animals need to breed successfully.",
+      "deeper": "Harbor porpoises have lived alongside humans for thousands of years, but nobody had ever clearly documented how they mate. William Keener, a research biologist in California, spent hundreds of hours on the Golden Gate Bridge walkway watching for clues, after boats proved too intrusive. What he found was strange: a male porpoise rockets up from below as a female surfaces to breathe, and the whole encounter lasts one or two seconds. Stranger still, the male always approaches from her left side, something almost unheard of in mammal mating. Keener thinks the odd choreography might simply take a lot of practice, which could explain why porpoises attempt it year-round, not just during their brief fertile season. Other researchers, in Washington state and Denmark, later realized they'd seen the same left-sided behavior in their own footage without recognizing it. Understanding this basic piece of porpoise life matters beyond curiosity. Knowing exactly what successful mating looks like helps scientists judge whether a population is healthy or struggling, which could prove useful for protecting harbor porpoises in places where they've become rare.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-local-knowledge-early-glacial-lake.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/podcast/2026/08/my-wild-city-reminds-us-why-cities-need-nature/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/ai-went-to-the-opera-projecting-images-for-an-anniversary-production-of-wagners-ring-cycle-at-the-theater-where-he-first-staged-the-masterpiece-180989270/",
+          "tier": 2
+        },
+        {
+          "name": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/qa-what-is-in-chinas-new-five-year-plan-for-climate-change",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
