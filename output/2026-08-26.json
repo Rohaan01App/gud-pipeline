@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-26",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "4b22c6f96a49dd449948",
+      "cluster": "discovery",
+      "headline": "Highest-Resolution Sun Images Reveal Magnetic Wave Physics",
+      "tease": "A new telescope captured breaking waves on the Sun, unlocking decades-old solar mysteries.",
+      "summary": "Scientists using the world's most powerful solar telescope, atop a volcano in Maui, have captured the sharpest images yet of the Sun's surface \u2014 and spotted whirlpools forming in its plasma for the first time. The vortices arise from the same physical process that makes ocean waves break and whirlpools spin on Earth. Researchers say these tiny swirls act like engines, pulling magnetic energy and heat up from the surface into the Sun's outer atmosphere. Understanding them could help explain long-standing puzzles, including why that outer layer runs hotter than the surface below it, and how solar flares begin.",
+      "deeper": "For a long time, solar physicists knew the conditions for these whirlpools might exist on the Sun, but nobody had actually seen one. Now, using the Inouye Solar Telescope in Hawaii, a team led by astronomer David Kuridze watched them appear across a magnetically active patch near a sunspot \u2014 more widespread than anyone expected.\n\nThe whirlpools form when two streams of solar plasma slide past each other at different speeds, the same tug-of-war that stirs up eddies in oceans or in Jupiter's clouds. On the Sun, Kuridze suggests thinking of them as small engines: they twist magnetic field lines together until they snap and reconnect, releasing heat and energy upward into the Sun's atmosphere.\n\nThat matters because flares and eruptions from the Sun can disrupt satellites and power grids on Earth, alongside producing the aurora. Scientists think these small vortices may carry better clues about big solar outbursts than other signals researchers have relied on. The hope is that spotting and tracking them could one day give useful warning before larger, Earth-affecting solar events.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-geological-evidence-role-agulhas-leakage.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/these-mice-live-on-volcano-summits-at-extreme-elevations-study-finds-how/",
+          "tier": 2
+        },
+        {
+          "name": "Ars Technica Sci",
+          "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/from-radar-blobs-to-bird-species-ai-helps-transform-migration-tracking/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        6.0,
+        8.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "4abf28810b089f6d6445",
+      "cluster": "progress",
+      "headline": "England on track to eliminate hepatitis C",
+      "tease": "England nears a global first in wiping out a dangerous liver virus.",
+      "summary": "England is on track to become one of the first countries to eliminate hepatitis C, a liver virus that once went largely undiagnosed. Since 2015, more than 100,000 people have been diagnosed and treated, meeting the goal of reaching 80% of known cases. Deaths have fallen by 36% over the last decade. The progress comes from wider testing \u2014 in A&E, at GP surgeries, and through free home kits \u2014 combined with short courses of antiviral tablets that cure more than 95% of cases. Around 50,200 adults in England still live with hepatitis C, and health officials are urging those at risk to get tested.",
+      "deeper": "Hepatitis C is a quiet disease. It spreads through infected blood, often from shared needles, and many people carry it for years with no symptoms, unaware until it has already damaged their liver. That made it hard to fight \u2014 you can't treat what you haven't found.\n\nWhat's changed is where and how testing happens. Instead of waiting for people to seek out a GP, the NHS started offering tests in A&E, at GP registration, and through free kits people can order at home, no appointment needed. Once found, most cases can be cured with two to three months of tablets.\n\nPaul Eatwell, a 65-year-old grandfather from Blackburn, only learned he had it through a routine blood test. He didn't feel ill and struggled to believe the diagnosis. He's now among more than 100,000 people treated since 2015.\n\nEngland hasn't fully eliminated the virus yet \u2014 diagnosis rates and death reduction targets are close but not quite met. The Hepatitis C Trust calls it one of the most significant public health achievements in the country's history, with the finish line finally in sight.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2580566-will-a-new-kind-of-ai-that-understands-physical-reality-change-the-world-again/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/06/gambling-inducements-labor-coalition-greens-betting-companies",
+          "tier": 2
+        },
+        {
+          "name": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/towns-beloved-santa-claus-delivers-a-very-special-present-to-someone-in-need-his-donated-kidney/",
+          "tier": 3
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.0,
+        8.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "21cf8aebc6a96aeb841a",
+      "cluster": "animals",
+      "headline": "Scientists Observe Harbor Porpoise Mating From Golden Gate Bridge",
+      "tease": "Years of bridge-side observation reveal mating secrets that could help protect vulnerable porpoises.",
+      "summary": "For years, scientists knew almost nothing about how harbor porpoises mate. William Keener and colleagues solved that mystery by watching the animals from the pedestrian walkway of the Golden Gate Bridge, where porpoises returned in 2008 after decades away. High above the water, researchers had a clear view no boat could get without scaring the shy animals off. Over eight years they captured 144 photos and videos, revealing a fast, one-sided mating approach that always came from the female's left. The findings, the first detailed account for any porpoise species, are helping researchers worldwide understand what these animals need to breed successfully.",
+      "deeper": "Harbor porpoises have lived alongside humans for thousands of years, but nobody had ever clearly documented how they mate. William Keener, a research biologist in California, spent hundreds of hours on the Golden Gate Bridge walkway watching for clues, after boats proved too intrusive. What he found was strange: a male porpoise rockets up from below as a female surfaces to breathe, and the whole encounter lasts one or two seconds. Stranger still, the male always approaches from her left side, something almost unheard of in mammal mating. Keener thinks the odd choreography might simply take a lot of practice, which could explain why porpoises attempt it year-round, not just during their brief fertile season. Other researchers, in Washington state and Denmark, later realized they'd seen the same left-sided behavior in their own footage without recognizing it. Understanding this basic piece of porpoise life matters beyond curiosity. Knowing exactly what successful mating looks like helps scientists judge whether a population is healthy or struggling, which could prove useful for protecting harbor porpoises in places where they've become rare.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-local-knowledge-early-glacial-lake.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/podcast/2026/08/my-wild-city-reminds-us-why-cities-need-nature/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/ai-went-to-the-opera-projecting-images-for-an-anniversary-production-of-wagners-ring-cycle-at-the-theater-where-he-first-staged-the-masterpiece-180989270/",
+          "tier": 2
+        },
+        {
+          "name": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/qa-what-is-in-chinas-new-five-year-plan-for-climate-change",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
