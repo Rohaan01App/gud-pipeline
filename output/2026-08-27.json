@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-27",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "36345ecb673cb4d771b9",
+      "cluster": "discovery",
+      "headline": "Japanese researchers develop dissolvable fireworks to reduce debris",
+      "tease": "A university professor and fireworks maker teamed up to cut pollution from celebrations.",
+      "summary": "A Japanese professor and a fireworks company president have built fireworks shells that dissolve in water, cutting down on the debris left behind after big shows. Ryukoku University's Takahiko Nakaoki teamed up with Kakinoki Fireworks Industry to swap the usual casing material for a water-soluble resin already used in farming, on seeds and soil. Wet, the shell turns soft and breaks down into the environment, so it doesn't need to be swept up afterward. Since many Japanese fireworks displays happen over rivers, lakes, or the ocean, most of the new casings should vanish within hours of falling. The company plans for half of its 20,000 fireworks this year to use the eco-friendly shells.",
+      "deeper": "This came from an unlikely pairing: a professor who studies materials and a fireworks maker who'd been struggling for years to find a greener casing. Hiroyuki Kakinoki had tried and failed with various resins before meeting Takahiko Nakaoki in 2018. Their fix wasn't to invent something new, but to borrow a material already trusted elsewhere \u2014 a water-soluble resin farmers use to coat seeds and improve soil. It turns out that same resin, when it gets wet, softens like caramel and breaks apart harmlessly.\n\nThat matters because so many fireworks shows in Japan happen right over water \u2014 rivers, lakes, the sea. Normally, spent casings sink or wash up and have to be collected. With this new shell, most of that debris simply dissolves within hours, no cleanup crew needed. The company has also cut its packaging paper use roughly in half by relying less on the moisture-proofing wrap the old shells required.\n\nIt's a small, practical fix rather than a flashy one \u2014 a case of noticing that a material built for farms could quietly solve a problem in an entirely different industry.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582780-why-winner-of-biggest-prize-in-maths-has-decided-to-work-on-ai-instead/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/us-news/2026/aug/03/trump-border-wall-new-mexico-wells",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/06/performative-reductions-labor-mps-and-business-groups-urge-burke-against-sweeping-immigration-changes",
+          "tier": 2
+        },
+        {
+          "name": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/japanese-team-develops-eco-fireworks-with-water-soluble-shells-to-cut-back-on-debris/",
+          "tier": 3
+        }
+      ],
+      "scores": [
+        6.5,
+        7.5,
+        7.0,
+        9.5,
+        7.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "b1898fd1dce3bce904de",
+      "cluster": "progress",
+      "headline": "Australia sets $31.30 minimum wage for gig delivery drivers",
+      "tease": "A new industrial ruling gives delivery drivers guaranteed pay and injury insurance nationwide.",
+      "summary": "Delivery drivers across Australia will now earn a guaranteed minimum of $31.30 an hour, under new standards approved by the Fair Work Commission. The rules also require delivery platforms to provide personal accident insurance for workers, while keeping the flexibility gig work is known for. The change came after the Transport Workers' Union joined forces with DoorDash and UberEats to jointly request the protections, following years of talks. Officials and union leaders called the result \"world-leading,\" and it's expected to apply broadly across on-demand food, drink, and grocery delivery platforms, offering a safety net to hundreds of thousands of workers.",
+      "deeper": "For years, gig delivery work has meant unpredictable pay \u2014 riders and drivers might wait unpaid for a restaurant order, with no guarantee of a minimum wage or protection if they got hurt on the job. That's changing in Australia. Starting in August, delivery platforms must pay workers a guaranteed hourly rate, and organise insurance that covers them if they're injured while working.\n\nWhat makes this notable is how it came together: the union representing gig workers didn't fight the platforms alone in court \u2014 it worked with DoorDash and UberEats to jointly propose the new rules to the industrial umpire. Both sides gave a little. Workers are now called \"employee-like\" rather than full employees, and they'll need to insure their own vehicles against damage to others. In exchange, they get steady minimum pay and injury cover, without losing the flexibility to choose their own hours.\n\nIt's a rare case of a gig economy fight ending in a shared framework rather than a standoff. Officials are calling it a milestone, and it's likely to be watched closely elsewhere, since similar gig-work disputes are playing out in many countries.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582737-climate-change-could-eliminate-malaria-from-west-and-central-africa/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        8.0,
+        6.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "a10c1639de36cfe40e32",
+      "cluster": "animals",
+      "headline": "Amur Tiger Released in Kazakhstan After Decade-Long Rewilding Effort",
+      "tease": "A decade of reforestation and prey restoration brings tigers back to Central Asia.",
+      "summary": "A female Amur tiger named Hope has been released into Kazakhstan's Ile-Balkhash Nature Reserve, the first tiger to roam the country in more than 70 years since the Caspian tiger went extinct. It's the result of a decade-long effort that began with rebuilding the habitat and restoring prey species like deer, antelope, and wild ass before any tigers arrived. Three more tigers, including two cubs, are being gradually acclimated for future release. If successful, Kazakhstan will become the first country to bring back a tiger population to a landscape it had vanished from.",
+      "deeper": "What makes this project unusual is the order things happened in. Rather than releasing tigers and hoping the ecosystem could support them, Kazakhstan spent years first: planting forest, then reintroducing deer, antelope, and wild ass so there would be enough prey for tigers to hunt on their own. Only once that foundation was in place did the tigers arrive, and even then, carefully. Hope, the first tiger released, spent time in a large enclosure adjusting to the sights and smells of her new home before being fitted with a GPS collar and let go. A male and two cubs are still being monitored to see if they're ready to hunt for themselves. Officials have also set up a response team to prevent conflicts with nearby communities, since the reserve isn't fenced and tigers may eventually roam beyond it. The Amur tiger stands in for the Caspian tiger, which vanished from the region decades ago and was its closest relative. If the population takes hold, it would mark the first time any country has restored a tiger species to land where it had gone extinct.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-metal-deposits-reveal-ice-ages.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/environmental-activists-in-kenya-concerned-over-billionaires-planned-oil-refinery/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582816-how-does-my-energy-use-differ-if-i-walk-jog-or-run-for-1-kilometre/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/on-the-front-lines-of-conservation-in-sumatra-rangers-safeguard-batutegi-forest/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        8.5,
+        9.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
