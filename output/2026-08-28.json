@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-28",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "266d3b52d469f5267427",
+      "cluster": "discovery",
+      "headline": "New catalyst frees electrons, bypassing old chemistry limit",
+      "tease": "A fresh catalyst could open doors to molecules chemists once thought unreachable.",
+      "summary": "Chemists at the University of Wisconsin-Madison have built a catalyst that sets electrons completely free in solution, rather than steering them to a specific molecule. That freed electron is so eager to bond that it latches onto the first molecule it meets, not just the one chemistry usually favors. Working with teams at Colorado State and CU Boulder, the group showed why this works: the molecule they want reacts on and stays changed, while the other partner simply reverts to its starting form. The result opens the door to joining molecules that older electron-transfer methods couldn't reliably connect, useful for building new drugs and materials.",
+      "deeper": "For decades, chemists moving electrons between molecules ran into the same wall: the electron always went to whichever molecule found it easiest to accept, whether or not that was useful. Zachary Wickens and his team at UW-Madison found a workaround. Instead of nudging an electron toward a particular molecule, their new catalyst just releases it loose into the surrounding liquid. A free electron, it turns out, is so unstable on its own that it will grab onto almost anything nearby, even molecules that wouldn't normally be picked.\n\nCollaborators in Colorado helped explain why this doesn't just create chaos. Using computer modeling and laser-based measurements, they found that the real selectivity happens after the electron lands: the molecule chemists actually want keeps moving forward into a new product, while the other one, even though it grabbed the electron too, simply reverts back to normal. Five years of catalyst design went into making this possible.\n\nWickens calls it less a new recipe and more a new way of thinking about these reactions. If it holds up, it could let chemists build molecular connections, for medicines and materials, that were previously out of reach.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01850-9",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02360-4",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        6.5,
+        8.0,
+        9.5,
+        7.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "1ca157de398c712d8fa5",
+      "cluster": "progress",
+      "headline": "Museum restores censored figure in Pieter de Hooch painting",
+      "tease": "Conservators uncover a hidden soldier erased from a 17th-century Dutch drinking scene.",
+      "summary": "A Dutch museum has painted a missing man back into a 17th-century painting. In Pieter de Hooch's A Man Smoking and a Woman Drinking in a Courtyard, someone long ago painted over a soldier who once sat at the table with two other figures, leaving just a man and a woman. The Mauritshuis museum in the Netherlands used an identical version of the painting, held in Washington, D.C., as a guide to restore the soldier exactly as de Hooch intended. The painting has been renamed Figures in a Courtyard, and now shows its original, livelier scene of a 17th-century drinking game.",
+      "deeper": "For centuries, this painting looked like a quiet moment between a man and a woman sharing a drink. But that wasn't the whole picture. Someone, long before 1833, painted over a third figure, a soldier, erasing him from the table entirely. Nobody knows exactly why. It might have been a wish to make the painting seem more valuable and unique, or perhaps just a wish to make the scene look more proper.\n\nThe fix relied on a stroke of luck: de Hooch had painted a nearly identical version of the same scene, kept in a museum in Washington, D.C., where the soldier was never removed. Conservators in the Netherlands used that painting as a map to guide the soldier's return.\n\nWith him back, the meaning of the scene shifts. What once looked like a woman simply enjoying a beer now reads as her taking her turn in a drinking game, watched by two men. It is a small change, a single figure, but it restores what the painter meant people to see, and gives back a bit of missing mischief to 350-year-old art.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-geological-evidence-role-agulhas-leakage.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/these-mice-live-on-volcano-summits-at-extreme-elevations-study-finds-how/",
+          "tier": 2
+        },
+        {
+          "name": "Ars Technica Sci",
+          "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/from-radar-blobs-to-bird-species-ai-helps-transform-migration-tracking/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        6.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "fc62a2c795dbdd33300f",
+      "cluster": "animals",
+      "headline": "New deed protects Papua New Guinea's tree kangaroo forests",
+      "tease": "Local leaders signed a landmark agreement safeguarding rainforest, wildlife, and communities together.",
+      "summary": "On June 30, 266 clan leaders from 41 villages in Papua New Guinea's Torricelli Mountains signed a legally binding conservation deed protecting more than 125,000 hectares of rainforest, home to the critically endangered tenkile and weimang tree kangaroos. The deed, built through two years of community consultation, bans commercial logging, mining, and hunting of threatened species, and renews every five years. It came after decades of stalled efforts to secure official government protection left communities exposed to logging pressure. Because conservation deeds rely on PNG's customary land laws, they've held up in court before, giving the people of the Torricellis a real legal shield they helped design themselves.",
+      "deeper": "For over 20 years, the Tenkile Conservation Alliance worked with villages in Papua New Guinea's Torricelli Mountains to protect their forests and the tree kangaroos living there. Government efforts to formally designate the area a protected zone kept stalling, while loggers kept pressing in. So the group tried something else: a conservation deed, a contract that clan leaders write and agree to themselves, using land rights already recognized under PNG law.\n\nIt took two years of conversations across 41 villages before 266 clan leaders signed on a hilltop, followed by celebration, dancing and song. The deed bans logging, mining and hunting of threatened species, and it renews every five years. Similar deeds elsewhere in PNG have already survived court challenges, giving people real legal ground to stand on against loggers.\n\nThe effort has already paid off for the tenkile tree kangaroo, whose numbers have roughly tripled since local hunting bans began years ago. Now the alliance hopes the deed does the same for the forest itself \u2014 and plans to use it as a model for protecting other threatened areas nearby.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-el-nino-adding-fuel-planet.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/new-conservation-deed-aims-to-protect-tree-kangaroos-forests-people-in-papua-new-guinea/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/cn8n19wz4e6o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/this-marine-life-mosaic-discovered-near-the-colosseum-offers-a-surprising-clue-its-building-may-have-housed-firefighters-in-ancient-rome-180989273/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.5,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
