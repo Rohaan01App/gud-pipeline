@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-29",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "7b81c694f6e2393943ca",
+      "cluster": "discovery",
+      "headline": "Early Vamorolone Treatment Improves Motor Skills in Young Boys with DMD",
+      "tease": "A 12-week study hints that treating Duchenne muscular dystrophy earlier could change outcomes.",
+      "summary": "Very young boys with Duchenne muscular dystrophy showed clear gains in motor skills after just 12 weeks on a drug called Vamorolone, researchers at Binghamton University report. The small study treated 2- to 4-year-olds before major muscle damage had set in, rather than waiting for symptoms to appear. Boys given the higher dose moved from an average motor score of about 5 toward 8 (healthy children score around 10), with no serious side effects and no apparent harm to growth. Because DMD is now part of newborn screening, doctors may soon be able to catch it early enough for treatments like this one to make a real difference.",
+      "deeper": "Duchenne muscular dystrophy is a genetic condition, mostly affecting boys, where muscle is gradually replaced by scar tissue. The damage actually starts at birth, long before doctors usually notice anything wrong. By the time symptoms appear and treatment typically begins, some harm has already been done. Researcher Eric Hoffman and his colleague Raju Nagaraju wondered what would happen if children could be treated much sooner, before that damage builds up. They tested Vamorolone, a drug already approved for DMD, in boys as young as 2. It's designed to calm inflammation like older steroids do, but without as many of the side effects that make doctors hesitant to treat toddlers. After only 12 weeks, the boys' motor skills improved, and growth wasn't affected. Hoffman said even he was surprised by how quickly it happened. The study was small and had no comparison group, so it's not proof yet. But with DMD now added to newborn screening, babies could be identified early, and if these results hold up, doctors may be able to step in before much muscle is ever lost.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/was-this-heatwave-caused-by-climate-change-were-asking-the-wrong-question-288637",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/protesters-occupy-tree-us-mexico-border",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
+          "tier": 2
+        },
+        {
+          "name": "Positive News",
+          "url": "https://www.positive.news/society/good-news-stories-from-week-32-of-2026/",
+          "tier": 3
+        }
+      ],
+      "scores": [
+        6.5,
+        8.0,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "92a124b51cd911abe349",
+      "cluster": "progress",
+      "headline": "Gold metacrystal sorts quantum light without deep-freeze cooling",
+      "tease": "A tiny gold crystal could let quantum devices ditch bulky cryogenic freezers entirely.",
+      "summary": "Physicists at LSU have built a tiny gold crystal that can sort different quantum states of light and move them around without needing deep-freeze cooling. Almost all quantum materials only work near absolute zero, because heat makes atoms jiggle and destroys the delicate effects scientists rely on. The team got around this by engineering their own material: a thin gold layer cut with hundreds of tiny slits, each acting like an artificial atom. Arranging these slits carefully lets the crystal act as a filter, sorting light by its quantum behavior at room temperature. That could make quantum computers, sensors, and communication devices smaller and cheaper to build.",
+      "deeper": "Light seems simple, but sunlight, laser light, and fluorescent light are all made of photons that behave subtly differently at the quantum level. Normally, telling these differences apart takes bulky equipment cooled to near absolute zero and huge numbers of measurements. The LSU team built something new instead: a gold chip etched with hundreds of tiny slits, each acting like an artificial atom. Together these form a crystal that doesn't exist in nature, one that sorts incoming light by its quantum properties and guides different types along separate paths, all at room temperature.\n\nOne researcher described the appeal simply, saying they built something nature doesn't provide on its own, and watching it work as predicted felt rewarding. The team calls this a new class of material and says the same design approach could be used to build others like it, rather than being a one-off discovery.\n\nThe practical promise is that quantum devices could shed their dependence on expensive cooling systems, making them smaller and easier to actually use. The researchers also suggest the same light-guiding trick might help solar cells waste less sunlight as heat, though that idea is still early.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "d3d620ea47bc08ec03d3",
+      "cluster": "animals",
+      "headline": "Water voles return to Surrey's Hogsmill River",
+      "tease": "Tiny droppings reveal a quiet comeback for one of Britain's most endangered mammals.",
+      "summary": "Water voles are back on Surrey's Hogsmill River, and a year on, they're thriving. Conservation groups South East Rivers Trust and Citizen Zoo released 42 water voles into the chalk stream last July, ending a local absence of more than 20 years. Surveys now find burrows, droppings and camera-trap footage showing voles have spread both upstream and downstream of the release site. Their return has been helped by a parallel effort to remove non-native mink, which prey heavily on water voles, from the area. Conservationists say the voles' presence is also a sign the river itself is healthier, with better vegetation and more natural banks.",
+      "deeper": "The best proof that water voles are doing well, it turns out, is finding their droppings \u2014 specifically, squashed ones. Water voles have scent glands on their feet and press their tiny, Tic Tac-shaped droppings down to mark territory, so a flattened dropping outside a burrow means an active, established population. Urban rewilding officer Pia Trevelyan-Ashby has been searching riverbanks for exactly this since 42 voles were released into the Hogsmill last summer, and she's finding more burrows every visit.\n\nWater voles vanished from the area more than 20 years ago, hit by habitat loss and mink, a predator introduced from fur farms that can kill roughly one small animal a day. So alongside reintroducing the voles, teams have been working to clear mink from the river, giving the voles a real chance to survive their first winter, when populations typically fall sharply.\n\nThe voles matter beyond themselves. They keep waterside vegetation trimmed and sit near the bottom of the food chain, feeding other wildlife. Their return signals a river with better bankside habitat \u2014 a small, patient sign that the Hogsmill is recovering.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/07/sri-lanka-prepares-for-impending-el-nino-with-traditional-and-new-approaches/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-may-have-spotted-a-supermassive-black-hole-that-wandered-to-the-edge-of-its-galaxy-180989233/",
+          "tier": 2
+        },
+        {
+          "name": "Optimist Daily",
+          "url": "https://www.optimistdaily.com/2026/08/the-robots-kids-build-to-preserve-native-american-languages/",
+          "tier": 3
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/environment/2026/aug/07/we-expected-it-but-now-its-here-on-the-frontline-of-australias-bird-flu-outbreak-people-are-distressed",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
