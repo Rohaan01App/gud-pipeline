@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-30",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "b3dd8883d7e37be556c0",
+      "cluster": "discovery",
+      "headline": "AI Agents Uncover Decades-Old Errors in Scientific Papers",
+      "tease": "Researchers show AI can catch long-standing mistakes, but only for checkable facts.",
+      "summary": "AI agents have started catching mistakes that sat unnoticed in scientific papers for decades, checking facts across the published literature far faster than any human team could. Researchers built the tools to scan studies for objective errors \u2014 things like numbers that don't add up or data that contradicts itself \u2014 and the agents flagged problems that had gone unspotted for years. The scientists behind the work say AI should stick to this kind of fact-checking, not judgment calls, but even that narrow job could quietly clean up the record and catch mistakes before they mislead more research.",
+      "deeper": "Science relies on people checking each other's work, but that checking is slow and papers can sit for decades before anyone notices a mistake. Researchers decided to see if AI could speed that up. They built AI agents and set them loose on published papers, looking for errors \u2014 not opinions or interpretations, but plain facts that can be verified, like numbers that don't match or results that contradict themselves.\n\nThe agents found real mistakes, some of them years old, that had slipped past editors and readers alike. The team behind the project is careful about the limits: they say AI should only be trusted with 'objective' facts, not with judging the quality or meaning of research, which still needs human expertise and context.\n\nIt's a modest claim, but a useful one. A tool that can comb through the vast pile of existing scientific literature and flag likely errors gives researchers a chance to fix the record before bad data gets built into someone else's work. It won't replace peer review, but it might make it a little more reliable.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02432-5",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02350-6",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10874-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        6.5,
+        7.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "9e69704367c1b0982c5e",
+      "cluster": "progress",
+      "headline": "New process turns PVC waste into useful lubricants",
+      "tease": "Scientists found a mild chemical route that recycles PVC trash into valuable industrial lubricants.",
+      "summary": "Researchers have found a mild chemical process that turns PVC waste into useful lubricants. PVC is one of the hardest plastics to recycle, but this method converts it into polyalphaolefins, a class of lubricants whose properties can be tuned for different uses. Because the process is described as mild and economical, it offers a practical way to give old PVC a new, valuable life instead of letting it sit in landfills or get incinerated. The work points to a more workable path for plastic recycling and for keeping carbon in use rather than releasing it or burying it for good.",
+      "deeper": "PVC shows up everywhere, from pipes to flooring to cables, but it's notoriously stubborn stuff to recycle. Its chemistry makes it resistant to the usual plastic-breakdown methods, so a lot of it ends up burned or buried.\n\nThis new approach takes a gentler route. Using a mild chemical reaction, scientists convert the PVC into a type of lubricant called polyalphaolefin. These lubricants are used in engines, machinery, and industrial equipment, and the researchers can adjust the process to get different properties depending on what's needed.\n\nWhat makes this promising isn't just that PVC waste becomes something new, it's that the something new is genuinely useful and, importantly, cheap enough to be practical at scale. That combination matters, because recycling methods that are technically possible but too costly rarely get adopted widely.\n\nThe bigger idea here is carbon circularity: keeping the carbon already locked up in plastic waste in circulation, doing useful work, rather than letting it go to waste or adding new carbon to the system. It's a small but concrete step toward treating old plastic as a resource rather than a problem to bury.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02384-w",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080854.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10867-z",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "21cf8aebc6a96aeb841a",
+      "cluster": "animals",
+      "headline": "Scientists Observe Harbor Porpoise Mating From Golden Gate Bridge",
+      "tease": "Years of bridge-side observation reveal mating secrets that could help protect vulnerable porpoises.",
+      "summary": "For years, scientists knew almost nothing about how harbor porpoises mate. William Keener and colleagues solved that mystery by watching the animals from the pedestrian walkway of the Golden Gate Bridge, where porpoises returned in 2008 after decades away. High above the water, researchers had a clear view no boat could get without scaring the shy animals off. Over eight years they captured 144 photos and videos, revealing a fast, one-sided mating approach that always came from the female's left. The findings, the first detailed account for any porpoise species, are helping researchers worldwide understand what these animals need to breed successfully.",
+      "deeper": "Harbor porpoises have lived alongside humans for thousands of years, but nobody had ever clearly documented how they mate. William Keener, a research biologist in California, spent hundreds of hours on the Golden Gate Bridge walkway watching for clues, after boats proved too intrusive. What he found was strange: a male porpoise rockets up from below as a female surfaces to breathe, and the whole encounter lasts one or two seconds. Stranger still, the male always approaches from her left side, something almost unheard of in mammal mating. Keener thinks the odd choreography might simply take a lot of practice, which could explain why porpoises attempt it year-round, not just during their brief fertile season. Other researchers, in Washington state and Denmark, later realized they'd seen the same left-sided behavior in their own footage without recognizing it. Understanding this basic piece of porpoise life matters beyond curiosity. Knowing exactly what successful mating looks like helps scientists judge whether a population is healthy or struggling, which could prove useful for protecting harbor porpoises in places where they've become rare.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-local-knowledge-early-glacial-lake.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/podcast/2026/08/my-wild-city-reminds-us-why-cities-need-nature/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/ai-went-to-the-opera-projecting-images-for-an-anniversary-production-of-wagners-ring-cycle-at-the-theater-where-he-first-staged-the-masterpiece-180989270/",
+          "tier": 2
+        },
+        {
+          "name": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/qa-what-is-in-chinas-new-five-year-plan-for-climate-change",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
