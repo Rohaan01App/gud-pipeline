@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-01",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "a2c44ec386eabfde68c8",
+      "cluster": "discovery",
+      "headline": "Scientists keep vaccines stable at room temperature for a year",
+      "tease": "A cold-chain breakthrough could cut the vaccines wasted worldwide in half.",
+      "summary": "UK scientists have successfully trialled a vaccine that stays stable at room temperature for a year, no fridge needed. Researchers turned a tetanus-diphtheria vaccine into a dry powder using a sugar called trehalose, then mixed it with water before injecting it into 60 volunteers. It worked as well as the standard version and was safe and well tolerated. Around half of all vaccines are currently wasted worldwide, largely because they get too hot or too cold in transit. A fridge-free version could cut that waste and make it easier to reach remote or war-torn areas where refrigeration is unreliable.",
+      "deeper": "The idea came from an unlikely source: a plant that can dry out completely and look dead, then come back to life the moment it rains. Scientists noticed it survives by making a sugar that protects its cells during the dry spell. They used the same sugar to protect a vaccine, drying it into a powder that can sit at room temperature for a year before being mixed with water and used.\n\nThis matters because keeping vaccines cold, from the factory to the clinic, is one of the hardest parts of getting them to people. Doctors who've worked in remote areas describe the anxiety of racing against time with cool boxes on rough roads, hoping the vaccines survive the journey. Half of all vaccines worldwide are wasted, often because that cold chain breaks down somewhere along the way.\n\nA larger trial with 160 people is starting soon. The vaccine used in this study is already approved, so this could move toward wider use faster than a brand-new vaccine would. Researchers still want to check how it holds up with regular temperature swings and in more diverse groups of people, but the early signs suggest a future where more vaccines can reach more places, fridge or no fridge.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/07/listening-offers-a-clearer-picture-of-indias-hidden-finless-porpoises/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/07/australias-best-sustainable-architecture-for-2026-in-pictures",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        7.0,
+        8.0,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "7f9f7ca65c7dbc530c54",
+      "cluster": "progress",
+      "headline": "New evaporation method improves perovskite-silicon solar cells",
+      "tease": "Scientists found a scalable way to build efficient tandem solar cells using heat.",
+      "summary": "Researchers have found a way to build perovskite-silicon tandem solar cells using heat rather than the wet chemical steps that usually go into making them. The method relies on a formamidinium eutectic material and applies it through thermal evaporation, a process where thin layers are deposited by vaporizing materials in a vacuum. Tandem cells stack two light-absorbing layers to capture more of the sun's spectrum than a single layer can. Making that stack easier to manufacture matters because simpler, more reliable production methods are often what stand between a promising lab result and a solar panel you could actually buy.",
+      "deeper": "Solar cells that combine perovskite with silicon can capture more sunlight than ordinary silicon panels, because the two materials absorb different parts of the light spectrum. The tricky part has always been putting them together well, since the usual perovskite-making methods involve wet chemical coatings that can be hard to control precisely across a large surface.\n\nThis new work does the layering by heating materials until they turn to vapor and settle onto the surface below, a technique known as thermal evaporation. The team used a specific combination of ingredients, described as a formamidinium eutectic, to make this heat-based approach work for the perovskite layer.\n\nThe appeal of evaporation is that it's a familiar, well-understood process in electronics manufacturing, so a method that fits it more easily could be simpler to scale up than wet-chemistry alternatives. The source doesn't give performance numbers or timelines for real-world use, but the core idea is straightforward: a more manufacturable way to build high-performing solar cells is a genuinely useful step, even before it shows up on a rooftop.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02419-2",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10958-x",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10970-1",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "415920cee74a4ba67947",
+      "cluster": "animals",
+      "headline": "First white storks released into wild in Cornwall",
+      "tease": "Twenty-one storks take flight over Bodmin Moor after a long reintroduction effort.",
+      "summary": "Twenty-one white storks took flight over Bodmin Moor this week, the first to be released into the wild in Cornwall. Most had hatched there this year at the Cornwall Stork Project, based at Hamatethy farm, an organic farm that also runs rewilding schemes. The birds will spend a couple of months getting used to freedom before migrating south for winter, perhaps to Spain or Morocco. Because storks have a strong homing instinct, the project raised them in breeding aviaries on the moor so they will hopefully return there in a few years to nest and raise chicks of their own.",
+      "deeper": "Founder Yan Swiderski, a former fund manager turned farmer, had tears in his eyes watching the storks step out of their aviary and into the sky. He said storks can't simply be released anywhere, since they try to return to wherever they were born. So the project bred and raised chicks on Bodmin Moor itself, hoping the birds' homing instinct will one day bring them back to nest there.\n\nThe project follows a similar effort at Knepp estate in Sussex, running since 2016, and the Cornish birds may even migrate south alongside the Knepp storks. Natural England, while not opposing the releases, points out storks were never native breeding birds in England and says such projects aren't a priority for it.\n\nSwiderski sees the storks' value differently. He believes their real purpose is drawing people into caring about nature more broadly \u2014 healthy soil, organic farming, wetlands, and the insects and small mammals that depend on them. Watching one glide low over the trees, he admitted, \"I don't think I'll get tired of the sight of them.\"",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/was-this-heatwave-caused-by-climate-change-were-asking-the-wrong-question-288637",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/protesters-occupy-tree-us-mexico-border",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
+          "tier": 2
+        },
+        {
+          "name": "Positive News",
+          "url": "https://www.positive.news/society/good-news-stories-from-week-32-of-2026/",
+          "tier": 3
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
