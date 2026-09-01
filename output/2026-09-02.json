@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-02",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "1a12fd24a73ae4463243",
+      "cluster": "discovery",
+      "headline": "Fruit fly study reveals method to retrieve lost memories",
+      "tease": "Researchers found a way to recover forgotten memories, using fruit flies as an unlikely guide.",
+      "summary": "Scientists working with fruit flies have found that memories which seem forgotten may still be tucked away in the brain, waiting for the right cue. The flies were trained to avoid a smell linked to a mild shock, and a day later they'd stopped avoiding it. But when researchers recreated the exact setting of the original training, the flies remembered and avoided the smell again. Brain scans showed the original memory pattern had faded, but a quiet trace lived on in a different set of neurons, ready to be switched back on by the right reminder.",
+      "deeper": "Here's the interesting part: the memory wasn't gone, it was just quiet. Swiss researchers trained flies to link a smell with a mild shock. The flies avoided the smell at first, then seemed to forget it a day later. But putting them back in a room with the same lighting and texture as their training brought the memory rushing back.\n\nLooking inside the flies' brains, the scientists found the original memory pattern had faded, but a hidden trace remained in other neurons. The right reminder could reactivate it.\n\nThere's a catch, though. The flies could also form false memories: when exposed to a harmless smell they'd never been shocked with, but presented as if it were the \"reminder,\" they started avoiding that one too. Interestingly, the brain used different pathways for genuine recovered memories versus these false ones.\n\nFly brains aren't human brains, and the researchers are careful about that. But the study hints that remembering isn't just about what's stored \u2014 it's about rebuilding it from context, and that process can sometimes go wrong in ways that create memories that never happened.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/documentary-captures-impacts-of-diamond-mining-along-south-africas-west-coast/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582580-the-once-impossible-black-holes-that-could-break-thermodynamics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Science",
+          "url": "https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.5,
+        7.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "03f9af3e6862339705e6",
+      "cluster": "progress",
+      "headline": "Bangladesh installs rope canopy bridges to protect wildlife",
+      "tease": "Simple rope bridges are helping animals cross roads safely in fragmented forests.",
+      "summary": "Bangladesh's Forest Department has strung five rope bridges over a highway that cuts through Madhupur National Park, giving monkeys, langurs and other tree-dwelling animals a safe way to cross above the traffic. The bridges, each about 30 meters long, cost roughly $5,000 total and were built after officials noticed frequent collisions between vehicles and wildlife like rhesus macaques and capped langurs. The idea builds on smaller pilot projects by researchers elsewhere in the country, which recorded over a thousand safe animal crossings in a single year. Road authorities are now planning to fund more bridges, and officials hope to install them in other fragmented forests too.",
+      "deeper": "The problem is simple: roads cut through forests, and animals that live in the treetops have no way to cross except by climbing down into traffic. In Bangladesh's Madhupur National Park, that has meant regular roadkill among macaques, langurs and small carnivores as a highway slices through their habitat.\n\nThe fix is just as simple \u2014 rope bridges strung high above the road, letting animals climb across the canopy instead of crossing the tarmac. It's cheap, low-tech, and it works: a similar bridge project in another Bangladeshi forest recorded over a thousand animal crossings in a year, including langurs and slow lorises escaping not just cars but also village dogs.\n\nNot every attempt has held up. Some earlier bridges were damaged, stolen, or fell when linking trees collapsed, and monitoring has sometimes suffered from a lack of funds or working cameras. Researchers who pioneered the approach say future bridges need careful site selection and community involvement to last.\n\nStill, the momentum is real. Bangladesh's road authority has agreed to help fund more crossings, and forest officials are eyeing several other fragmented reserves for the same treatment \u2014 a small, affordable idea spreading because it visibly keeps animals alive.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.5,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "21cf8aebc6a96aeb841a",
+      "cluster": "animals",
+      "headline": "Scientists Observe Harbor Porpoise Mating From Golden Gate Bridge",
+      "tease": "Years of bridge-side observation reveal mating secrets that could help protect vulnerable porpoises.",
+      "summary": "For years, scientists knew almost nothing about how harbor porpoises mate. William Keener and colleagues solved that mystery by watching the animals from the pedestrian walkway of the Golden Gate Bridge, where porpoises returned in 2008 after decades away. High above the water, researchers had a clear view no boat could get without scaring the shy animals off. Over eight years they captured 144 photos and videos, revealing a fast, one-sided mating approach that always came from the female's left. The findings, the first detailed account for any porpoise species, are helping researchers worldwide understand what these animals need to breed successfully.",
+      "deeper": "Harbor porpoises have lived alongside humans for thousands of years, but nobody had ever clearly documented how they mate. William Keener, a research biologist in California, spent hundreds of hours on the Golden Gate Bridge walkway watching for clues, after boats proved too intrusive. What he found was strange: a male porpoise rockets up from below as a female surfaces to breathe, and the whole encounter lasts one or two seconds. Stranger still, the male always approaches from her left side, something almost unheard of in mammal mating. Keener thinks the odd choreography might simply take a lot of practice, which could explain why porpoises attempt it year-round, not just during their brief fertile season. Other researchers, in Washington state and Denmark, later realized they'd seen the same left-sided behavior in their own footage without recognizing it. Understanding this basic piece of porpoise life matters beyond curiosity. Knowing exactly what successful mating looks like helps scientists judge whether a population is healthy or struggling, which could prove useful for protecting harbor porpoises in places where they've become rare.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-local-knowledge-early-glacial-lake.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/podcast/2026/08/my-wild-city-reminds-us-why-cities-need-nature/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/ai-went-to-the-opera-projecting-images-for-an-anniversary-production-of-wagners-ring-cycle-at-the-theater-where-he-first-staged-the-masterpiece-180989270/",
+          "tier": 2
+        },
+        {
+          "name": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/qa-what-is-in-chinas-new-five-year-plan-for-climate-change",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
