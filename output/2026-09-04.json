@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-04",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "6435e314a59954e21e56",
+      "cluster": "discovery",
+      "headline": "Superworms Tested as Alternative for Cleaning Museum Skeletons",
+      "tease": "Researchers find these larvae strip flesh from bones gently, offering museums a safer prep method.",
+      "summary": "A chance mistake at a research lab has turned into a promising new tool for museums. Scientists ran out of vegetables to feed a colony of superworms kept for injured wild birds, gave them a leftover chicken bone instead, and watched the larvae strip it clean in no time. That led them to test the worms on eight animal skeletons, from a gray wolf to a Eurasian eagle owl. At the right ratio, the larvae cleaned bones in hours to days without damaging them. Superworms are cheap, easy to keep, and reusable for months, offering institutions a simpler alternative to boiling, chemicals, or beetle colonies.",
+      "deeper": "The idea came about by accident. Researchers who kept a colony of superworms to feed injured wild birds ran out of vegetable scraps one day and tossed in a leftover chicken bone instead. The larvae tore through it so fast that the team wondered if they could handle something trickier: cleaning skeletons for museum collections.\n\nSo they tried it, testing the worms on skinned, de-organed carcasses of animals like a gray wolf, an alligator gar, and a Eurasian eagle owl. With the right number of worms per gram of carcass, the larvae picked bones clean in hours or days, leaving them undamaged. Afterward, the worms went back to eating vegetables and got time to recover before their next job.\n\nCompared to traditional methods, like colonies of flesh-eating beetles, superworms are simpler to manage. They stay in their larval stage for months as long as they're kept together, so there's less risk of insects escaping and damaging other specimens. They're also cheap and already sold widely as pet food.\n\nResearchers don't think superworms will replace every cleaning method. But for museums or labs short on space, staff, or money, they could be a low-cost, low-risk option worth trying, especially on delicate specimens that need a gentler touch.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-07-climate-west-headwaters.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/a-shy-bird-found-only-in-nepal-is-waiting-for-the-world-to-notice/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/flesh-eating-superworms-could-become-a-new-skeleton-cleaning-crew-for-museum-and-research-specimens-180989258/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2583523-its-good-for-the-planet-to-scrap-a-new-petrol-car-and-buy-electric/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        6.5,
+        6.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "92a124b51cd911abe349",
+      "cluster": "progress",
+      "headline": "Gold metacrystal sorts quantum light without deep-freeze cooling",
+      "tease": "A tiny gold crystal could let quantum devices ditch bulky cryogenic freezers entirely.",
+      "summary": "Physicists at LSU have built a tiny gold crystal that can sort different quantum states of light and move them around without needing deep-freeze cooling. Almost all quantum materials only work near absolute zero, because heat makes atoms jiggle and destroys the delicate effects scientists rely on. The team got around this by engineering their own material: a thin gold layer cut with hundreds of tiny slits, each acting like an artificial atom. Arranging these slits carefully lets the crystal act as a filter, sorting light by its quantum behavior at room temperature. That could make quantum computers, sensors, and communication devices smaller and cheaper to build.",
+      "deeper": "Light seems simple, but sunlight, laser light, and fluorescent light are all made of photons that behave subtly differently at the quantum level. Normally, telling these differences apart takes bulky equipment cooled to near absolute zero and huge numbers of measurements. The LSU team built something new instead: a gold chip etched with hundreds of tiny slits, each acting like an artificial atom. Together these form a crystal that doesn't exist in nature, one that sorts incoming light by its quantum properties and guides different types along separate paths, all at room temperature.\n\nOne researcher described the appeal simply, saying they built something nature doesn't provide on its own, and watching it work as predicted felt rewarding. The team calls this a new class of material and says the same design approach could be used to build others like it, rather than being a one-off discovery.\n\nThe practical promise is that quantum devices could shed their dependence on expensive cooling systems, making them smaller and easier to actually use. The researchers also suggest the same light-guiding trick might help solar cells waste less sunlight as heat, though that idea is still early.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "d3d620ea47bc08ec03d3",
+      "cluster": "animals",
+      "headline": "Water voles return to Surrey's Hogsmill River",
+      "tease": "Tiny droppings reveal a quiet comeback for one of Britain's most endangered mammals.",
+      "summary": "Water voles are back on Surrey's Hogsmill River, and a year on, they're thriving. Conservation groups South East Rivers Trust and Citizen Zoo released 42 water voles into the chalk stream last July, ending a local absence of more than 20 years. Surveys now find burrows, droppings and camera-trap footage showing voles have spread both upstream and downstream of the release site. Their return has been helped by a parallel effort to remove non-native mink, which prey heavily on water voles, from the area. Conservationists say the voles' presence is also a sign the river itself is healthier, with better vegetation and more natural banks.",
+      "deeper": "The best proof that water voles are doing well, it turns out, is finding their droppings \u2014 specifically, squashed ones. Water voles have scent glands on their feet and press their tiny, Tic Tac-shaped droppings down to mark territory, so a flattened dropping outside a burrow means an active, established population. Urban rewilding officer Pia Trevelyan-Ashby has been searching riverbanks for exactly this since 42 voles were released into the Hogsmill last summer, and she's finding more burrows every visit.\n\nWater voles vanished from the area more than 20 years ago, hit by habitat loss and mink, a predator introduced from fur farms that can kill roughly one small animal a day. So alongside reintroducing the voles, teams have been working to clear mink from the river, giving the voles a real chance to survive their first winter, when populations typically fall sharply.\n\nThe voles matter beyond themselves. They keep waterside vegetation trimmed and sit near the bottom of the food chain, feeding other wildlife. Their return signals a river with better bankside habitat \u2014 a small, patient sign that the Hogsmill is recovering.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/07/sri-lanka-prepares-for-impending-el-nino-with-traditional-and-new-approaches/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-may-have-spotted-a-supermassive-black-hole-that-wandered-to-the-edge-of-its-galaxy-180989233/",
+          "tier": 2
+        },
+        {
+          "name": "Optimist Daily",
+          "url": "https://www.optimistdaily.com/2026/08/the-robots-kids-build-to-preserve-native-american-languages/",
+          "tier": 3
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/environment/2026/aug/07/we-expected-it-but-now-its-here-on-the-frontline-of-australias-bird-flu-outbreak-people-are-distressed",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
