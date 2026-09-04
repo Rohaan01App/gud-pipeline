@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-05",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "8931dc49664730b3d735",
+      "cluster": "discovery",
+      "headline": "Researchers turn dissolved ocean CO2 into stable mineral storage",
+      "tease": "A new electrochemical process could lock ocean carbon away as solid rock, permanently.",
+      "summary": "A research team led by Professor Dong-Yeun Koh, working with Professor T. Alan Hatton's group at MIT, has developed a way to pull carbon dioxide already dissolved in seawater and turn it into a solid mineral. The process uses an electrochemical reaction to convert that dissolved CO2 into calcium carbonate, the same stable mineral found in shells and limestone. Once locked in that form, the carbon stays put, offering a way to store it for the long term rather than letting it drift back into the air or ocean.",
+      "deeper": "Oceans already soak up a huge amount of carbon dioxide, but most of it stays dissolved, ready to shift back into the atmosphere. This team found a way to change that by using electricity to trigger a reaction that turns dissolved CO2 into solid mineral, similar to what makes up seashells and limestone.\n\nProfessor Dong-Yeun Koh led the work, joined by Professor T. Alan Hatton's group at MIT. Turning a gas that's dissolved in water into a hard mineral is a neat trick chemically, but the real value is in permanence. A solid mineral doesn't leak back out or need constant monitoring the way some other storage methods do.\n\nIt's early days for the technology, and the source doesn't say how it would scale up or what it would cost to run at the size needed to matter for the climate. But the basic chemistry works: carbon that was dissolved and mobile becomes carbon that is locked away as stone.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051519.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-marine-carbon-technology-dioxide-seawater.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/vinod-rishi-helped-give-indias-elephants-room-to-roam/",
+          "tier": 2
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-adding-ai-tool-google-earth.html",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        6.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "7f9f7ca65c7dbc530c54",
+      "cluster": "progress",
+      "headline": "New evaporation method improves perovskite-silicon solar cells",
+      "tease": "Scientists found a scalable way to build efficient tandem solar cells using heat.",
+      "summary": "Researchers have found a way to build perovskite-silicon tandem solar cells using heat rather than the wet chemical steps that usually go into making them. The method relies on a formamidinium eutectic material and applies it through thermal evaporation, a process where thin layers are deposited by vaporizing materials in a vacuum. Tandem cells stack two light-absorbing layers to capture more of the sun's spectrum than a single layer can. Making that stack easier to manufacture matters because simpler, more reliable production methods are often what stand between a promising lab result and a solar panel you could actually buy.",
+      "deeper": "Solar cells that combine perovskite with silicon can capture more sunlight than ordinary silicon panels, because the two materials absorb different parts of the light spectrum. The tricky part has always been putting them together well, since the usual perovskite-making methods involve wet chemical coatings that can be hard to control precisely across a large surface.\n\nThis new work does the layering by heating materials until they turn to vapor and settle onto the surface below, a technique known as thermal evaporation. The team used a specific combination of ingredients, described as a formamidinium eutectic, to make this heat-based approach work for the perovskite layer.\n\nThe appeal of evaporation is that it's a familiar, well-understood process in electronics manufacturing, so a method that fits it more easily could be simpler to scale up than wet-chemistry alternatives. The source doesn't give performance numbers or timelines for real-world use, but the core idea is straightforward: a more manufacturable way to build high-performing solar cells is a genuinely useful step, even before it shows up on a rooftop.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02419-2",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10958-x",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10970-1",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "acf5c2bda722a98db6a1",
+      "cluster": "animals",
+      "headline": "White-Tailed Sea Eagle Chick Fledges at Irish Wildlife Park",
+      "tease": "A century after vanishing from Ireland, this majestic raptor's comeback gains a new chick.",
+      "summary": "A white-tailed sea eagle chick has fledged at Fota Wildlife Park in County Cork, the park's first in more than a decade. The eaglet hatched in April to parents \u00c1ine and Tony, who staff say have taken well to raising Europe's largest eagle. The bird was once wiped out across Ireland by human persecution, absent for more than a century. Since 2007, Ireland's National Parks and Wildlife Service and partners have released over 200 sea eagles nationwide, and the population is now considered self-sustaining. This new chick may one day join a European breeding programme, extending its impact beyond Cork.",
+      "deeper": "White-tailed sea eagles used to be a common sight along Ireland's coast, until people hunted them out entirely. For more than a hundred years, the country had none. Then, starting in 2007, wildlife groups began releasing eagles brought over with help from Norwegian researchers, working alongside farmers and local communities who agreed to give the birds a chance. More than 200 eagles later, the population can now sustain itself without more releases.\n\nThis spring's chick, born to parents \u00c1ine and Tony at Fota Wildlife Park, is a small but telling piece of that story. Staff say the pair have handled parenthood well, no small feat given that eaglets need close to a pound of food a day and the adults' wingspans can top eight feet. The park has now bred six such chicks since 1991.\n\nStaff hope this youngster might eventually join a Europe-wide breeding program for endangered birds. It's a reminder that a species people once erased from a place can come back \u2014 not by accident, but because enough people decided it mattered and kept at it for decades.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-unprecedented-biomass-loss-europe-forests.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10899-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        7.5,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
