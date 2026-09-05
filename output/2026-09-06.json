@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-06",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "44472a450dee89a2168a",
+      "cluster": "discovery",
+      "headline": "ESA's HydroGNSS satellites begin full science operations",
+      "tease": "Free new satellite data promises fresh insight into Earth's shifting water cycle.",
+      "summary": "Two small satellites built to watch Earth's water are now fully up and running, and their data is free for anyone to use. The HydroGNSS mission tracks navigation signals like GPS and Galileo after they bounce off the planet's surface, using the reflections to sense soil moisture, flooding, wetlands, freeze-thaw cycles, and plant growth. Since launching in November 2025, the team spent eight months testing and calibrating the system. It's ESA's first \"Scout\" mission, built quickly and cheaply by Surrey Satellite Technology, and it shows that low-cost satellites can still deliver useful science on how climate change is reshaping the water cycle.",
+      "deeper": "Here's the clever part: HydroGNSS doesn't send out its own signals. It just listens. Navigation satellites like GPS and Galileo are already broadcasting constantly, and their signals bounce off oceans, soil, ice and forests below. By comparing the reflected signal to the direct one, HydroGNSS can tell what it hit and how wet it was.\n\nThat trick turns out to have a real advantage. Radar satellites like Sentinel-1 struggle to see water hidden under thick forest canopy. HydroGNSS can spot it anyway, using a different kind of signal analysis. That matters because hidden wetlands play a real role in storing carbon, and scientists have had trouble mapping them properly.\n\nThe mission was built fast and cheap, as a proof-of-concept for how ESA does future missions. One nice detail: about half the signals HydroGNSS reflects and studies come from Galileo satellites, which were also built by the same UK company, SSTL. As project manager Peter Garner put it, the signals are \"coming home.\" The data is now open to any researcher who wants it.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "e9a15d377e2f89b691eb",
+      "cluster": "progress",
+      "headline": "Doe Run to pay $150m over childhood lead poisoning in Peru",
+      "tease": "After a two-decade fight, poisoned families near a Peruvian smelter finally win justice.",
+      "summary": "More than 1,300 people in La Oroya, Peru, who were poisoned by lead as children will share a $150m settlement from the Doe Run Company, the US firm that ran a smelter in their town. The payout, at least $100,000 per person, ends a 19-year legal fight led partly by Cardinal Pedro Barreto, who faced death threats for speaking out. It's one of the longest-running cases of a company being held accountable in a US court for harm caused abroad. The money won't undo the neurological damage many suffered, but it stands as recognition that the harm was real and that justice, however delayed, was possible.",
+      "deeper": "For years, La Oroya was known as one of the most polluted places on Earth. Nearly every young child tested there had dangerously high lead levels in their blood, absorbed from a nearby smelter's emissions. Cardinal Pedro Barreto, then a local archbishop, began speaking out in 2004 and was threatened for it, often by people worried about losing their jobs at the plant. He kept going anyway, eventually connecting affected families with lawyers in St Louis, where the company was based. What started as a case for 17 children in 2007 grew into a lawsuit representing over 1,300 people, now grown up. The legal team fought off attempts to move the case to Peru, where they believed it would have gone nowhere. The company admitted no wrongdoing, but agreed to pay. Barreto is careful to note that no amount of money restores what was lost \u2014 some of these children suffered lasting harm to their brains and growth. But the case shows that a company can be made to answer, in court, for damage done far from home.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2580566-will-a-new-kind-of-ai-that-understands-physical-reality-change-the-world-again/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/06/gambling-inducements-labor-coalition-greens-betting-companies",
+          "tier": 2
+        },
+        {
+          "name": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/towns-beloved-santa-claus-delivers-a-very-special-present-to-someone-in-need-his-donated-kidney/",
+          "tier": 3
+        }
+      ],
+      "scores": [
+        7.0,
+        8.0,
+        8.5,
+        7.0,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "a10c1639de36cfe40e32",
+      "cluster": "animals",
+      "headline": "Amur Tiger Released in Kazakhstan After Decade-Long Rewilding Effort",
+      "tease": "A decade of reforestation and prey restoration brings tigers back to Central Asia.",
+      "summary": "A female Amur tiger named Hope has been released into Kazakhstan's Ile-Balkhash Nature Reserve, the first tiger to roam the country in more than 70 years since the Caspian tiger went extinct. It's the result of a decade-long effort that began with rebuilding the habitat and restoring prey species like deer, antelope, and wild ass before any tigers arrived. Three more tigers, including two cubs, are being gradually acclimated for future release. If successful, Kazakhstan will become the first country to bring back a tiger population to a landscape it had vanished from.",
+      "deeper": "What makes this project unusual is the order things happened in. Rather than releasing tigers and hoping the ecosystem could support them, Kazakhstan spent years first: planting forest, then reintroducing deer, antelope, and wild ass so there would be enough prey for tigers to hunt on their own. Only once that foundation was in place did the tigers arrive, and even then, carefully. Hope, the first tiger released, spent time in a large enclosure adjusting to the sights and smells of her new home before being fitted with a GPS collar and let go. A male and two cubs are still being monitored to see if they're ready to hunt for themselves. Officials have also set up a response team to prevent conflicts with nearby communities, since the reserve isn't fenced and tigers may eventually roam beyond it. The Amur tiger stands in for the Caspian tiger, which vanished from the region decades ago and was its closest relative. If the population takes hold, it would mark the first time any country has restored a tiger species to land where it had gone extinct.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-metal-deposits-reveal-ice-ages.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/environmental-activists-in-kenya-concerned-over-billionaires-planned-oil-refinery/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582816-how-does-my-energy-use-differ-if-i-walk-jog-or-run-for-1-kilometre/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/on-the-front-lines-of-conservation-in-sumatra-rangers-safeguard-batutegi-forest/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        8.5,
+        9.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
