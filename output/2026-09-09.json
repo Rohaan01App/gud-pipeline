@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-09",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "2e958fef19f0a72ff475",
+      "cluster": "discovery",
+      "headline": "Levitating sensor may detect faint brain magnetic fields",
+      "tease": "A simple new device could rival complex tech for reading the brain's faintest signals.",
+      "summary": "Researchers have built a levitating sensor that can pick up extremely faint magnetic fields, including the kind produced by brain activity. The device works by suspending a small object so it responds to tiny magnetic changes around it, a much simpler setup than the complex equipment biophysics labs usually rely on. Despite its simplicity, early signs suggest it could match or rival those more elaborate systems. Beyond studying the brain, the same sensitivity could make it useful for other faint-signal searches, including efforts to detect dark matter. It's a reminder that better tools for reading the body's subtle signals don't always need to be more complicated.",
+      "deeper": "The idea here is neat: instead of building an ever more intricate machine to catch faint magnetic signals, researchers made something simpler that levitates. When an object floats freely, tiny forces acting on it \u2014 even ones as small as the magnetic field from firing neurons \u2014 can nudge it in ways that are easier to measure precisely.\n\nThat matters because brain activity produces magnetic fields so weak they're normally hard to detect without heavy, specialized equipment. A sensor with a simple design that can still keep up with the fancier alternatives could make this kind of measurement more accessible to more labs.\n\nWhat's especially interesting is the sensor's reach beyond biology. The same sensitivity that lets it sense a whisper of brain activity could also help physicists hunt for dark matter, the mysterious substance that makes up most of the universe's matter but has never been directly observed. One simple device, two very different frontiers \u2014 the inner workings of the brain and the outer edges of physics \u2014 showing how a clever bit of engineering can open doors nobody quite expected.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01360-8",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10963-0",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02458-9",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        6.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "27f7dd29baf8996c53ac",
+      "cluster": "progress",
+      "headline": "New stainless steel resists corrosion, could cut hydrogen costs",
+      "tease": "A cheaper steel alloy could make seawater hydrogen production dramatically more affordable.",
+      "summary": "Engineers in Hong Kong have built a new stainless steel that stands up to corrosion far better than existing versions, which could make green hydrogen cheaper to produce. The team, led by Professor Mingxin Huang, found the steel forms two protective layers instead of the usual one, letting it survive the harsh, high-voltage conditions needed to split seawater into hydrogen and oxygen. That matters because current equipment for this process relies on costly titanium parts coated in gold or platinum. The researchers estimate the new steel could cut structural material costs by about 40 times, and have already produced tons of wire from it with a factory partner.",
+      "deeper": "Stainless steel normally protects itself with a thin invisible layer that forms when chromium in the metal reacts with its surroundings. But push the electrical voltage high enough, as you must to split seawater into hydrogen, and that layer breaks down. For years this stopped stainless steel from being used in the harshest hydrogen-making equipment, which instead relies on expensive titanium.\n\nHuang's team, after nearly six years of work, found that their new steel grows a second protective layer on top of the first, this one built from manganese. That was a surprise, since manganese was long thought to weaken corrosion resistance, not help it. Even the researchers doubted their own results at first, until detailed atomic-level evidence convinced them.\n\nTogether, the two layers let the steel withstand conditions far tougher than plain stainless steel can handle, including the salty water used in seawater electrolysis. Because this steel is much cheaper than titanium, it could sharply cut the cost of building hydrogen production equipment. The team has already made tons of wire from it with an industrial partner, though turning it into the meshes and foams real electrolyzers need is still ongoing work.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02083-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02386-8",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02235-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "47d8ef99444ff87178cb",
+      "cluster": "animals",
+      "headline": "Detection dogs help scientists study rare, elusive species",
+      "tease": "Trained dogs sniff out scat, opening a window into secretive wildlife like black-footed cats and pangolins.",
+      "summary": "In South Africa's Karoo, two German Shorthaired Pointers named Lyka and Sebala are sniffing out scat from some of the region's hardest-to-study animals, including black-footed cats and Temminck's pangolins. Working with conservation biologist Michelle Schroeder, the dogs have found hundreds of samples in months, work that took a human researcher over a year to match on her own. Each scat carries genetic clues about an animal's sex, health, diet, and relationships to others nearby. That data is helping scientists estimate population sizes, track gene flow across the landscape, and even flag habitats worth protecting from development.",
+      "deeper": "Some animals are just hard to see. Black-footed cats hide in burrows by day and leave droppings almost anywhere, with no pattern to follow. Pangolins are nocturnal, camouflaged, and their droppings vanish within a day or two. So researchers turned to dogs, whose noses can pick up what humans simply can't.\n\nMichelle Schroeder's dogs, Lyka and Sebala, found in a few months what she'd spent over a year searching for alone. Each dropping they find holds what she calls \"nuggets of genetic data\" \u2014 enough to tell researchers an animal's sex, sometimes its identity, and how populations connect across the landscape. Early results from the Karoo suggest black-footed cats there still have healthy genetic diversity and can move freely between areas, though researchers caution this may not hold everywhere.\n\nThe same approach is helping protect riverine rabbits, too. When dogs and camera traps confirmed rabbits were living in land proposed for wind-energy projects, it gave conservationists solid evidence to push back on development in sensitive habitat.\n\nThe work isn't glamorous, and funding is tight \u2014 a pangolin tracking project stalled this year for lack of money. But for Schroeder and her colleagues, the dogs are more than tools. They're partners who, when the fieldwork ends, get to just be dogs again.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02398-4",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02429-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
