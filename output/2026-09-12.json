@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-12",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "d10d30663d526a947158",
+      "cluster": "discovery",
+      "headline": "Trial finds psilocybin eases treatment-resistant depression",
+      "tease": "A publicly funded study shows magic mushrooms may help when other treatments fail.",
+      "summary": "A single dose of psilocybin, the active compound in magic mushrooms, helped ease depression that had not responded to other treatments. In a trial led by King's College London, four in 10 people given the drug saw their symptoms go into remission within three weeks, compared with just 3% given a placebo. Both groups also received psychological support throughout. The improvement held up at six weeks. It's the first publicly funded trial of its kind, and researchers say it strengthens the case for larger studies testing psilocybin therapy in ordinary community settings rather than hospitals.",
+      "deeper": "Sixty people took part, all of them living with depression that hadn't budged after two other treatments. Half received a 25mg dose of psilocybin, half a placebo, and everyone got emotional support alongside it. The difference was striking: 40% of those on psilocybin were in remission within three weeks, against 3% on placebo, and that gap held six weeks on.\n\nOne patient described the experience as intense and painful, at one point picturing two people they'd lost, holding each other. They said it was hard, but it helped them finally sit with their feelings and understand their depression better.\n\nWhat stands out to researchers isn't just the drug itself, but where it can be given. The trial moved from a clinical research unit to an ordinary community mental health building, suggesting psilocybin therapy doesn't need a hospital ward, just a calm space and trained staff nearby. Professor James Rucker, who led the study, called it a step toward proving this could work in real-world settings. He was careful to note that not everyone responds the same way, and some of the improvement likely comes from factors beyond the drug. But the evidence, he said, is growing, and looking increasingly promising.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/innovation/the-history-of-the-beach-read-from-19th-century-moral-debasement-to-booktok-180989238/",
+          "tier": 2
+        },
+        {
+          "name": "Positive News",
+          "url": "https://www.positive.news/society/will-regeneratively-grown-food-become-mainstream/",
+          "tier": 3
+        },
+        {
+          "name": "Independent Sci",
+          "url": "https://www.independent.co.uk/news/science/psychedelic-magic-mushroom-depression-cure-b3028420.html",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/business/2026/aug/07/uk-house-prices-flat-july-lloyds-affordability",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "5fd363aa34431cf49156",
+      "cluster": "progress",
+      "headline": "National Trust land reshaped to absorb river floodwater",
+      "tease": "A landscape is being reworked to soak up floods before they reach nearby towns.",
+      "summary": "Rangers and volunteers at Attingham Park in Shropshire are turning the estate into a sponge for two rivers. They've built small dams from willow wood, restored ponds, and planted trees and hedgerows to slow water down before it reaches the River Severn and River Tern. The work is one of eight projects under the Severn Valley Water Management Scheme, testing whether nature-based methods can ease flooding risk downstream as the climate changes. Ranger Emilia Fahlstromova said the goal is to re-wet land that has dried out over the years, bringing wetland wildlife back while holding more water on site.",
+      "deeper": "The idea here is simple: give water somewhere to go before it becomes a flood. At Attingham Park, rangers have been wedging willow logs across streams to make small dams, restoring old ponds, and planting trees and hedgerows. Each one slows the water down a little, so it soaks into the land instead of rushing downstream.\n\nRanger Emilia Fahlstromova says wood is the best material for this kind of work, and that the aim is to \"wet the area up\" again after years of drying out, bringing back wetland species along the way.\n\nProject manager Jane Birch points to the bigger shift in thinking: after World War Two, farmland was drained to grow as much food as possible. Now, she says, it makes sense to hold water on the land instead, to cut flooding risk further downstream.\n\nA BBC environment correspondent noted that even something as simple as a few logs in a stream can make a real difference, and that some land flooding a bit isn't necessarily a bad thing if it means less flooding elsewhere. It's a small, low-tech experiment, but one that could shape how the wider Severn valley handles water as storms get harder to predict.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02385-9",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10860-6",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "acf5c2bda722a98db6a1",
+      "cluster": "animals",
+      "headline": "White-Tailed Sea Eagle Chick Fledges at Irish Wildlife Park",
+      "tease": "A century after vanishing from Ireland, this majestic raptor's comeback gains a new chick.",
+      "summary": "A white-tailed sea eagle chick has fledged at Fota Wildlife Park in County Cork, the park's first in more than a decade. The eaglet hatched in April to parents \u00c1ine and Tony, who staff say have taken well to raising Europe's largest eagle. The bird was once wiped out across Ireland by human persecution, absent for more than a century. Since 2007, Ireland's National Parks and Wildlife Service and partners have released over 200 sea eagles nationwide, and the population is now considered self-sustaining. This new chick may one day join a European breeding programme, extending its impact beyond Cork.",
+      "deeper": "White-tailed sea eagles used to be a common sight along Ireland's coast, until people hunted them out entirely. For more than a hundred years, the country had none. Then, starting in 2007, wildlife groups began releasing eagles brought over with help from Norwegian researchers, working alongside farmers and local communities who agreed to give the birds a chance. More than 200 eagles later, the population can now sustain itself without more releases.\n\nThis spring's chick, born to parents \u00c1ine and Tony at Fota Wildlife Park, is a small but telling piece of that story. Staff say the pair have handled parenthood well, no small feat given that eaglets need close to a pound of food a day and the adults' wingspans can top eight feet. The park has now bred six such chicks since 1991.\n\nStaff hope this youngster might eventually join a Europe-wide breeding program for endangered birds. It's a reminder that a species people once erased from a place can come back \u2014 not by accident, but because enough people decided it mattered and kept at it for decades.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-unprecedented-biomass-loss-europe-forests.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10899-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        7.5,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
