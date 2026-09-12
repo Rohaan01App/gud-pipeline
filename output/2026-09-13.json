@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-13",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "a8c9102b755845723db9",
+      "cluster": "discovery",
+      "headline": "Silver nanocatalysts found to switch reaction sites with cell mode",
+      "tease": "A hidden switch in silver catalysts could make clean power and hydrogen more efficient.",
+      "summary": "Researchers in South Korea have found that a single silver catalyst used in clean-energy cells can shift where it does its work depending on the job at hand. When the cell is generating electricity, the key chemistry happens at the boundary where silver particles meet the electrode. When the cell is producing hydrogen, the action moves to the surface of the silver particles themselves. The team, led by scientists at Seoul National University with partners at KAIST and the Korea Basic Science Institute, built a precisely ordered model electrode to see this clearly. The insight offers a new way to design better solid oxide cells for electricity and hydrogen production.",
+      "deeper": "Solid oxide cells are versatile: run one way, they make electricity; run the other way, they split water into hydrogen. Silver added to these cells makes them work better, but nobody knew exactly where or how the silver was helping.\n\nTo find out, the researchers built a tidy, evenly spaced arrangement of silver particles on an electrode, rather than using the messy, tangled structures found in real devices. That let them watch closely where the chemistry actually happened.\n\nThe surprise: it depends on the direction the cell is running. Making electricity, the silver does its work at the edge where it touches the electrode. Making hydrogen, the silver does its work across its own surface. Using detailed imaging and calculations, the team showed the silver changes the electrode's surface behavior in each mode, favoring different chemical steps.\n\nThis matters because it means catalysts aren't just simple helpers bolted onto a device. Their role shifts with how the device is used. That opens a design strategy: engineer the catalyst's surface and its contact with the electrode separately, rather than as one fixed feature. Done well, it could make electricity generation and green hydrogen production more efficient, and support devices that do both jobs in one system.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02334-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10977-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "b1898fd1dce3bce904de",
+      "cluster": "progress",
+      "headline": "Australia sets $31.30 minimum wage for gig delivery drivers",
+      "tease": "A new industrial ruling gives delivery drivers guaranteed pay and injury insurance nationwide.",
+      "summary": "Delivery drivers across Australia will now earn a guaranteed minimum of $31.30 an hour, under new standards approved by the Fair Work Commission. The rules also require delivery platforms to provide personal accident insurance for workers, while keeping the flexibility gig work is known for. The change came after the Transport Workers' Union joined forces with DoorDash and UberEats to jointly request the protections, following years of talks. Officials and union leaders called the result \"world-leading,\" and it's expected to apply broadly across on-demand food, drink, and grocery delivery platforms, offering a safety net to hundreds of thousands of workers.",
+      "deeper": "For years, gig delivery work has meant unpredictable pay \u2014 riders and drivers might wait unpaid for a restaurant order, with no guarantee of a minimum wage or protection if they got hurt on the job. That's changing in Australia. Starting in August, delivery platforms must pay workers a guaranteed hourly rate, and organise insurance that covers them if they're injured while working.\n\nWhat makes this notable is how it came together: the union representing gig workers didn't fight the platforms alone in court \u2014 it worked with DoorDash and UberEats to jointly propose the new rules to the industrial umpire. Both sides gave a little. Workers are now called \"employee-like\" rather than full employees, and they'll need to insure their own vehicles against damage to others. In exchange, they get steady minimum pay and injury cover, without losing the flexibility to choose their own hours.\n\nIt's a rare case of a gig economy fight ending in a shared framework rather than a standoff. Officials are calling it a milestone, and it's likely to be watched closely elsewhere, since similar gig-work disputes are playing out in many countries.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582737-climate-change-could-eliminate-malaria-from-west-and-central-africa/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        8.0,
+        6.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "415920cee74a4ba67947",
+      "cluster": "animals",
+      "headline": "First white storks released into wild in Cornwall",
+      "tease": "Twenty-one storks take flight over Bodmin Moor after a long reintroduction effort.",
+      "summary": "Twenty-one white storks took flight over Bodmin Moor this week, the first to be released into the wild in Cornwall. Most had hatched there this year at the Cornwall Stork Project, based at Hamatethy farm, an organic farm that also runs rewilding schemes. The birds will spend a couple of months getting used to freedom before migrating south for winter, perhaps to Spain or Morocco. Because storks have a strong homing instinct, the project raised them in breeding aviaries on the moor so they will hopefully return there in a few years to nest and raise chicks of their own.",
+      "deeper": "Founder Yan Swiderski, a former fund manager turned farmer, had tears in his eyes watching the storks step out of their aviary and into the sky. He said storks can't simply be released anywhere, since they try to return to wherever they were born. So the project bred and raised chicks on Bodmin Moor itself, hoping the birds' homing instinct will one day bring them back to nest there.\n\nThe project follows a similar effort at Knepp estate in Sussex, running since 2016, and the Cornish birds may even migrate south alongside the Knepp storks. Natural England, while not opposing the releases, points out storks were never native breeding birds in England and says such projects aren't a priority for it.\n\nSwiderski sees the storks' value differently. He believes their real purpose is drawing people into caring about nature more broadly \u2014 healthy soil, organic farming, wetlands, and the insects and small mammals that depend on them. Watching one glide low over the trees, he admitted, \"I don't think I'll get tired of the sight of them.\"",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/was-this-heatwave-caused-by-climate-change-were-asking-the-wrong-question-288637",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/protesters-occupy-tree-us-mexico-border",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
+          "tier": 2
+        },
+        {
+          "name": "Positive News",
+          "url": "https://www.positive.news/society/good-news-stories-from-week-32-of-2026/",
+          "tier": 3
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
