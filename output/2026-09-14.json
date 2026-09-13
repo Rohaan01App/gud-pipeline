@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-14",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "e4e5c2ddbeef0b175a70",
+      "cluster": "discovery",
+      "headline": "Universal pneumococcal vaccine approach shows promise in research",
+      "tease": "Scientists target shared bacterial proteins to protect against strains current vaccines miss.",
+      "summary": "A universal vaccine for pneumococcal disease has moved a step closer, thanks to researchers targeting proteins shared across bacterial subtypes. Current vaccines protect against only some strains of the bacteria that cause pneumococcal disease, leaving others free to spread. By focusing on proteins common to many subtypes rather than the specific markers used in existing vaccines, researchers hope to build protection that isn't limited to a handful of strains. This approach could eventually help control the subtypes that today's vaccines miss, offering broader protection against a disease that remains a significant health burden worldwide.",
+      "deeper": "Pneumococcal disease is caused by a bacterium that comes in many different varieties. The vaccines we have now work by training the immune system to recognize specific markers on the outside of certain varieties. That works well for the strains included in the vaccine, but it leaves the door open for other varieties to cause illness instead.\n\nResearchers are now looking at a different target: proteins that many, or even most, varieties of the bacteria have in common. If a vaccine could teach the immune system to recognize these shared proteins instead of variety-specific markers, it might offer protection against a much wider range of strains at once, including ones that current vaccines don't touch.\n\nThe idea is still in the research stage, not yet available to patients. But it points toward a future where a single vaccine could offer broader coverage, rather than needing to constantly update vaccines to chase new strains as they emerge. That would be a meaningful shift in how we protect people from a disease that still causes serious illness around the world.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02372-0",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/ExoMars_stretches_out_its_legs",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        8.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "75e3db5f9a9943da0e3d",
+      "cluster": "progress",
+      "headline": "Funders adopt lotteries to allocate tied grant proposals",
+      "tease": "When experts can't rank the best ideas, some funders let chance decide fairly.",
+      "summary": "A growing number of research funders are letting a lottery decide between grant proposals that reviewers rate equally strong. Rather than forcing panels to invent fine distinctions between applications that are genuinely tied, funders draw the winner at random once the shortlist is set. The approach works because it matches the honesty of the review process: reviewers often can't reliably rank top proposals against each other, so pretending otherwise adds noise, not fairness. Randomizing the final call saves reviewer time, removes pressure to justify arbitrary rankings, and gives equally deserving projects the same shot at funding.",
+      "deeper": "Grant panels have long faced an odd problem: when several proposals are all excellent, reviewers are asked to rank them anyway, even though the differences at that level are often too small to judge reliably. Some funders have started to admit this openly. Once a panel narrows the field to the strongest, tied applications, they let a lottery pick the winner instead of squeezing out a forced ranking.\n\nThe logic is simple. If reviewers genuinely can't tell which of the top proposals is best, insisting on a ranked order doesn't produce more fairness, it just hides the guesswork behind false precision. A random draw is honest about that uncertainty instead of papering over it.\n\nThis shift matters because it changes what expertise is being asked to do. Reviewers still do the hard work of identifying which proposals are strong enough to deserve funding. The lottery only steps in at the point where merit alone can't distinguish between them. It's a small procedural change, but it reflects a broader rethink of how science funding decisions should be made when certainty runs out.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01850-9",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02360-4",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        7.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "47d8ef99444ff87178cb",
+      "cluster": "animals",
+      "headline": "Detection dogs help scientists study rare, elusive species",
+      "tease": "Trained dogs sniff out scat, opening a window into secretive wildlife like black-footed cats and pangolins.",
+      "summary": "In South Africa's Karoo, two German Shorthaired Pointers named Lyka and Sebala are sniffing out scat from some of the region's hardest-to-study animals, including black-footed cats and Temminck's pangolins. Working with conservation biologist Michelle Schroeder, the dogs have found hundreds of samples in months, work that took a human researcher over a year to match on her own. Each scat carries genetic clues about an animal's sex, health, diet, and relationships to others nearby. That data is helping scientists estimate population sizes, track gene flow across the landscape, and even flag habitats worth protecting from development.",
+      "deeper": "Some animals are just hard to see. Black-footed cats hide in burrows by day and leave droppings almost anywhere, with no pattern to follow. Pangolins are nocturnal, camouflaged, and their droppings vanish within a day or two. So researchers turned to dogs, whose noses can pick up what humans simply can't.\n\nMichelle Schroeder's dogs, Lyka and Sebala, found in a few months what she'd spent over a year searching for alone. Each dropping they find holds what she calls \"nuggets of genetic data\" \u2014 enough to tell researchers an animal's sex, sometimes its identity, and how populations connect across the landscape. Early results from the Karoo suggest black-footed cats there still have healthy genetic diversity and can move freely between areas, though researchers caution this may not hold everywhere.\n\nThe same approach is helping protect riverine rabbits, too. When dogs and camera traps confirmed rabbits were living in land proposed for wind-energy projects, it gave conservationists solid evidence to push back on development in sensitive habitat.\n\nThe work isn't glamorous, and funding is tight \u2014 a pangolin tracking project stalled this year for lack of money. But for Schroeder and her colleagues, the dogs are more than tools. They're partners who, when the fieldwork ends, get to just be dogs again.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02398-4",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02429-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
