@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-16",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "583d7e94f0d2ed1e5718",
+      "cluster": "discovery",
+      "headline": "New AI-physics model improves typhoon wave height forecasts",
+      "tease": "A hybrid model helps predict dangerous typhoon waves more accurately, aiding safety at sea.",
+      "summary": "Researchers in China have built a forecasting model that predicts typhoon wave heights more accurately, by pairing physics-based rules with AI trained on data. The new approach targets a known weak spot: current methods sometimes underestimate the biggest, most dangerous waves during typhoons. Those waves matter because they threaten ships, offshore platforms and coastal infrastructure across the northwest Pacific. By combining physics guidance with data-driven learning, the model aims to catch the extreme cases that older forecasts miss. Better predictions of wave height could help ships, platforms and coastal communities prepare before the worst waves arrive.",
+      "deeper": "Forecasting a typhoon's wind and rain is one thing. Forecasting the waves it kicks up is another, and it turns out to be trickier than expected \u2014 existing models tend to lowball the very biggest waves, the ones most likely to swamp a ship or damage an offshore rig.\n\nA team of researchers in China set out to fix that gap. Their idea was to stop treating physics and AI as separate tools and instead combine them: let known physical rules about how storms generate waves guide an AI system that also learns patterns from real data. Neither approach alone was catching the extremes reliably, but together they performed better.\n\nIt's a modest-sounding fix, but the stakes are real. The northwest Pacific sees frequent, powerful typhoons, and the ships, platforms, and coastal defenses in its path depend on accurate warnings to avoid the worst of what a typhoon can throw at them. A model that better anticipates the tallest waves gives everyone downstream \u2014 sailors, engineers, coastal planners \u2014 a clearer picture of what's actually coming, rather than an underestimate of it.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hurricane-storm-surge-patterns.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-northwest-wildfires-spokane-neighborhoods.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582842-twisteddoodles-2/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-coupled-ai-physics-typhoon-height.html",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "c57d650293c8a3079a8c",
+      "cluster": "progress",
+      "headline": "Study finds urban canals cool nearby areas during heatwaves",
+      "tease": "Researchers show how city waterways create natural relief from extreme heat.",
+      "summary": "Canals running through British and Irish cities cool the streets around them, new research shows, with the effect strongest exactly when it's needed most: during heatwaves. Researchers modelled 68 urban canals over a full year and found they lower nearby air temperatures by up to 20\u201350 metres from the banks, cooling by over 2\u00b0C during extreme heat. The canals do warm the air slightly at night, but only by about 0.2\u00b0C. Given that roughly 6.2 million people live within a 15-minute walk of a canal, this quiet cooling effect could matter for the comfort and health of a lot of city dwellers.",
+      "deeper": "Cities are full of canals left over from the Industrial Revolution, but nobody had really checked what they do to the air around them. So a team of researchers built a model tracking how canal water heats and cools through the seasons, and how that plays off the surrounding streets and buildings. The pattern that emerged: water absorbs heat slowly, so on hot days canals stay cooler than the pavement and buildings nearby, and that coolness spreads a short distance into the neighbourhood. The effect is small most of the year but grows sharply during heatwaves, exactly when people need relief. At night the canals give a little warmth back, though far less than they take away during the day. The researchers note this matters because so many people live, work, or simply walk near canals \u2014 hundreds of millions of visits are made to UK canals every year. It's a reminder that ordinary infrastructure built for other reasons, like moving goods two centuries ago, can still be quietly useful now, in a much hotter present.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02397-5",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02428-1",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080923.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10883-z",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "b363176d1a5aa110862d",
+      "cluster": "animals",
+      "headline": "Georgia Beaches Record Highest Loggerhead Turtle Nest Count in 37 Years",
+      "tease": "Decades of conservation work are paying off for threatened loggerhead sea turtles.",
+      "summary": "Loggerhead sea turtles nesting on Georgia's beaches have just set a new record: more than 4,110 nests this year, the most since counting began in 1989. Georgia's Department of Natural Resources calls it a slow but steady rebound for a species listed as threatened since 1978. Daily patrols by volunteers, researchers, and staff who mark and protect nests, along with 'turtle excluder' devices that keep the animals out of shrimp trawler nets since 1990, have helped nest counts grow about 4% a year since the early 1990s. The count has nearly doubled the original recovery goal for the species.",
+      "deeper": "Loggerheads are slow, patient animals, so any comeback takes decades to show up. Females don't lay their first eggs until they're 30 to 35 years old, so this year's record nests reflect protections put in place a generation ago. Each summer night, females haul themselves onto Georgia's barrier island beaches to bury about 100 eggs in the sand, then head back to sea. Volunteers and researchers with the Georgia Sea Turtle Cooperative walk those beaches at dawn every day, finding and protecting the nests. Shrimp boats now use devices that let turtles escape their nets, cutting down a major cause of death. The population still swings year to year, from a record low of 358 nests in 2004 to over 4,110 now. Officials expect numbers to level off for a while. But if protections stay in place, biologist Mark Dodd says nesting could eventually climb back to levels not seen in Georgia since the 1950s. It's a reminder that patient, unglamorous work, done daily for decades, can slowly turn a species' fortunes around.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-study-finds-it-where-you.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10830-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
