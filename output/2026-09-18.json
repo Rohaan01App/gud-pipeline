@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-18",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "1a12fd24a73ae4463243",
+      "cluster": "discovery",
+      "headline": "Fruit fly study reveals method to retrieve lost memories",
+      "tease": "Researchers found a way to recover forgotten memories, using fruit flies as an unlikely guide.",
+      "summary": "Scientists working with fruit flies have found that memories which seem forgotten may still be tucked away in the brain, waiting for the right cue. The flies were trained to avoid a smell linked to a mild shock, and a day later they'd stopped avoiding it. But when researchers recreated the exact setting of the original training, the flies remembered and avoided the smell again. Brain scans showed the original memory pattern had faded, but a quiet trace lived on in a different set of neurons, ready to be switched back on by the right reminder.",
+      "deeper": "Here's the interesting part: the memory wasn't gone, it was just quiet. Swiss researchers trained flies to link a smell with a mild shock. The flies avoided the smell at first, then seemed to forget it a day later. But putting them back in a room with the same lighting and texture as their training brought the memory rushing back.\n\nLooking inside the flies' brains, the scientists found the original memory pattern had faded, but a hidden trace remained in other neurons. The right reminder could reactivate it.\n\nThere's a catch, though. The flies could also form false memories: when exposed to a harmless smell they'd never been shocked with, but presented as if it were the \"reminder,\" they started avoiding that one too. Interestingly, the brain used different pathways for genuine recovered memories versus these false ones.\n\nFly brains aren't human brains, and the researchers are careful about that. But the study hints that remembering isn't just about what's stored \u2014 it's about rebuilding it from context, and that process can sometimes go wrong in ways that create memories that never happened.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/documentary-captures-impacts-of-diamond-mining-along-south-africas-west-coast/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582580-the-once-impossible-black-holes-that-could-break-thermodynamics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Science",
+          "url": "https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.5,
+        7.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "27f7dd29baf8996c53ac",
+      "cluster": "progress",
+      "headline": "New stainless steel resists corrosion, could cut hydrogen costs",
+      "tease": "A cheaper steel alloy could make seawater hydrogen production dramatically more affordable.",
+      "summary": "Engineers in Hong Kong have built a new stainless steel that stands up to corrosion far better than existing versions, which could make green hydrogen cheaper to produce. The team, led by Professor Mingxin Huang, found the steel forms two protective layers instead of the usual one, letting it survive the harsh, high-voltage conditions needed to split seawater into hydrogen and oxygen. That matters because current equipment for this process relies on costly titanium parts coated in gold or platinum. The researchers estimate the new steel could cut structural material costs by about 40 times, and have already produced tons of wire from it with a factory partner.",
+      "deeper": "Stainless steel normally protects itself with a thin invisible layer that forms when chromium in the metal reacts with its surroundings. But push the electrical voltage high enough, as you must to split seawater into hydrogen, and that layer breaks down. For years this stopped stainless steel from being used in the harshest hydrogen-making equipment, which instead relies on expensive titanium.\n\nHuang's team, after nearly six years of work, found that their new steel grows a second protective layer on top of the first, this one built from manganese. That was a surprise, since manganese was long thought to weaken corrosion resistance, not help it. Even the researchers doubted their own results at first, until detailed atomic-level evidence convinced them.\n\nTogether, the two layers let the steel withstand conditions far tougher than plain stainless steel can handle, including the salty water used in seawater electrolysis. Because this steel is much cheaper than titanium, it could sharply cut the cost of building hydrogen production equipment. The team has already made tons of wire from it with an industrial partner, though turning it into the meshes and foams real electrolyzers need is still ongoing work.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02083-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02386-8",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02235-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "b363176d1a5aa110862d",
+      "cluster": "animals",
+      "headline": "Georgia Beaches Record Highest Loggerhead Turtle Nest Count in 37 Years",
+      "tease": "Decades of conservation work are paying off for threatened loggerhead sea turtles.",
+      "summary": "Loggerhead sea turtles nesting on Georgia's beaches have just set a new record: more than 4,110 nests this year, the most since counting began in 1989. Georgia's Department of Natural Resources calls it a slow but steady rebound for a species listed as threatened since 1978. Daily patrols by volunteers, researchers, and staff who mark and protect nests, along with 'turtle excluder' devices that keep the animals out of shrimp trawler nets since 1990, have helped nest counts grow about 4% a year since the early 1990s. The count has nearly doubled the original recovery goal for the species.",
+      "deeper": "Loggerheads are slow, patient animals, so any comeback takes decades to show up. Females don't lay their first eggs until they're 30 to 35 years old, so this year's record nests reflect protections put in place a generation ago. Each summer night, females haul themselves onto Georgia's barrier island beaches to bury about 100 eggs in the sand, then head back to sea. Volunteers and researchers with the Georgia Sea Turtle Cooperative walk those beaches at dawn every day, finding and protecting the nests. Shrimp boats now use devices that let turtles escape their nets, cutting down a major cause of death. The population still swings year to year, from a record low of 358 nests in 2004 to over 4,110 now. Officials expect numbers to level off for a while. But if protections stay in place, biologist Mark Dodd says nesting could eventually climb back to levels not seen in Georgia since the 1950s. It's a reminder that patient, unglamorous work, done daily for decades, can slowly turn a species' fortunes around.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-study-finds-it-where-you.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10830-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
