@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-19",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "af78a420e8f03d9af447",
+      "cluster": "discovery",
+      "headline": "AI helps scientists identify bird species in radar migration data",
+      "tease": "New AI tools turn fuzzy radar blobs into detailed maps of migrating bird species.",
+      "summary": "Scientists have built a tool that can tell which bird species are migrating through a stretch of sky, something weather radar alone could never do. BirdFlow combines millions of birdwatcher observations from the eBird app with weather radar data and AI to map where specific species are likely headed week by week. Radar has long shown flocks as unidentified blobs. Researchers from Cornell, the University of Massachusetts, and the University of Illinois Urbana-Champaign tested BirdFlow against 30 years of radar data and built models for 153 North American species. That species-level detail could help protect threatened birds, reduce building and aircraft collisions, and track disease spread among wild and farmed birds.",
+      "deeper": "For decades, radar showed migrating birds as dark, shapeless clouds. Useful for spotting a wave of movement, but useless for knowing which birds were actually flying. BirdFlow fixes that by pairing radar with something humans are already good at: birdwatching. Millions of sightings logged through the eBird app helped researchers figure out which species were likely present in those radar blobs, and when.\n\nCornell researcher Yuting Deng described asking a simple weekly question: given where a species was last week, how likely is it to be in a nearby location this week? Repeated across a season, that builds a route.\n\nWhy it matters: conservation groups can now focus efforts on the specific species passing through at a given time. Aviation managers can watch for larger birds that risk colliding with planes. Cities running lights-out campaigns to stop birds crashing into buildings can target the groups most at risk. And because BirdFlow can track where birds go after visiting an area, agencies are already interested in using it to watch how avian diseases might spread from wild birds to poultry farms.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-geological-evidence-role-agulhas-leakage.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/these-mice-live-on-volcano-summits-at-extreme-elevations-study-finds-how/",
+          "tier": 2
+        },
+        {
+          "name": "Ars Technica Sci",
+          "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/from-radar-blobs-to-bird-species-ai-helps-transform-migration-tracking/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        7.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "b94bf45b050693cf4b0f",
+      "cluster": "progress",
+      "headline": "HIV Infections and Deaths Hit 30-Year Lows, UN Reports",
+      "tease": "Seven countries near-eliminated new HIV infections, a UNAIDS report reveals.",
+      "summary": "New HIV infections and AIDS-related deaths have dropped to their lowest levels in more than 30 years, according to a UNAIDS report released for the International AIDS Conference in Rio de Janeiro. Seven countries, including Kenya, Rwanda, and Zimbabwe, cut new infections by nearly 80% since 2010, and 11 countries hit ambitious treatment targets where almost everyone with HIV knows their status, gets treatment, and has the virus under control. New prevention options, including long-acting injections and pills in development, are expanding fast. Brazil alone increased access to prevention medicine by 41% in a year. Funders are now working to reach 3 million people with a twice-yearly injection by 2028.",
+      "deeper": "The most hopeful part of this report isn't just the numbers going down. It's what's driving the change: prevention medicine that works almost like a vaccine. A twice-yearly injection called lenacapavir showed zero infections among 3,200 young women in a recent trial, a result researchers called nearly unthinkable a few years ago. Countries like Brazil, Ethiopia, and Uganda are pushing to get these tools to more people, and South Africa is negotiating prices so the injections become affordable at scale. Global health funders have already started pooling money to reach 3 million people with lenacapavir by 2028. None of this erases the hard truth that HIV still kills people and that access remains uneven. But UNAIDS director Winnie Byanyima framed it plainly: ending AIDS is still within reach, if governments and partners keep pushing. The report's real message is that decades of patient work, on testing, treatment, and now prevention, are compounding into something that finally looks like a turning point.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/07/drifting-tuna-fishing-gear-enter-half-of-marine-protected-areas-study-finds/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/two-peope-died-after-getting-sick-with-cyclosporiasis-marking-the-first-known-deaths-linked-to-the-ongoing-multi-state-outbreak-180989256/",
+          "tier": 2
+        },
+        {
+          "name": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/un-summit-on-hiv-aids-shows-incredible-progress-in-infection-rates-deaths-treatment-access/",
+          "tier": 3
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        8.5,
+        8.0,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "21cf8aebc6a96aeb841a",
+      "cluster": "animals",
+      "headline": "Scientists Observe Harbor Porpoise Mating From Golden Gate Bridge",
+      "tease": "Years of bridge-side observation reveal mating secrets that could help protect vulnerable porpoises.",
+      "summary": "For years, scientists knew almost nothing about how harbor porpoises mate. William Keener and colleagues solved that mystery by watching the animals from the pedestrian walkway of the Golden Gate Bridge, where porpoises returned in 2008 after decades away. High above the water, researchers had a clear view no boat could get without scaring the shy animals off. Over eight years they captured 144 photos and videos, revealing a fast, one-sided mating approach that always came from the female's left. The findings, the first detailed account for any porpoise species, are helping researchers worldwide understand what these animals need to breed successfully.",
+      "deeper": "Harbor porpoises have lived alongside humans for thousands of years, but nobody had ever clearly documented how they mate. William Keener, a research biologist in California, spent hundreds of hours on the Golden Gate Bridge walkway watching for clues, after boats proved too intrusive. What he found was strange: a male porpoise rockets up from below as a female surfaces to breathe, and the whole encounter lasts one or two seconds. Stranger still, the male always approaches from her left side, something almost unheard of in mammal mating. Keener thinks the odd choreography might simply take a lot of practice, which could explain why porpoises attempt it year-round, not just during their brief fertile season. Other researchers, in Washington state and Denmark, later realized they'd seen the same left-sided behavior in their own footage without recognizing it. Understanding this basic piece of porpoise life matters beyond curiosity. Knowing exactly what successful mating looks like helps scientists judge whether a population is healthy or struggling, which could prove useful for protecting harbor porpoises in places where they've become rare.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-local-knowledge-early-glacial-lake.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/podcast/2026/08/my-wild-city-reminds-us-why-cities-need-nature/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/ai-went-to-the-opera-projecting-images-for-an-anniversary-production-of-wagners-ring-cycle-at-the-theater-where-he-first-staged-the-masterpiece-180989270/",
+          "tier": 2
+        },
+        {
+          "name": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/qa-what-is-in-chinas-new-five-year-plan-for-climate-change",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
