@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-20",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "b18986ed2db1ffc8e157",
+      "cluster": "discovery",
+      "headline": "Cell-like nanoreactor produces hydrogen peroxide using sunlight",
+      "tease": "A tiny cell-inspired device turns light into a useful chemical, cleanly.",
+      "summary": "Scientists have built a tiny artificial structure that copies how living cells work, and used it to turn sunlight and water into hydrogen peroxide, a useful chemical for cleaning and industry. The device has a hollow center surrounded by a porous outer layer, much like a cell wall, which lets light and molecules gather and react efficiently inside. A chemical relay in the shell helps shuttle protons around, keeping the reaction balanced and steady. Researchers at the Dalian Institute of Chemical Physics and Inner Mongolia University also embedded the tiny reactors in a gel, making a solid, reusable material that keeps working under ordinary sunlight.",
+      "deeper": "Cells are remarkably good at complicated chemistry, mostly because everything happens in tightly organized spaces where molecules can meet and react in just the right way. Researchers wanted to borrow that trick for a man-made material. So they built a microscopic hollow sphere with a shell that acts a bit like a cell membrane, complete with a chemical pair inside that passes protons back and forth, helping keep a light-powered reaction running smoothly and efficiently.\n\nThe payoff is hydrogen peroxide, made straight from sunlight and water rather than through the usual industrial process. Because the reaction happens inside a confined hollow space, light and reactants stay close together, which makes the whole thing work better.\n\nThe team, led by Prof. Li Can at the Dalian Institute of Chemical Physics with colleagues at Inner Mongolia University, went a step further and set the tiny reactors into a gel, creating a solid material that can be reused again and again under normal daylight. Li says the approach could open doors for artificial photosynthesis and cleaner ways of making useful chemicals, borrowing more of nature's tricks as the work continues.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02334-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10977-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "9e69704367c1b0982c5e",
+      "cluster": "progress",
+      "headline": "New process turns PVC waste into useful lubricants",
+      "tease": "Scientists found a mild chemical route that recycles PVC trash into valuable industrial lubricants.",
+      "summary": "Researchers have found a mild chemical process that turns PVC waste into useful lubricants. PVC is one of the hardest plastics to recycle, but this method converts it into polyalphaolefins, a class of lubricants whose properties can be tuned for different uses. Because the process is described as mild and economical, it offers a practical way to give old PVC a new, valuable life instead of letting it sit in landfills or get incinerated. The work points to a more workable path for plastic recycling and for keeping carbon in use rather than releasing it or burying it for good.",
+      "deeper": "PVC shows up everywhere, from pipes to flooring to cables, but it's notoriously stubborn stuff to recycle. Its chemistry makes it resistant to the usual plastic-breakdown methods, so a lot of it ends up burned or buried.\n\nThis new approach takes a gentler route. Using a mild chemical reaction, scientists convert the PVC into a type of lubricant called polyalphaolefin. These lubricants are used in engines, machinery, and industrial equipment, and the researchers can adjust the process to get different properties depending on what's needed.\n\nWhat makes this promising isn't just that PVC waste becomes something new, it's that the something new is genuinely useful and, importantly, cheap enough to be practical at scale. That combination matters, because recycling methods that are technically possible but too costly rarely get adopted widely.\n\nThe bigger idea here is carbon circularity: keeping the carbon already locked up in plastic waste in circulation, doing useful work, rather than letting it go to waste or adding new carbon to the system. It's a small but concrete step toward treating old plastic as a resource rather than a problem to bury.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02384-w",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080854.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10867-z",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "acf5c2bda722a98db6a1",
+      "cluster": "animals",
+      "headline": "White-Tailed Sea Eagle Chick Fledges at Irish Wildlife Park",
+      "tease": "A century after vanishing from Ireland, this majestic raptor's comeback gains a new chick.",
+      "summary": "A white-tailed sea eagle chick has fledged at Fota Wildlife Park in County Cork, the park's first in more than a decade. The eaglet hatched in April to parents \u00c1ine and Tony, who staff say have taken well to raising Europe's largest eagle. The bird was once wiped out across Ireland by human persecution, absent for more than a century. Since 2007, Ireland's National Parks and Wildlife Service and partners have released over 200 sea eagles nationwide, and the population is now considered self-sustaining. This new chick may one day join a European breeding programme, extending its impact beyond Cork.",
+      "deeper": "White-tailed sea eagles used to be a common sight along Ireland's coast, until people hunted them out entirely. For more than a hundred years, the country had none. Then, starting in 2007, wildlife groups began releasing eagles brought over with help from Norwegian researchers, working alongside farmers and local communities who agreed to give the birds a chance. More than 200 eagles later, the population can now sustain itself without more releases.\n\nThis spring's chick, born to parents \u00c1ine and Tony at Fota Wildlife Park, is a small but telling piece of that story. Staff say the pair have handled parenthood well, no small feat given that eaglets need close to a pound of food a day and the adults' wingspans can top eight feet. The park has now bred six such chicks since 1991.\n\nStaff hope this youngster might eventually join a Europe-wide breeding program for endangered birds. It's a reminder that a species people once erased from a place can come back \u2014 not by accident, but because enough people decided it mattered and kept at it for decades.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-unprecedented-biomass-loss-europe-forests.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10899-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        7.5,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
