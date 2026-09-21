@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-22",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "b0ef32c96a1c6a507410",
+      "cluster": "discovery",
+      "headline": "Seismic sensors show promise for hurricane intensity forecasts",
+      "tease": "Stanford researchers repurpose earthquake instruments to help predict how hurricanes strengthen.",
+      "summary": "Stanford researchers have found that seismic sensors built to study earthquakes can also pick up key signals about hurricanes. The instruments capture details about storms that help meteorologists understand how they are likely to change and grow stronger. Hurricane intensity has long been hard to predict, so a new source of data is useful. By tapping into networks already in place for earthquake monitoring, scientists gain another way to track storms as they develop, without needing to build new infrastructure from scratch.",
+      "deeper": "Earthquake sensors sit quietly in the ground, listening for tremors. It turns out they pick up more than that. Stanford researchers found these instruments also register signals tied to hurricanes, information that can help forecasters understand how a storm is likely to change as it moves.\n\nPredicting how strong a hurricane will get, not just where it will go, has always been one of the trickier parts of forecasting. This finding offers a new angle: sensor networks already built and maintained for earthquake research turn out to double as storm watchers.\n\nThe appeal is practical. These seismic networks already exist, spread across many locations, quietly recording data all the time. Rather than requiring new equipment, forecasters could potentially draw on information that is already being collected for a different purpose. It's an example of scientists finding unexpected value in existing tools, using data gathered for one kind of disaster to better understand another.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729010705.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-social-vulnerability-evolve-tropical-cyclone.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/amazon-canopy-bridges-enable-15000-wildlife-crossings-without-a-single-roadkill/",
+          "tier": 2
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-earthquake-sensors-hurricanes.html",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        6.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "27f7dd29baf8996c53ac",
+      "cluster": "progress",
+      "headline": "New stainless steel resists corrosion, could cut hydrogen costs",
+      "tease": "A cheaper steel alloy could make seawater hydrogen production dramatically more affordable.",
+      "summary": "Engineers in Hong Kong have built a new stainless steel that stands up to corrosion far better than existing versions, which could make green hydrogen cheaper to produce. The team, led by Professor Mingxin Huang, found the steel forms two protective layers instead of the usual one, letting it survive the harsh, high-voltage conditions needed to split seawater into hydrogen and oxygen. That matters because current equipment for this process relies on costly titanium parts coated in gold or platinum. The researchers estimate the new steel could cut structural material costs by about 40 times, and have already produced tons of wire from it with a factory partner.",
+      "deeper": "Stainless steel normally protects itself with a thin invisible layer that forms when chromium in the metal reacts with its surroundings. But push the electrical voltage high enough, as you must to split seawater into hydrogen, and that layer breaks down. For years this stopped stainless steel from being used in the harshest hydrogen-making equipment, which instead relies on expensive titanium.\n\nHuang's team, after nearly six years of work, found that their new steel grows a second protective layer on top of the first, this one built from manganese. That was a surprise, since manganese was long thought to weaken corrosion resistance, not help it. Even the researchers doubted their own results at first, until detailed atomic-level evidence convinced them.\n\nTogether, the two layers let the steel withstand conditions far tougher than plain stainless steel can handle, including the salty water used in seawater electrolysis. Because this steel is much cheaper than titanium, it could sharply cut the cost of building hydrogen production equipment. The team has already made tons of wire from it with an industrial partner, though turning it into the meshes and foams real electrolyzers need is still ongoing work.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02083-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02386-8",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02235-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "05ae086a18b5b707c7f3",
+      "cluster": "animals",
+      "headline": "Osprey chicks hatch at Cumbria nature reserve for first time",
+      "tease": "A carefully placed nesting platform finally attracted breeding ospreys to Solway Firth.",
+      "summary": "Three osprey chicks have hatched at Campfield Marsh in Cumbria, the first time the birds have bred successfully at this RSPB reserve. The parents, both believed to be first-time breeders, were drawn in by a nesting platform built to attract the birds. Staff watched anxiously through the incubation period and were relieved when the eggs hatched in June. The chicks, named Ash, Bowness Bobbi and Beau by a local school, have been ringed so their movements can be tracked. It matters because ospreys were wiped out as a UK breeding bird in the early 1900s and have only slowly been returning since the 1950s.",
+      "deeper": "Ospreys almost vanished from Britain, hunted to extinction as a breeding bird by the early 1900s. They came back to Scotland in the 1950s and have been spreading to new areas ever since, one nesting site at a time. Campfield Marsh, a wetland reserve on the Solway Firth, built a platform hoping to tempt a pair in. It worked. A male osprey, ringed in Dumfries a few years ago, paired with an unringed female, and this year they raised three chicks together.\n\nSite manager Mhairi Maclauchlan said the team held their breath through the whole incubation period, then felt huge relief when the eggs finally hatched. She describes ospreys as gentler than you'd expect for birds with such sharp talons, and says they can be oddly funny too, fussing over tidying their nests.\n\nThe chicks, named Ash, Bowness Bobbi and Beau by children at a local school, have been ringed so scientists can follow where they go. They'll spend the summer learning to fish before migrating to Africa in autumn. Since ospreys tend to return to the same site and partner, this pair may well be back next year.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042824.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01845-6",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-triggered-evacuations-guatemala.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10884-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        6.0,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
