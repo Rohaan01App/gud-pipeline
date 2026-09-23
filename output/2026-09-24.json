@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-24",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "7c7d42ba74b34afe09ea",
+      "cluster": "discovery",
+      "headline": "CRISPR-enhanced phages clear drug-resistant E. coli infection",
+      "tease": "Engineered viruses armed with CRISPR just beat a superbug that antibiotics couldn't touch.",
+      "summary": "A man with a severe, antibiotic-resistant E. coli infection improved after doctors tried an experimental treatment made of viruses armed with CRISPR. Within a week of starting it, open wounds on his abdomen began healing and a mass on his bladder had halved in size. The viruses, called phages, naturally hunt bacteria, and the Denmark-based company SNIPR engineered them with CRISPR systems to make them more potent, able to kill 90% of E. coli strains. It's one case, not proof, but it shows a promising new way to fight infections that no longer respond to antibiotics.",
+      "deeper": "Phages are viruses that only attack bacteria, and they've been around far longer than antibiotics. What's new is arming them with CRISPR, the gene-editing tool that bacteria originally evolved to fight off viruses like these. Scientists have flipped that defence around, building phages that use CRISPR to shred the DNA of the bacteria they infect.\n\nThe patient, a 65-year-old man in California, had developed a serious E. coli infection after a kidney transplant. Antibiotics alone weren't working, so his doctors requested the experimental phage treatment on compassionate grounds. He received it both intravenously and directly on his wounds, alongside a new mix of antibiotics started just before. His wounds began healing within a week.\n\nResearchers can't yet say whether the phages worked alone or helped the antibiotics work better, possibly by breaking apart the protective biofilms bacteria hide in. The company behind the treatment says it's had a dozen more requests to use it since. One outside expert cautions that relying on a small set of engineered phages could eventually let resistant bacteria emerge. But for now, it's a real sign that we're finding new tools against infections antibiotics can no longer touch.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-nature-isnt-size.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/malaysia-implements-total-e-waste-import-ban-to-curb-toxic-trade/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582815-at-what-point-does-my-family-tree-stop-doubling-and-start-decreasing/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/how-social-media-and-parrotfish-poop-are-protecting-the-maldives/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        8.0,
+        8.0,
+        9.5,
+        7.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "6b206c9ca2109eece9dd",
+      "cluster": "progress",
+      "headline": "Bacteria convert dissolved uranium into a stable mineral form",
+      "tease": "Fed the right nutrient, microbes locked away 95% of toxic uranium in months.",
+      "summary": "Researchers have found bacteria that can turn dissolved uranium into a stable, solid form. When the microbes are given glycerol as a food source, they pull uranium out of water and lock it into their cell walls, transforming it into a rare, stable compound. In lab tests using water from a flooded uranium mine, the bacteria removed about 95 percent of the dissolved uranium within 130 days. This matters because mining can turn uranium into a water-soluble, toxic form that spreads through the environment. The discovery, made by scientists at HZDR with partners at Wismut GmbH and the University of Granada, could support future cleanup of contaminated sites.",
+      "deeper": "Uranium usually sits locked inside rock, but mining can dissolve it into water, where it becomes mobile and harmful. Scientists wanted to know if bacteria already living in that water could do something about it. They fed the microbes glycerol, a simple fat found in nature, and watched what happened. Over time, the bacteria absorbed the uranium into their cell walls and chemically transformed it into a compound that had only ever been seen as fleeting and unstable before. Even more surprising, when the researchers exposed the dried bacteria to oxygen, this compound became more common rather than breaking down, meaning it may hold up under real-world conditions. Lead researcher Antonio Newman-Portela and his colleague Evelyn Krawczyk-B\u00f6rsch say this is the first time anyone has shown bacteria doing this. It suggests a natural, low-tech way to make toxic uranium far less likely to spread through water and soil. The team is careful to note there's more work ahead: they still need to understand exactly how the process works before anyone can rely on it for actual cleanup. But it points to a promising, quietly elegant idea \u2014 using ordinary microbes to tame a genuinely dangerous material.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02398-4",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02429-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        8.0,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "animals": {
+      "id": "b363176d1a5aa110862d",
+      "cluster": "animals",
+      "headline": "Georgia Beaches Record Highest Loggerhead Turtle Nest Count in 37 Years",
+      "tease": "Decades of conservation work are paying off for threatened loggerhead sea turtles.",
+      "summary": "Loggerhead sea turtles nesting on Georgia's beaches have just set a new record: more than 4,110 nests this year, the most since counting began in 1989. Georgia's Department of Natural Resources calls it a slow but steady rebound for a species listed as threatened since 1978. Daily patrols by volunteers, researchers, and staff who mark and protect nests, along with 'turtle excluder' devices that keep the animals out of shrimp trawler nets since 1990, have helped nest counts grow about 4% a year since the early 1990s. The count has nearly doubled the original recovery goal for the species.",
+      "deeper": "Loggerheads are slow, patient animals, so any comeback takes decades to show up. Females don't lay their first eggs until they're 30 to 35 years old, so this year's record nests reflect protections put in place a generation ago. Each summer night, females haul themselves onto Georgia's barrier island beaches to bury about 100 eggs in the sand, then head back to sea. Volunteers and researchers with the Georgia Sea Turtle Cooperative walk those beaches at dawn every day, finding and protecting the nests. Shrimp boats now use devices that let turtles escape their nets, cutting down a major cause of death. The population still swings year to year, from a record low of 358 nests in 2004 to over 4,110 now. Officials expect numbers to level off for a while. But if protections stay in place, biologist Mark Dodd says nesting could eventually climb back to levels not seen in Georgia since the 1950s. It's a reminder that patient, unglamorous work, done daily for decades, can slowly turn a species' fortunes around.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-study-finds-it-where-you.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10830-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
