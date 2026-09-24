@@ -1,0 +1,201 @@
+{
+  "date": "2026-09-25",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "e0b0312367b5ad130fc5",
+      "cluster": "discovery",
+      "headline": "Researchers use Starlink satellites to map upper atmosphere density",
+      "tease": "A clever repurposing of satellite data could help prevent orbital collisions.",
+      "summary": "Researchers at Kyoto University turned Starlink's own satellites into a tool for mapping Earth's upper atmosphere. By tracking how roughly 1,200 Starlink satellites gradually slow down from atmospheric drag, the team used a technique borrowed from medical imaging to build the first map of its kind: a snapshot of air density across latitude and longitude at about 500 kilometers up. Their results matched independent measurements from Europe's SWARM satellites. Better maps of this thin, hard-to-observe layer could help predict satellite paths more accurately, which matters as orbits grow more crowded with satellites and debris.",
+      "deeper": "Space near Earth is getting busy, and one part of it is oddly hard to measure: a very thin layer of air, hundreds of kilometers up, too faint to sense directly but strong enough to nudge satellites off course over time. Researchers realized they could use the Starlink satellite fleet itself as an instrument. As Starlink satellites orbit, they drift slightly due to this faint air resistance. By tracking those tiny shifts across about 1,200 satellites, the team borrowed a method from medical scanning, the kind used to build 3D images from many angled readings, and applied it to the sky instead of the body. The result was a map showing how atmospheric density varies by location at a given altitude, something no one had made this way before. It lined up well with readings from a separate European satellite mission, which is a good sign the method works. The scientists, from Kyoto University, describe the project as a bridge between two fields, space science and space engineering, that don't usually talk enough. If refined, this approach could help forecasters predict satellite drift more precisely, making crowded orbits a little safer for everyone using them.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02388-6",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10953-2",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": false
+    },
+    "kindness": {
+      "id": "97302bc71bf203daad1d",
+      "cluster": "kindness",
+      "headline": "Mutual aid clubs loan air purifiers during wildfire smoke",
+      "tease": "Community groups are turning pandemic-era mutual aid into protection from choking wildfire smoke.",
+      "summary": "Neighbors who started sharing masks and air purifiers during Covid are now doing the same for wildfire smoke. More than 40 Clean Air Clubs and Mask Blocs around the world lend out purifiers and hand out free masks whenever local air turns dangerous. Mask Bloc Los Angeles gave out over 300,000 masks during the January 2025 fires. Because these groups skip official channels, they can respond fast: in Chicago, a purifier lending library filled up within hours once people knew it existed. Organizers say the same networks built for one crisis have turned out to help with another.",
+      "deeper": "It started small: during Covid, a Chicago woman began lending air purifiers to touring musicians. That idea grew into a loose network of clubs that now hand out masks and purifiers wherever smoke or illness makes the air unsafe. When wildfire smoke drifted into their towns, these groups didn't wait for a health department to act. In rural Mendocino County, organizers who once handed out Covid tests started distributing N95 masks, and explaining that cloth masks don't filter smoke well. In Delaware, a couple living with vulnerable health walked their town handing out masks as Canadian wildfire smoke rolled in, surprised by how eager people were to take them. What makes it work is speed: no paperwork, no waiting, just supplies going straight to people who need them. The founder of the original club sees Covid and climate change as two problems the public has been left to face alone. But she also sees something hopeful in how one small effort, built to solve one problem, ends up useful for another. For the volunteers involved, it's a way to feel less stuck in the face of big, slow-moving crises.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-unprecedented-biomass-loss-europe-forests.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10899-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        7.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "20d74a2eacdec677db57",
+      "cluster": "progress",
+      "headline": "AI models extend cyclone warning times by 30 hours",
+      "tease": "New forecasting tools give coastal communities a longer head start against destructive storms.",
+      "summary": "New AI forecasting models can give people up to 30 hours more warning before a tropical cyclone hits, compared with current methods. That extra time comes from a specific improvement: today's forecasts are fairly good at tracking where a storm is heading, but much weaker at predicting how strong it will get. The new models close that gap, catching intensity changes earlier. More lead time means more chance to prepare, evacuate, or secure what needs securing before a storm turns dangerous. It's a case where a modest technical fix, done well, translates directly into something that matters: time.",
+      "deeper": "Cyclones are hard to forecast in two different ways. Tracking where one is headed has gotten fairly reliable over the years. But guessing how strong it will actually be when it arrives \u2014 whether it fizzles or turns into something severe \u2014 has lagged behind. That gap matters, because a storm's path tells you where to worry, but its strength tells you how much to worry and what to do about it.\n\nThe new AI models are aimed squarely at that weak spot. By getting better at predicting intensity changes, they let forecasters issue warnings earlier and with more confidence \u2014 up to 30 hours earlier than before, according to the researchers.\n\nThirty hours doesn't sound dramatic, but in a storm warning, it's the difference between a rushed evacuation and an orderly one, between boarding up windows in daylight or in a downpour. It's a quiet kind of progress: no new sensors, no new satellites, just software that reads the same data more usefully. The tools still need testing against real storms, but the direction is encouraging \u2014 better warnings, sooner, for the people in a cyclone's path.",
+      "scene": "ozone",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-human-arctic-occurrence-satellite-analysis.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10887-9",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "415920cee74a4ba67947",
+      "cluster": "animals",
+      "headline": "First white storks released into wild in Cornwall",
+      "tease": "Twenty-one storks take flight over Bodmin Moor after a long reintroduction effort.",
+      "summary": "Twenty-one white storks took flight over Bodmin Moor this week, the first to be released into the wild in Cornwall. Most had hatched there this year at the Cornwall Stork Project, based at Hamatethy farm, an organic farm that also runs rewilding schemes. The birds will spend a couple of months getting used to freedom before migrating south for winter, perhaps to Spain or Morocco. Because storks have a strong homing instinct, the project raised them in breeding aviaries on the moor so they will hopefully return there in a few years to nest and raise chicks of their own.",
+      "deeper": "Founder Yan Swiderski, a former fund manager turned farmer, had tears in his eyes watching the storks step out of their aviary and into the sky. He said storks can't simply be released anywhere, since they try to return to wherever they were born. So the project bred and raised chicks on Bodmin Moor itself, hoping the birds' homing instinct will one day bring them back to nest there.\n\nThe project follows a similar effort at Knepp estate in Sussex, running since 2016, and the Cornish birds may even migrate south alongside the Knepp storks. Natural England, while not opposing the releases, points out storks were never native breeding birds in England and says such projects aren't a priority for it.\n\nSwiderski sees the storks' value differently. He believes their real purpose is drawing people into caring about nature more broadly \u2014 healthy soil, organic farming, wetlands, and the insects and small mammals that depend on them. Watching one glide low over the trees, he admitted, \"I don't think I'll get tired of the sight of them.\"",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/was-this-heatwave-caused-by-climate-change-were-asking-the-wrong-question-288637",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/protesters-occupy-tree-us-mexico-border",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
+          "tier": 2
+        },
+        {
+          "name": "Positive News",
+          "url": "https://www.positive.news/society/good-news-stories-from-week-32-of-2026/",
+          "tier": 3
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
