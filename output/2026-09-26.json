@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-26",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "4618c8a0290a0da7cdb2",
+      "cluster": "discovery",
+      "headline": "NASA AI Model Predicts Sun's Storm-Causing Active Regions",
+      "tease": "Scientists are teaching AI to foresee solar storms before they threaten satellites and astronauts.",
+      "summary": "A team working with NASA's COFFIES center has built an AI model that can predict where active regions will form on the Sun's surface up to 12 hours before they appear. These regions, marked by sunspots, are the source of solar flares and other space weather that can affect satellites, astronauts, and radio signals on Earth. The model works by picking up on faint changes in acoustic waves as magnetic structures rise through the Sun's interior, before they break through to become visible. Researchers from NJIT, Princeton, and NASA Ames combined their expertise and computing power to make it work.",
+      "deeper": "Sunspots don't just appear out of nowhere. They start deep inside the Sun, where tangled bundles of magnetic field slowly rise toward the surface before breaking through. Until now, scientists could only watch for them once they'd already emerged. This new tool listens instead of watches \u2014 it tracks tiny ripples in the sound waves that constantly move through the Sun, which shift subtly as a hidden magnetic region works its way upward. By training an AI system on this pattern, researchers found they could flag a forming active region up to half a day before it appeared. One scientist involved put it simply: we can't see the structure directly, so we look for its faint fingerprints. The bigger point is practical. Active regions are where solar flares and eruptions come from, and those events can knock out satellites, disrupt radio signals, and put astronauts at risk. A half-day's warning isn't huge, but for anyone trying to protect equipment or people in space, it's time they didn't have before.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.5,
+        10.0,
+        7.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "b1898fd1dce3bce904de",
+      "cluster": "progress",
+      "headline": "Australia sets $31.30 minimum wage for gig delivery drivers",
+      "tease": "A new industrial ruling gives delivery drivers guaranteed pay and injury insurance nationwide.",
+      "summary": "Delivery drivers across Australia will now earn a guaranteed minimum of $31.30 an hour, under new standards approved by the Fair Work Commission. The rules also require delivery platforms to provide personal accident insurance for workers, while keeping the flexibility gig work is known for. The change came after the Transport Workers' Union joined forces with DoorDash and UberEats to jointly request the protections, following years of talks. Officials and union leaders called the result \"world-leading,\" and it's expected to apply broadly across on-demand food, drink, and grocery delivery platforms, offering a safety net to hundreds of thousands of workers.",
+      "deeper": "For years, gig delivery work has meant unpredictable pay \u2014 riders and drivers might wait unpaid for a restaurant order, with no guarantee of a minimum wage or protection if they got hurt on the job. That's changing in Australia. Starting in August, delivery platforms must pay workers a guaranteed hourly rate, and organise insurance that covers them if they're injured while working.\n\nWhat makes this notable is how it came together: the union representing gig workers didn't fight the platforms alone in court \u2014 it worked with DoorDash and UberEats to jointly propose the new rules to the industrial umpire. Both sides gave a little. Workers are now called \"employee-like\" rather than full employees, and they'll need to insure their own vehicles against damage to others. In exchange, they get steady minimum pay and injury cover, without losing the flexibility to choose their own hours.\n\nIt's a rare case of a gig economy fight ending in a shared framework rather than a standoff. Officials are calling it a milestone, and it's likely to be watched closely elsewhere, since similar gig-work disputes are playing out in many countries.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582737-climate-change-could-eliminate-malaria-from-west-and-central-africa/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        8.0,
+        6.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "4aa300f0d98c3cf09085",
+      "cluster": "animals",
+      "headline": "Palawan villagers organize to protect sea turtle nests",
+      "tease": "Local communities are teaming with researchers to give olive ridley hatchlings a fighting chance.",
+      "summary": "On a beach in Palawan, Philippines, villagers walk the sand every night to protect sea turtle nests. Working with the research group LAMAVE, patrollers guard nesting olive ridley turtles from dogs, photograph them for identification, then carefully move their eggs to safe hatcheries. Left alone, most nests would be lost to stray dogs or flooding tides. In the hatcheries, about three in four eggs hatch successfully. Some patrollers, like Jerald Mahusay, once played with turtle eggs as children and now lead the very patrols that protect them \u2014 a shift in one generation from harm to care.",
+      "deeper": "The idea here is simple: a beach that used to lose almost every turtle nest now saves most of them, because people decided to watch over it. Volunteers in Santo Ni\u00f1o walk more than eight kilometers of shoreline at night, shift after shift, looking for nesting turtles. When they find one, they shield her from roaming dogs, take her photo so they can recognize her later, and once she's finished, they gently move her eggs to a guarded hatchery in the sand.\n\nIt isn't a perfect fix \u2014 hatchery success rates run a bit below what undisturbed natural nests would achieve, and everyone involved knows it's a stopgap. Project leader Kalei Suza put it simply: they'd rather the turtles nest safely on their own, because \"mama knows best.\" The long-term hope is for the community to manage the threats \u2014 mainly dogs and development \u2014 well enough that turtles won't need rescuing at all. For now, though, people who grew up near this beach, some who once treated turtle eggs as toys, are the ones keeping the hatchlings alive.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02289-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        8.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
