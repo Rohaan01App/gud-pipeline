@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-27",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "3e829cfd199f22c88b73",
+      "cluster": "discovery",
+      "headline": "Researchers map two-speed waste clearance system in the brain",
+      "tease": "AI-assisted brain mapping could help catch Alzheimer's-linked circulation problems earlier.",
+      "summary": "Researchers have mapped out how the brain cleans itself while we sleep, finding two distinct speeds at which waste-clearing fluid moves. Using AI trained on videos of dye spreading through brain tissue, scientists at the University of Rochester and collaborators calculated fluid speeds that MRI alone couldn't capture. They found fluid near the brain's surface moves quickly, while fluid deep in brain tissue moves about 50 times slower. This matters because the system clears proteins linked to Alzheimer's, and understanding its speed could eventually help doctors spot poor circulation before disease takes hold.",
+      "deeper": "Every night, a thin layer of fluid washes through the brain, carrying away waste \u2014 including proteins tied to Alzheimer's. Scientists have known this cleanup system exists since 2012, but nobody could measure how fast the fluid actually moves, especially deep inside brain tissue, without damaging it.\n\nA team led by Douglas Kelley at the University of Rochester, working with Brown University and the University of Copenhagen, solved this with a clever workaround: they trained an AI on videos of dye spreading through brain tissue, then used that to calculate flow speeds from ordinary MRI scans.\n\nWhat they found was a brain with two gears. Near the surface, between the skull and the brain, fluid moves briskly. But deeper inside, it crawls \u2014 about 50 times slower.\n\nThe team is now studying mice to build a baseline for healthy circulation, before comparing it to diseased or aging brains. The bigger hope is to eventually measure this in living people \u2014 potentially screening for poor circulation years before Alzheimer's symptoms appear, or checking whether a concussion has disrupted someone's brain fluid flow. It's early work, but a real step toward tools doctors don't currently have.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223420.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02437-0",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-germany-rhine-river-threatens-economy.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10879-9",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.5,
+        6.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "27f7dd29baf8996c53ac",
+      "cluster": "progress",
+      "headline": "New stainless steel resists corrosion, could cut hydrogen costs",
+      "tease": "A cheaper steel alloy could make seawater hydrogen production dramatically more affordable.",
+      "summary": "Engineers in Hong Kong have built a new stainless steel that stands up to corrosion far better than existing versions, which could make green hydrogen cheaper to produce. The team, led by Professor Mingxin Huang, found the steel forms two protective layers instead of the usual one, letting it survive the harsh, high-voltage conditions needed to split seawater into hydrogen and oxygen. That matters because current equipment for this process relies on costly titanium parts coated in gold or platinum. The researchers estimate the new steel could cut structural material costs by about 40 times, and have already produced tons of wire from it with a factory partner.",
+      "deeper": "Stainless steel normally protects itself with a thin invisible layer that forms when chromium in the metal reacts with its surroundings. But push the electrical voltage high enough, as you must to split seawater into hydrogen, and that layer breaks down. For years this stopped stainless steel from being used in the harshest hydrogen-making equipment, which instead relies on expensive titanium.\n\nHuang's team, after nearly six years of work, found that their new steel grows a second protective layer on top of the first, this one built from manganese. That was a surprise, since manganese was long thought to weaken corrosion resistance, not help it. Even the researchers doubted their own results at first, until detailed atomic-level evidence convinced them.\n\nTogether, the two layers let the steel withstand conditions far tougher than plain stainless steel can handle, including the salty water used in seawater electrolysis. Because this steel is much cheaper than titanium, it could sharply cut the cost of building hydrogen production equipment. The team has already made tons of wire from it with an industrial partner, though turning it into the meshes and foams real electrolyzers need is still ongoing work.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02083-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02386-8",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02235-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "4aa300f0d98c3cf09085",
+      "cluster": "animals",
+      "headline": "Palawan villagers organize to protect sea turtle nests",
+      "tease": "Local communities are teaming with researchers to give olive ridley hatchlings a fighting chance.",
+      "summary": "On a beach in Palawan, Philippines, villagers walk the sand every night to protect sea turtle nests. Working with the research group LAMAVE, patrollers guard nesting olive ridley turtles from dogs, photograph them for identification, then carefully move their eggs to safe hatcheries. Left alone, most nests would be lost to stray dogs or flooding tides. In the hatcheries, about three in four eggs hatch successfully. Some patrollers, like Jerald Mahusay, once played with turtle eggs as children and now lead the very patrols that protect them \u2014 a shift in one generation from harm to care.",
+      "deeper": "The idea here is simple: a beach that used to lose almost every turtle nest now saves most of them, because people decided to watch over it. Volunteers in Santo Ni\u00f1o walk more than eight kilometers of shoreline at night, shift after shift, looking for nesting turtles. When they find one, they shield her from roaming dogs, take her photo so they can recognize her later, and once she's finished, they gently move her eggs to a guarded hatchery in the sand.\n\nIt isn't a perfect fix \u2014 hatchery success rates run a bit below what undisturbed natural nests would achieve, and everyone involved knows it's a stopgap. Project leader Kalei Suza put it simply: they'd rather the turtles nest safely on their own, because \"mama knows best.\" The long-term hope is for the community to manage the threats \u2014 mainly dogs and development \u2014 well enough that turtles won't need rescuing at all. For now, though, people who grew up near this beach, some who once treated turtle eggs as toys, are the ones keeping the hatchlings alive.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02289-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        8.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
