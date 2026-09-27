@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-28",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "44e92b8bc1a6abe23fab",
+      "cluster": "discovery",
+      "headline": "Brain stimulation triggers distinct gene activity by cell type",
+      "tease": "Scientists uncover cellular blueprints that could refine therapies for cognitive decline.",
+      "summary": "Scientists have found that stimulating the human brain switches on different sets of genes depending on the type of brain cell involved. The discovery came from studying the temporal cortex, where electrical stimulation activates networks of neurons alongside these cell-specific gene programs. Electrical brain stimulation is already being explored as a way to slow cognitive decline, and understanding exactly which genes turn on, and in which cells, gives researchers a clearer picture of what the stimulation is actually doing inside the brain. That detail could help shape more precise, effective therapies in the future.",
+      "deeper": "When doctors stimulate the brain with electricity, something happens beyond the visible burst of neural activity: different kinds of brain cells respond by switching on their own distinct sets of genes. Researchers studying the human temporal cortex found this pattern by looking closely at what happens during stimulation, matching gene activity to the specific cell types involved.\n\nThis matters because electrical stimulation is already being explored as a way to help slow cognitive decline, but much of how it works at the cellular level has been unclear. Knowing that different cells respond with different genetic programs gives scientists a more detailed map of what stimulation actually triggers inside the brain, rather than treating it as one uniform effect.\n\nThat kind of detail could eventually help researchers design stimulation approaches that are more targeted, aiming for the cellular responses that seem most useful for protecting memory and thinking as people age. It is early groundwork, but the kind that clarifies what these therapies are doing under the hood, which is often the step that comes before real improvement.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02289-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.5,
+        6.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "31d398a29c678120b283",
+      "cluster": "progress",
+      "headline": "Sri Lankan farmers revive heirloom rice for health and resilience",
+      "tease": "Traditional rice varieties are helping Sri Lankan farmers manage disease and preserve indigenous knowledge.",
+      "summary": "In Sri Lanka, farmers and scientists are working to bring heirloom rice varieties back from the edge. Fewer than 30 of the roughly 2,500 traditional cultivars remain in wide use, but around 2,500 have been preserved as seed at the Plant Genetic Resources Centre, and farmers like Karu Herath still grow them the old way, rotating rice with millet and mung bean by season. Researchers have found many of these varieties carry anti-diabetic and anti-inflammatory properties, useful for managing chronic disease. Their revival keeps both genetic diversity and older, low-input farming knowledge alive for future seasons.",
+      "deeper": "For centuries, Sri Lankan farmers grew rice suited to their own soil, water and diet, not to export markets. That changed with the mid-20th century Green Revolution, when new high-yield varieties replaced most heirloom types to feed a growing population. Today fewer than 30 of an estimated 2,500 traditional varieties are still commonly grown.\n\nWhat's interesting is why some farmers and scientists want them back. It's not nostalgia. Studies suggest many heirloom rice types have a low glycemic index and properties that help manage diabetes and inflammation, earning them an old reputation as \"medicinal rice.\" Farmers like Karu Herath still grow them only in the wet season, resting the soil the rest of the year with millet and mung beans instead, a rotation that uses less water.\n\nScientists have now conserved about 2,500 heirloom varieties as seed, so the genetic diversity isn't lost even as farming modernizes further. Researchers are also issuing seasonal guidance to help farmers handle pests and unpredictable weather. None of this replaces high-yield rice, which still feeds most of the country. But it keeps an older, resilient option on the table, seed by seed, for whoever needs it next.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02388-6",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10953-2",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        8.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "415920cee74a4ba67947",
+      "cluster": "animals",
+      "headline": "First white storks released into wild in Cornwall",
+      "tease": "Twenty-one storks take flight over Bodmin Moor after a long reintroduction effort.",
+      "summary": "Twenty-one white storks took flight over Bodmin Moor this week, the first to be released into the wild in Cornwall. Most had hatched there this year at the Cornwall Stork Project, based at Hamatethy farm, an organic farm that also runs rewilding schemes. The birds will spend a couple of months getting used to freedom before migrating south for winter, perhaps to Spain or Morocco. Because storks have a strong homing instinct, the project raised them in breeding aviaries on the moor so they will hopefully return there in a few years to nest and raise chicks of their own.",
+      "deeper": "Founder Yan Swiderski, a former fund manager turned farmer, had tears in his eyes watching the storks step out of their aviary and into the sky. He said storks can't simply be released anywhere, since they try to return to wherever they were born. So the project bred and raised chicks on Bodmin Moor itself, hoping the birds' homing instinct will one day bring them back to nest there.\n\nThe project follows a similar effort at Knepp estate in Sussex, running since 2016, and the Cornish birds may even migrate south alongside the Knepp storks. Natural England, while not opposing the releases, points out storks were never native breeding birds in England and says such projects aren't a priority for it.\n\nSwiderski sees the storks' value differently. He believes their real purpose is drawing people into caring about nature more broadly \u2014 healthy soil, organic farming, wetlands, and the insects and small mammals that depend on them. Watching one glide low over the trees, he admitted, \"I don't think I'll get tired of the sight of them.\"",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/was-this-heatwave-caused-by-climate-change-were-asking-the-wrong-question-288637",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/protesters-occupy-tree-us-mexico-border",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
+          "tier": 2
+        },
+        {
+          "name": "Positive News",
+          "url": "https://www.positive.news/society/good-news-stories-from-week-32-of-2026/",
+          "tier": 3
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
