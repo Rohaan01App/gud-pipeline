@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-29",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "d10d30663d526a947158",
+      "cluster": "discovery",
+      "headline": "Trial finds psilocybin eases treatment-resistant depression",
+      "tease": "A publicly funded study shows magic mushrooms may help when other treatments fail.",
+      "summary": "A single dose of psilocybin, the active compound in magic mushrooms, helped ease depression that had not responded to other treatments. In a trial led by King's College London, four in 10 people given the drug saw their symptoms go into remission within three weeks, compared with just 3% given a placebo. Both groups also received psychological support throughout. The improvement held up at six weeks. It's the first publicly funded trial of its kind, and researchers say it strengthens the case for larger studies testing psilocybin therapy in ordinary community settings rather than hospitals.",
+      "deeper": "Sixty people took part, all of them living with depression that hadn't budged after two other treatments. Half received a 25mg dose of psilocybin, half a placebo, and everyone got emotional support alongside it. The difference was striking: 40% of those on psilocybin were in remission within three weeks, against 3% on placebo, and that gap held six weeks on.\n\nOne patient described the experience as intense and painful, at one point picturing two people they'd lost, holding each other. They said it was hard, but it helped them finally sit with their feelings and understand their depression better.\n\nWhat stands out to researchers isn't just the drug itself, but where it can be given. The trial moved from a clinical research unit to an ordinary community mental health building, suggesting psilocybin therapy doesn't need a hospital ward, just a calm space and trained staff nearby. Professor James Rucker, who led the study, called it a step toward proving this could work in real-world settings. He was careful to note that not everyone responds the same way, and some of the improvement likely comes from factors beyond the drug. But the evidence, he said, is growing, and looking increasingly promising.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/innovation/the-history-of-the-beach-read-from-19th-century-moral-debasement-to-booktok-180989238/",
+          "tier": 2
+        },
+        {
+          "name": "Positive News",
+          "url": "https://www.positive.news/society/will-regeneratively-grown-food-become-mainstream/",
+          "tier": 3
+        },
+        {
+          "name": "Independent Sci",
+          "url": "https://www.independent.co.uk/news/science/psychedelic-magic-mushroom-depression-cure-b3028420.html",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/business/2026/aug/07/uk-house-prices-flat-july-lloyds-affordability",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "b94bf45b050693cf4b0f",
+      "cluster": "progress",
+      "headline": "HIV Infections and Deaths Hit 30-Year Lows, UN Reports",
+      "tease": "Seven countries near-eliminated new HIV infections, a UNAIDS report reveals.",
+      "summary": "New HIV infections and AIDS-related deaths have dropped to their lowest levels in more than 30 years, according to a UNAIDS report released for the International AIDS Conference in Rio de Janeiro. Seven countries, including Kenya, Rwanda, and Zimbabwe, cut new infections by nearly 80% since 2010, and 11 countries hit ambitious treatment targets where almost everyone with HIV knows their status, gets treatment, and has the virus under control. New prevention options, including long-acting injections and pills in development, are expanding fast. Brazil alone increased access to prevention medicine by 41% in a year. Funders are now working to reach 3 million people with a twice-yearly injection by 2028.",
+      "deeper": "The most hopeful part of this report isn't just the numbers going down. It's what's driving the change: prevention medicine that works almost like a vaccine. A twice-yearly injection called lenacapavir showed zero infections among 3,200 young women in a recent trial, a result researchers called nearly unthinkable a few years ago. Countries like Brazil, Ethiopia, and Uganda are pushing to get these tools to more people, and South Africa is negotiating prices so the injections become affordable at scale. Global health funders have already started pooling money to reach 3 million people with lenacapavir by 2028. None of this erases the hard truth that HIV still kills people and that access remains uneven. But UNAIDS director Winnie Byanyima framed it plainly: ending AIDS is still within reach, if governments and partners keep pushing. The report's real message is that decades of patient work, on testing, treatment, and now prevention, are compounding into something that finally looks like a turning point.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/07/drifting-tuna-fishing-gear-enter-half-of-marine-protected-areas-study-finds/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/two-peope-died-after-getting-sick-with-cyclosporiasis-marking-the-first-known-deaths-linked-to-the-ongoing-multi-state-outbreak-180989256/",
+          "tier": 2
+        },
+        {
+          "name": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/un-summit-on-hiv-aids-shows-incredible-progress-in-infection-rates-deaths-treatment-access/",
+          "tier": 3
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        8.5,
+        8.0,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "b363176d1a5aa110862d",
+      "cluster": "animals",
+      "headline": "Georgia Beaches Record Highest Loggerhead Turtle Nest Count in 37 Years",
+      "tease": "Decades of conservation work are paying off for threatened loggerhead sea turtles.",
+      "summary": "Loggerhead sea turtles nesting on Georgia's beaches have just set a new record: more than 4,110 nests this year, the most since counting began in 1989. Georgia's Department of Natural Resources calls it a slow but steady rebound for a species listed as threatened since 1978. Daily patrols by volunteers, researchers, and staff who mark and protect nests, along with 'turtle excluder' devices that keep the animals out of shrimp trawler nets since 1990, have helped nest counts grow about 4% a year since the early 1990s. The count has nearly doubled the original recovery goal for the species.",
+      "deeper": "Loggerheads are slow, patient animals, so any comeback takes decades to show up. Females don't lay their first eggs until they're 30 to 35 years old, so this year's record nests reflect protections put in place a generation ago. Each summer night, females haul themselves onto Georgia's barrier island beaches to bury about 100 eggs in the sand, then head back to sea. Volunteers and researchers with the Georgia Sea Turtle Cooperative walk those beaches at dawn every day, finding and protecting the nests. Shrimp boats now use devices that let turtles escape their nets, cutting down a major cause of death. The population still swings year to year, from a record low of 358 nests in 2004 to over 4,110 now. Officials expect numbers to level off for a while. But if protections stay in place, biologist Mark Dodd says nesting could eventually climb back to levels not seen in Georgia since the 1950s. It's a reminder that patient, unglamorous work, done daily for decades, can slowly turn a species' fortunes around.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-study-finds-it-where-you.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10830-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
