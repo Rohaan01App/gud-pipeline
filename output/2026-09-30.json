@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-30",
+  "stories": {
+    "nature": {
+      "id": "ab59be9917a6d8ec80f6",
+      "cluster": "nature",
+      "headline": "Tree Species Variation Boosts Tropical Forest Drought Resistance",
+      "tease": "Scientists find hidden diversity within species helps tropical forests withstand worsening droughts.",
+      "summary": "Tropical forests turn out to have a hidden tool for handling drought: individual trees within the same species can adjust their own water-handling traits, not just whole species being swapped out for tougher ones. Researchers found that in drier forests, trees show wider safety margins in how they manage water loss and resist internal air bubbles forming in their water channels. This flexibility within a species, on top of naturally drought-tough species moving in over time, gives forests more ways to cope as conditions change. It suggests tropical forests may be more adaptable to drought than previously assumed.",
+      "deeper": "Trees pull water up from their roots through thin internal tubes, and if they lose too much water too fast, air bubbles can form and block that flow, sometimes fatally. Scientists studying tropical forests wanted to know how these forests handle drier conditions, and found something reassuring: it's not just that drought-tolerant species take over from thirstier ones as an area dries out. Individual trees of the very same species also shift their own water-management traits, becoming more cautious about water loss and more resistant to those dangerous air bubbles.\n\nThat means forests have two ways to adapt, not one. A single species doesn't have to be replaced to become tougher; it can adjust in place. This kind of built-in flexibility, spread across countless individual trees, gives tropical forests more resilience than if survival depended only on which species happened to be growing there. As droughts become more of a concern for these ecosystems, understanding this within-species adaptability helps researchers better predict which forests might hold up and why.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042818.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-coastal-storm-conditions-frequent-jersey.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10863-3",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        9.0,
+        6.0,
+        8.0,
+        9.5,
+        9.0
+      ],
+      "evergreen": false
+    },
+    "discovery": {
+      "id": "af78a420e8f03d9af447",
+      "cluster": "discovery",
+      "headline": "AI helps scientists identify bird species in radar migration data",
+      "tease": "New AI tools turn fuzzy radar blobs into detailed maps of migrating bird species.",
+      "summary": "Scientists have built a tool that can tell which bird species are migrating through a stretch of sky, something weather radar alone could never do. BirdFlow combines millions of birdwatcher observations from the eBird app with weather radar data and AI to map where specific species are likely headed week by week. Radar has long shown flocks as unidentified blobs. Researchers from Cornell, the University of Massachusetts, and the University of Illinois Urbana-Champaign tested BirdFlow against 30 years of radar data and built models for 153 North American species. That species-level detail could help protect threatened birds, reduce building and aircraft collisions, and track disease spread among wild and farmed birds.",
+      "deeper": "For decades, radar showed migrating birds as dark, shapeless clouds. Useful for spotting a wave of movement, but useless for knowing which birds were actually flying. BirdFlow fixes that by pairing radar with something humans are already good at: birdwatching. Millions of sightings logged through the eBird app helped researchers figure out which species were likely present in those radar blobs, and when.\n\nCornell researcher Yuting Deng described asking a simple weekly question: given where a species was last week, how likely is it to be in a nearby location this week? Repeated across a season, that builds a route.\n\nWhy it matters: conservation groups can now focus efforts on the specific species passing through at a given time. Aviation managers can watch for larger birds that risk colliding with planes. Cities running lights-out campaigns to stop birds crashing into buildings can target the groups most at risk. And because BirdFlow can track where birds go after visiting an area, agencies are already interested in using it to watch how avian diseases might spread from wild birds to poultry farms.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-geological-evidence-role-agulhas-leakage.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/these-mice-live-on-volcano-summits-at-extreme-elevations-study-finds-how/",
+          "tier": 2
+        },
+        {
+          "name": "Ars Technica Sci",
+          "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/from-radar-blobs-to-bird-species-ai-helps-transform-migration-tracking/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        7.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "20d74a2eacdec677db57",
+      "cluster": "progress",
+      "headline": "AI models extend cyclone warning times by 30 hours",
+      "tease": "New forecasting tools give coastal communities a longer head start against destructive storms.",
+      "summary": "New AI forecasting models can give people up to 30 hours more warning before a tropical cyclone hits, compared with current methods. That extra time comes from a specific improvement: today's forecasts are fairly good at tracking where a storm is heading, but much weaker at predicting how strong it will get. The new models close that gap, catching intensity changes earlier. More lead time means more chance to prepare, evacuate, or secure what needs securing before a storm turns dangerous. It's a case where a modest technical fix, done well, translates directly into something that matters: time.",
+      "deeper": "Cyclones are hard to forecast in two different ways. Tracking where one is headed has gotten fairly reliable over the years. But guessing how strong it will actually be when it arrives \u2014 whether it fizzles or turns into something severe \u2014 has lagged behind. That gap matters, because a storm's path tells you where to worry, but its strength tells you how much to worry and what to do about it.\n\nThe new AI models are aimed squarely at that weak spot. By getting better at predicting intensity changes, they let forecasters issue warnings earlier and with more confidence \u2014 up to 30 hours earlier than before, according to the researchers.\n\nThirty hours doesn't sound dramatic, but in a storm warning, it's the difference between a rushed evacuation and an orderly one, between boarding up windows in daylight or in a downpour. It's a quiet kind of progress: no new sensors, no new satellites, just software that reads the same data more usefully. The tools still need testing against real storms, but the direction is encouraging \u2014 better warnings, sooner, for the people in a cyclone's path.",
+      "scene": "ozone",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-human-arctic-occurrence-satellite-analysis.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10887-9",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "05ae086a18b5b707c7f3",
+      "cluster": "animals",
+      "headline": "Osprey chicks hatch at Cumbria nature reserve for first time",
+      "tease": "A carefully placed nesting platform finally attracted breeding ospreys to Solway Firth.",
+      "summary": "Three osprey chicks have hatched at Campfield Marsh in Cumbria, the first time the birds have bred successfully at this RSPB reserve. The parents, both believed to be first-time breeders, were drawn in by a nesting platform built to attract the birds. Staff watched anxiously through the incubation period and were relieved when the eggs hatched in June. The chicks, named Ash, Bowness Bobbi and Beau by a local school, have been ringed so their movements can be tracked. It matters because ospreys were wiped out as a UK breeding bird in the early 1900s and have only slowly been returning since the 1950s.",
+      "deeper": "Ospreys almost vanished from Britain, hunted to extinction as a breeding bird by the early 1900s. They came back to Scotland in the 1950s and have been spreading to new areas ever since, one nesting site at a time. Campfield Marsh, a wetland reserve on the Solway Firth, built a platform hoping to tempt a pair in. It worked. A male osprey, ringed in Dumfries a few years ago, paired with an unringed female, and this year they raised three chicks together.\n\nSite manager Mhairi Maclauchlan said the team held their breath through the whole incubation period, then felt huge relief when the eggs finally hatched. She describes ospreys as gentler than you'd expect for birds with such sharp talons, and says they can be oddly funny too, fussing over tidying their nests.\n\nThe chicks, named Ash, Bowness Bobbi and Beau by children at a local school, have been ringed so scientists can follow where they go. They'll spend the summer learning to fish before migrating to Africa in autumn. Since ospreys tend to return to the same site and partner, this pair may well be back next year.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042824.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01845-6",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-triggered-evacuations-guatemala.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10884-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        6.0,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
