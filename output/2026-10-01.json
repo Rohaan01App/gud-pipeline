@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-01",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "1a12fd24a73ae4463243",
+      "cluster": "discovery",
+      "headline": "Fruit fly study reveals method to retrieve lost memories",
+      "tease": "Researchers found a way to recover forgotten memories, using fruit flies as an unlikely guide.",
+      "summary": "Scientists working with fruit flies have found that memories which seem forgotten may still be tucked away in the brain, waiting for the right cue. The flies were trained to avoid a smell linked to a mild shock, and a day later they'd stopped avoiding it. But when researchers recreated the exact setting of the original training, the flies remembered and avoided the smell again. Brain scans showed the original memory pattern had faded, but a quiet trace lived on in a different set of neurons, ready to be switched back on by the right reminder.",
+      "deeper": "Here's the interesting part: the memory wasn't gone, it was just quiet. Swiss researchers trained flies to link a smell with a mild shock. The flies avoided the smell at first, then seemed to forget it a day later. But putting them back in a room with the same lighting and texture as their training brought the memory rushing back.\n\nLooking inside the flies' brains, the scientists found the original memory pattern had faded, but a hidden trace remained in other neurons. The right reminder could reactivate it.\n\nThere's a catch, though. The flies could also form false memories: when exposed to a harmless smell they'd never been shocked with, but presented as if it were the \"reminder,\" they started avoiding that one too. Interestingly, the brain used different pathways for genuine recovered memories versus these false ones.\n\nFly brains aren't human brains, and the researchers are careful about that. But the study hints that remembering isn't just about what's stored \u2014 it's about rebuilding it from context, and that process can sometimes go wrong in ways that create memories that never happened.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/documentary-captures-impacts-of-diamond-mining-along-south-africas-west-coast/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582580-the-once-impossible-black-holes-that-could-break-thermodynamics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Science",
+          "url": "https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.5,
+        7.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "5fd363aa34431cf49156",
+      "cluster": "progress",
+      "headline": "National Trust land reshaped to absorb river floodwater",
+      "tease": "A landscape is being reworked to soak up floods before they reach nearby towns.",
+      "summary": "Rangers and volunteers at Attingham Park in Shropshire are turning the estate into a sponge for two rivers. They've built small dams from willow wood, restored ponds, and planted trees and hedgerows to slow water down before it reaches the River Severn and River Tern. The work is one of eight projects under the Severn Valley Water Management Scheme, testing whether nature-based methods can ease flooding risk downstream as the climate changes. Ranger Emilia Fahlstromova said the goal is to re-wet land that has dried out over the years, bringing wetland wildlife back while holding more water on site.",
+      "deeper": "The idea here is simple: give water somewhere to go before it becomes a flood. At Attingham Park, rangers have been wedging willow logs across streams to make small dams, restoring old ponds, and planting trees and hedgerows. Each one slows the water down a little, so it soaks into the land instead of rushing downstream.\n\nRanger Emilia Fahlstromova says wood is the best material for this kind of work, and that the aim is to \"wet the area up\" again after years of drying out, bringing back wetland species along the way.\n\nProject manager Jane Birch points to the bigger shift in thinking: after World War Two, farmland was drained to grow as much food as possible. Now, she says, it makes sense to hold water on the land instead, to cut flooding risk further downstream.\n\nA BBC environment correspondent noted that even something as simple as a few logs in a stream can make a real difference, and that some land flooding a bit isn't necessarily a bad thing if it means less flooding elsewhere. It's a small, low-tech experiment, but one that could shape how the wider Severn valley handles water as storms get harder to predict.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02385-9",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10860-6",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "415920cee74a4ba67947",
+      "cluster": "animals",
+      "headline": "First white storks released into wild in Cornwall",
+      "tease": "Twenty-one storks take flight over Bodmin Moor after a long reintroduction effort.",
+      "summary": "Twenty-one white storks took flight over Bodmin Moor this week, the first to be released into the wild in Cornwall. Most had hatched there this year at the Cornwall Stork Project, based at Hamatethy farm, an organic farm that also runs rewilding schemes. The birds will spend a couple of months getting used to freedom before migrating south for winter, perhaps to Spain or Morocco. Because storks have a strong homing instinct, the project raised them in breeding aviaries on the moor so they will hopefully return there in a few years to nest and raise chicks of their own.",
+      "deeper": "Founder Yan Swiderski, a former fund manager turned farmer, had tears in his eyes watching the storks step out of their aviary and into the sky. He said storks can't simply be released anywhere, since they try to return to wherever they were born. So the project bred and raised chicks on Bodmin Moor itself, hoping the birds' homing instinct will one day bring them back to nest there.\n\nThe project follows a similar effort at Knepp estate in Sussex, running since 2016, and the Cornish birds may even migrate south alongside the Knepp storks. Natural England, while not opposing the releases, points out storks were never native breeding birds in England and says such projects aren't a priority for it.\n\nSwiderski sees the storks' value differently. He believes their real purpose is drawing people into caring about nature more broadly \u2014 healthy soil, organic farming, wetlands, and the insects and small mammals that depend on them. Watching one glide low over the trees, he admitted, \"I don't think I'll get tired of the sight of them.\"",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/was-this-heatwave-caused-by-climate-change-were-asking-the-wrong-question-288637",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/protesters-occupy-tree-us-mexico-border",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
+          "tier": 2
+        },
+        {
+          "name": "Positive News",
+          "url": "https://www.positive.news/society/good-news-stories-from-week-32-of-2026/",
+          "tier": 3
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
