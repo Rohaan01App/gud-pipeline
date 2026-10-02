@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-03",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "2530ac11aeab8613dbd4",
+      "cluster": "discovery",
+      "headline": "Physicists detect lingering antineutrino signal from shutdown reactor",
+      "tease": "A faint particle glow could let scientists monitor nuclear fuel long after reactors go dark.",
+      "summary": "Physicists have picked up a faint particle signal from a nuclear reactor that had already been switched off for weeks. The Double Chooz team in France used an underground detector to catch antineutrinos, the near-massless particles thrown off by leftover radioactive fuel, even after the reactor itself went quiet. Over 17 days they recorded about 100 of these faint events, matching predictions based on the fuel still decaying inside. It's the first time this lingering signal has been directly measured, and it means reactors could be monitored for safety and fuel tracking even during shutdown and maintenance.",
+      "deeper": "A nuclear reactor doesn't go fully silent the moment it's switched off. Leftover fuel keeps decaying for months, quietly giving off antineutrinos, ghostly particles that pass through walls and shielding almost untouched. Scientists at the Double Chooz experiment, working underground near a French power plant, built a detector sensitive enough to catch this faint afterglow for the first time. Led by researchers including Anthony Onillon and Thierry Lasserre, the team watched a tank of special liquid light up ever so slightly whenever one of these particles happened to interact inside it. What they saw matched calculations of exactly how much radioactive fuel should still be decaying in the reactor cores and cooling pools nearby. It's a small confirmation with a useful implication: instruments like this could one day let outsiders check on a reactor's status and fuel inventory without needing access inside, even while it's offline for maintenance. Other teams are already testing similar detectors elsewhere. The reactor doesn't have to be humming for its secrets to leak out, just very quietly, in particles almost nothing can stop.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10921-w",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02252-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034645.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02460-1",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        6.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "c57d650293c8a3079a8c",
+      "cluster": "progress",
+      "headline": "Study finds urban canals cool nearby areas during heatwaves",
+      "tease": "Researchers show how city waterways create natural relief from extreme heat.",
+      "summary": "Canals running through British and Irish cities cool the streets around them, new research shows, with the effect strongest exactly when it's needed most: during heatwaves. Researchers modelled 68 urban canals over a full year and found they lower nearby air temperatures by up to 20\u201350 metres from the banks, cooling by over 2\u00b0C during extreme heat. The canals do warm the air slightly at night, but only by about 0.2\u00b0C. Given that roughly 6.2 million people live within a 15-minute walk of a canal, this quiet cooling effect could matter for the comfort and health of a lot of city dwellers.",
+      "deeper": "Cities are full of canals left over from the Industrial Revolution, but nobody had really checked what they do to the air around them. So a team of researchers built a model tracking how canal water heats and cools through the seasons, and how that plays off the surrounding streets and buildings. The pattern that emerged: water absorbs heat slowly, so on hot days canals stay cooler than the pavement and buildings nearby, and that coolness spreads a short distance into the neighbourhood. The effect is small most of the year but grows sharply during heatwaves, exactly when people need relief. At night the canals give a little warmth back, though far less than they take away during the day. The researchers note this matters because so many people live, work, or simply walk near canals \u2014 hundreds of millions of visits are made to UK canals every year. It's a reminder that ordinary infrastructure built for other reasons, like moving goods two centuries ago, can still be quietly useful now, in a much hotter present.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02397-5",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02428-1",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080923.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10883-z",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "d3d620ea47bc08ec03d3",
+      "cluster": "animals",
+      "headline": "Water voles return to Surrey's Hogsmill River",
+      "tease": "Tiny droppings reveal a quiet comeback for one of Britain's most endangered mammals.",
+      "summary": "Water voles are back on Surrey's Hogsmill River, and a year on, they're thriving. Conservation groups South East Rivers Trust and Citizen Zoo released 42 water voles into the chalk stream last July, ending a local absence of more than 20 years. Surveys now find burrows, droppings and camera-trap footage showing voles have spread both upstream and downstream of the release site. Their return has been helped by a parallel effort to remove non-native mink, which prey heavily on water voles, from the area. Conservationists say the voles' presence is also a sign the river itself is healthier, with better vegetation and more natural banks.",
+      "deeper": "The best proof that water voles are doing well, it turns out, is finding their droppings \u2014 specifically, squashed ones. Water voles have scent glands on their feet and press their tiny, Tic Tac-shaped droppings down to mark territory, so a flattened dropping outside a burrow means an active, established population. Urban rewilding officer Pia Trevelyan-Ashby has been searching riverbanks for exactly this since 42 voles were released into the Hogsmill last summer, and she's finding more burrows every visit.\n\nWater voles vanished from the area more than 20 years ago, hit by habitat loss and mink, a predator introduced from fur farms that can kill roughly one small animal a day. So alongside reintroducing the voles, teams have been working to clear mink from the river, giving the voles a real chance to survive their first winter, when populations typically fall sharply.\n\nThe voles matter beyond themselves. They keep waterside vegetation trimmed and sit near the bottom of the food chain, feeding other wildlife. Their return signals a river with better bankside habitat \u2014 a small, patient sign that the Hogsmill is recovering.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/07/sri-lanka-prepares-for-impending-el-nino-with-traditional-and-new-approaches/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-may-have-spotted-a-supermassive-black-hole-that-wandered-to-the-edge-of-its-galaxy-180989233/",
+          "tier": 2
+        },
+        {
+          "name": "Optimist Daily",
+          "url": "https://www.optimistdaily.com/2026/08/the-robots-kids-build-to-preserve-native-american-languages/",
+          "tier": 3
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/environment/2026/aug/07/we-expected-it-but-now-its-here-on-the-frontline-of-australias-bird-flu-outbreak-people-are-distressed",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
