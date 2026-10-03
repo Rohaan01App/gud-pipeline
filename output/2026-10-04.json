@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-04",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "a2c44ec386eabfde68c8",
+      "cluster": "discovery",
+      "headline": "Scientists keep vaccines stable at room temperature for a year",
+      "tease": "A cold-chain breakthrough could cut the vaccines wasted worldwide in half.",
+      "summary": "UK scientists have successfully trialled a vaccine that stays stable at room temperature for a year, no fridge needed. Researchers turned a tetanus-diphtheria vaccine into a dry powder using a sugar called trehalose, then mixed it with water before injecting it into 60 volunteers. It worked as well as the standard version and was safe and well tolerated. Around half of all vaccines are currently wasted worldwide, largely because they get too hot or too cold in transit. A fridge-free version could cut that waste and make it easier to reach remote or war-torn areas where refrigeration is unreliable.",
+      "deeper": "The idea came from an unlikely source: a plant that can dry out completely and look dead, then come back to life the moment it rains. Scientists noticed it survives by making a sugar that protects its cells during the dry spell. They used the same sugar to protect a vaccine, drying it into a powder that can sit at room temperature for a year before being mixed with water and used.\n\nThis matters because keeping vaccines cold, from the factory to the clinic, is one of the hardest parts of getting them to people. Doctors who've worked in remote areas describe the anxiety of racing against time with cool boxes on rough roads, hoping the vaccines survive the journey. Half of all vaccines worldwide are wasted, often because that cold chain breaks down somewhere along the way.\n\nA larger trial with 160 people is starting soon. The vaccine used in this study is already approved, so this could move toward wider use faster than a brand-new vaccine would. Researchers still want to check how it holds up with regular temperature swings and in more diverse groups of people, but the early signs suggest a future where more vaccines can reach more places, fridge or no fridge.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/07/listening-offers-a-clearer-picture-of-indias-hidden-finless-porpoises/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/07/australias-best-sustainable-architecture-for-2026-in-pictures",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        7.0,
+        8.0,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "27f7dd29baf8996c53ac",
+      "cluster": "progress",
+      "headline": "New stainless steel resists corrosion, could cut hydrogen costs",
+      "tease": "A cheaper steel alloy could make seawater hydrogen production dramatically more affordable.",
+      "summary": "Engineers in Hong Kong have built a new stainless steel that stands up to corrosion far better than existing versions, which could make green hydrogen cheaper to produce. The team, led by Professor Mingxin Huang, found the steel forms two protective layers instead of the usual one, letting it survive the harsh, high-voltage conditions needed to split seawater into hydrogen and oxygen. That matters because current equipment for this process relies on costly titanium parts coated in gold or platinum. The researchers estimate the new steel could cut structural material costs by about 40 times, and have already produced tons of wire from it with a factory partner.",
+      "deeper": "Stainless steel normally protects itself with a thin invisible layer that forms when chromium in the metal reacts with its surroundings. But push the electrical voltage high enough, as you must to split seawater into hydrogen, and that layer breaks down. For years this stopped stainless steel from being used in the harshest hydrogen-making equipment, which instead relies on expensive titanium.\n\nHuang's team, after nearly six years of work, found that their new steel grows a second protective layer on top of the first, this one built from manganese. That was a surprise, since manganese was long thought to weaken corrosion resistance, not help it. Even the researchers doubted their own results at first, until detailed atomic-level evidence convinced them.\n\nTogether, the two layers let the steel withstand conditions far tougher than plain stainless steel can handle, including the salty water used in seawater electrolysis. Because this steel is much cheaper than titanium, it could sharply cut the cost of building hydrogen production equipment. The team has already made tons of wire from it with an industrial partner, though turning it into the meshes and foams real electrolyzers need is still ongoing work.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02083-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02386-8",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02235-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "05ae086a18b5b707c7f3",
+      "cluster": "animals",
+      "headline": "Osprey chicks hatch at Cumbria nature reserve for first time",
+      "tease": "A carefully placed nesting platform finally attracted breeding ospreys to Solway Firth.",
+      "summary": "Three osprey chicks have hatched at Campfield Marsh in Cumbria, the first time the birds have bred successfully at this RSPB reserve. The parents, both believed to be first-time breeders, were drawn in by a nesting platform built to attract the birds. Staff watched anxiously through the incubation period and were relieved when the eggs hatched in June. The chicks, named Ash, Bowness Bobbi and Beau by a local school, have been ringed so their movements can be tracked. It matters because ospreys were wiped out as a UK breeding bird in the early 1900s and have only slowly been returning since the 1950s.",
+      "deeper": "Ospreys almost vanished from Britain, hunted to extinction as a breeding bird by the early 1900s. They came back to Scotland in the 1950s and have been spreading to new areas ever since, one nesting site at a time. Campfield Marsh, a wetland reserve on the Solway Firth, built a platform hoping to tempt a pair in. It worked. A male osprey, ringed in Dumfries a few years ago, paired with an unringed female, and this year they raised three chicks together.\n\nSite manager Mhairi Maclauchlan said the team held their breath through the whole incubation period, then felt huge relief when the eggs finally hatched. She describes ospreys as gentler than you'd expect for birds with such sharp talons, and says they can be oddly funny too, fussing over tidying their nests.\n\nThe chicks, named Ash, Bowness Bobbi and Beau by children at a local school, have been ringed so scientists can follow where they go. They'll spend the summer learning to fish before migrating to Africa in autumn. Since ospreys tend to return to the same site and partner, this pair may well be back next year.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042824.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01845-6",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-triggered-evacuations-guatemala.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10884-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        6.0,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
