@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-05",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "a8c9102b755845723db9",
+      "cluster": "discovery",
+      "headline": "Silver nanocatalysts found to switch reaction sites with cell mode",
+      "tease": "A hidden switch in silver catalysts could make clean power and hydrogen more efficient.",
+      "summary": "Researchers in South Korea have found that a single silver catalyst used in clean-energy cells can shift where it does its work depending on the job at hand. When the cell is generating electricity, the key chemistry happens at the boundary where silver particles meet the electrode. When the cell is producing hydrogen, the action moves to the surface of the silver particles themselves. The team, led by scientists at Seoul National University with partners at KAIST and the Korea Basic Science Institute, built a precisely ordered model electrode to see this clearly. The insight offers a new way to design better solid oxide cells for electricity and hydrogen production.",
+      "deeper": "Solid oxide cells are versatile: run one way, they make electricity; run the other way, they split water into hydrogen. Silver added to these cells makes them work better, but nobody knew exactly where or how the silver was helping.\n\nTo find out, the researchers built a tidy, evenly spaced arrangement of silver particles on an electrode, rather than using the messy, tangled structures found in real devices. That let them watch closely where the chemistry actually happened.\n\nThe surprise: it depends on the direction the cell is running. Making electricity, the silver does its work at the edge where it touches the electrode. Making hydrogen, the silver does its work across its own surface. Using detailed imaging and calculations, the team showed the silver changes the electrode's surface behavior in each mode, favoring different chemical steps.\n\nThis matters because it means catalysts aren't just simple helpers bolted onto a device. Their role shifts with how the device is used. That opens a design strategy: engineer the catalyst's surface and its contact with the electrode separately, rather than as one fixed feature. Done well, it could make electricity generation and green hydrogen production more efficient, and support devices that do both jobs in one system.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02334-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10977-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "92a124b51cd911abe349",
+      "cluster": "progress",
+      "headline": "Gold metacrystal sorts quantum light without deep-freeze cooling",
+      "tease": "A tiny gold crystal could let quantum devices ditch bulky cryogenic freezers entirely.",
+      "summary": "Physicists at LSU have built a tiny gold crystal that can sort different quantum states of light and move them around without needing deep-freeze cooling. Almost all quantum materials only work near absolute zero, because heat makes atoms jiggle and destroys the delicate effects scientists rely on. The team got around this by engineering their own material: a thin gold layer cut with hundreds of tiny slits, each acting like an artificial atom. Arranging these slits carefully lets the crystal act as a filter, sorting light by its quantum behavior at room temperature. That could make quantum computers, sensors, and communication devices smaller and cheaper to build.",
+      "deeper": "Light seems simple, but sunlight, laser light, and fluorescent light are all made of photons that behave subtly differently at the quantum level. Normally, telling these differences apart takes bulky equipment cooled to near absolute zero and huge numbers of measurements. The LSU team built something new instead: a gold chip etched with hundreds of tiny slits, each acting like an artificial atom. Together these form a crystal that doesn't exist in nature, one that sorts incoming light by its quantum properties and guides different types along separate paths, all at room temperature.\n\nOne researcher described the appeal simply, saying they built something nature doesn't provide on its own, and watching it work as predicted felt rewarding. The team calls this a new class of material and says the same design approach could be used to build others like it, rather than being a one-off discovery.\n\nThe practical promise is that quantum devices could shed their dependence on expensive cooling systems, making them smaller and easier to actually use. The researchers also suggest the same light-guiding trick might help solar cells waste less sunlight as heat, though that idea is still early.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "b363176d1a5aa110862d",
+      "cluster": "animals",
+      "headline": "Georgia Beaches Record Highest Loggerhead Turtle Nest Count in 37 Years",
+      "tease": "Decades of conservation work are paying off for threatened loggerhead sea turtles.",
+      "summary": "Loggerhead sea turtles nesting on Georgia's beaches have just set a new record: more than 4,110 nests this year, the most since counting began in 1989. Georgia's Department of Natural Resources calls it a slow but steady rebound for a species listed as threatened since 1978. Daily patrols by volunteers, researchers, and staff who mark and protect nests, along with 'turtle excluder' devices that keep the animals out of shrimp trawler nets since 1990, have helped nest counts grow about 4% a year since the early 1990s. The count has nearly doubled the original recovery goal for the species.",
+      "deeper": "Loggerheads are slow, patient animals, so any comeback takes decades to show up. Females don't lay their first eggs until they're 30 to 35 years old, so this year's record nests reflect protections put in place a generation ago. Each summer night, females haul themselves onto Georgia's barrier island beaches to bury about 100 eggs in the sand, then head back to sea. Volunteers and researchers with the Georgia Sea Turtle Cooperative walk those beaches at dawn every day, finding and protecting the nests. Shrimp boats now use devices that let turtles escape their nets, cutting down a major cause of death. The population still swings year to year, from a record low of 358 nests in 2004 to over 4,110 now. Officials expect numbers to level off for a while. But if protections stay in place, biologist Mark Dodd says nesting could eventually climb back to levels not seen in Georgia since the 1950s. It's a reminder that patient, unglamorous work, done daily for decades, can slowly turn a species' fortunes around.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-study-finds-it-where-you.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10830-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
