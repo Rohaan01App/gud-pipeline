@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-07",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "44472a450dee89a2168a",
+      "cluster": "discovery",
+      "headline": "ESA's HydroGNSS satellites begin full science operations",
+      "tease": "Free new satellite data promises fresh insight into Earth's shifting water cycle.",
+      "summary": "Two small satellites built to watch Earth's water are now fully up and running, and their data is free for anyone to use. The HydroGNSS mission tracks navigation signals like GPS and Galileo after they bounce off the planet's surface, using the reflections to sense soil moisture, flooding, wetlands, freeze-thaw cycles, and plant growth. Since launching in November 2025, the team spent eight months testing and calibrating the system. It's ESA's first \"Scout\" mission, built quickly and cheaply by Surrey Satellite Technology, and it shows that low-cost satellites can still deliver useful science on how climate change is reshaping the water cycle.",
+      "deeper": "Here's the clever part: HydroGNSS doesn't send out its own signals. It just listens. Navigation satellites like GPS and Galileo are already broadcasting constantly, and their signals bounce off oceans, soil, ice and forests below. By comparing the reflected signal to the direct one, HydroGNSS can tell what it hit and how wet it was.\n\nThat trick turns out to have a real advantage. Radar satellites like Sentinel-1 struggle to see water hidden under thick forest canopy. HydroGNSS can spot it anyway, using a different kind of signal analysis. That matters because hidden wetlands play a real role in storing carbon, and scientists have had trouble mapping them properly.\n\nThe mission was built fast and cheap, as a proof-of-concept for how ESA does future missions. One nice detail: about half the signals HydroGNSS reflects and studies come from Galileo satellites, which were also built by the same UK company, SSTL. As project manager Peter Garner put it, the signals are \"coming home.\" The data is now open to any researcher who wants it.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "7f9f7ca65c7dbc530c54",
+      "cluster": "progress",
+      "headline": "New evaporation method improves perovskite-silicon solar cells",
+      "tease": "Scientists found a scalable way to build efficient tandem solar cells using heat.",
+      "summary": "Researchers have found a way to build perovskite-silicon tandem solar cells using heat rather than the wet chemical steps that usually go into making them. The method relies on a formamidinium eutectic material and applies it through thermal evaporation, a process where thin layers are deposited by vaporizing materials in a vacuum. Tandem cells stack two light-absorbing layers to capture more of the sun's spectrum than a single layer can. Making that stack easier to manufacture matters because simpler, more reliable production methods are often what stand between a promising lab result and a solar panel you could actually buy.",
+      "deeper": "Solar cells that combine perovskite with silicon can capture more sunlight than ordinary silicon panels, because the two materials absorb different parts of the light spectrum. The tricky part has always been putting them together well, since the usual perovskite-making methods involve wet chemical coatings that can be hard to control precisely across a large surface.\n\nThis new work does the layering by heating materials until they turn to vapor and settle onto the surface below, a technique known as thermal evaporation. The team used a specific combination of ingredients, described as a formamidinium eutectic, to make this heat-based approach work for the perovskite layer.\n\nThe appeal of evaporation is that it's a familiar, well-understood process in electronics manufacturing, so a method that fits it more easily could be simpler to scale up than wet-chemistry alternatives. The source doesn't give performance numbers or timelines for real-world use, but the core idea is straightforward: a more manufacturable way to build high-performing solar cells is a genuinely useful step, even before it shows up on a rooftop.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02419-2",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10958-x",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10970-1",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "47d8ef99444ff87178cb",
+      "cluster": "animals",
+      "headline": "Detection dogs help scientists study rare, elusive species",
+      "tease": "Trained dogs sniff out scat, opening a window into secretive wildlife like black-footed cats and pangolins.",
+      "summary": "In South Africa's Karoo, two German Shorthaired Pointers named Lyka and Sebala are sniffing out scat from some of the region's hardest-to-study animals, including black-footed cats and Temminck's pangolins. Working with conservation biologist Michelle Schroeder, the dogs have found hundreds of samples in months, work that took a human researcher over a year to match on her own. Each scat carries genetic clues about an animal's sex, health, diet, and relationships to others nearby. That data is helping scientists estimate population sizes, track gene flow across the landscape, and even flag habitats worth protecting from development.",
+      "deeper": "Some animals are just hard to see. Black-footed cats hide in burrows by day and leave droppings almost anywhere, with no pattern to follow. Pangolins are nocturnal, camouflaged, and their droppings vanish within a day or two. So researchers turned to dogs, whose noses can pick up what humans simply can't.\n\nMichelle Schroeder's dogs, Lyka and Sebala, found in a few months what she'd spent over a year searching for alone. Each dropping they find holds what she calls \"nuggets of genetic data\" \u2014 enough to tell researchers an animal's sex, sometimes its identity, and how populations connect across the landscape. Early results from the Karoo suggest black-footed cats there still have healthy genetic diversity and can move freely between areas, though researchers caution this may not hold everywhere.\n\nThe same approach is helping protect riverine rabbits, too. When dogs and camera traps confirmed rabbits were living in land proposed for wind-energy projects, it gave conservationists solid evidence to push back on development in sensitive habitat.\n\nThe work isn't glamorous, and funding is tight \u2014 a pangolin tracking project stalled this year for lack of money. But for Schroeder and her colleagues, the dogs are more than tools. They're partners who, when the fieldwork ends, get to just be dogs again.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02398-4",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02429-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
