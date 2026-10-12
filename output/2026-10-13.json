@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-13",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "a8c9102b755845723db9",
+      "cluster": "discovery",
+      "headline": "Silver nanocatalysts found to switch reaction sites with cell mode",
+      "tease": "A hidden switch in silver catalysts could make clean power and hydrogen more efficient.",
+      "summary": "Researchers in South Korea have found that a single silver catalyst used in clean-energy cells can shift where it does its work depending on the job at hand. When the cell is generating electricity, the key chemistry happens at the boundary where silver particles meet the electrode. When the cell is producing hydrogen, the action moves to the surface of the silver particles themselves. The team, led by scientists at Seoul National University with partners at KAIST and the Korea Basic Science Institute, built a precisely ordered model electrode to see this clearly. The insight offers a new way to design better solid oxide cells for electricity and hydrogen production.",
+      "deeper": "Solid oxide cells are versatile: run one way, they make electricity; run the other way, they split water into hydrogen. Silver added to these cells makes them work better, but nobody knew exactly where or how the silver was helping.\n\nTo find out, the researchers built a tidy, evenly spaced arrangement of silver particles on an electrode, rather than using the messy, tangled structures found in real devices. That let them watch closely where the chemistry actually happened.\n\nThe surprise: it depends on the direction the cell is running. Making electricity, the silver does its work at the edge where it touches the electrode. Making hydrogen, the silver does its work across its own surface. Using detailed imaging and calculations, the team showed the silver changes the electrode's surface behavior in each mode, favoring different chemical steps.\n\nThis matters because it means catalysts aren't just simple helpers bolted onto a device. Their role shifts with how the device is used. That opens a design strategy: engineer the catalyst's surface and its contact with the electrode separately, rather than as one fixed feature. Done well, it could make electricity generation and green hydrogen production more efficient, and support devices that do both jobs in one system.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02334-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10977-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "c57d650293c8a3079a8c",
+      "cluster": "progress",
+      "headline": "Study finds urban canals cool nearby areas during heatwaves",
+      "tease": "Researchers show how city waterways create natural relief from extreme heat.",
+      "summary": "Canals running through British and Irish cities cool the streets around them, new research shows, with the effect strongest exactly when it's needed most: during heatwaves. Researchers modelled 68 urban canals over a full year and found they lower nearby air temperatures by up to 20\u201350 metres from the banks, cooling by over 2\u00b0C during extreme heat. The canals do warm the air slightly at night, but only by about 0.2\u00b0C. Given that roughly 6.2 million people live within a 15-minute walk of a canal, this quiet cooling effect could matter for the comfort and health of a lot of city dwellers.",
+      "deeper": "Cities are full of canals left over from the Industrial Revolution, but nobody had really checked what they do to the air around them. So a team of researchers built a model tracking how canal water heats and cools through the seasons, and how that plays off the surrounding streets and buildings. The pattern that emerged: water absorbs heat slowly, so on hot days canals stay cooler than the pavement and buildings nearby, and that coolness spreads a short distance into the neighbourhood. The effect is small most of the year but grows sharply during heatwaves, exactly when people need relief. At night the canals give a little warmth back, though far less than they take away during the day. The researchers note this matters because so many people live, work, or simply walk near canals \u2014 hundreds of millions of visits are made to UK canals every year. It's a reminder that ordinary infrastructure built for other reasons, like moving goods two centuries ago, can still be quietly useful now, in a much hotter present.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02397-5",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02428-1",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080923.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10883-z",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "a10c1639de36cfe40e32",
+      "cluster": "animals",
+      "headline": "Amur Tiger Released in Kazakhstan After Decade-Long Rewilding Effort",
+      "tease": "A decade of reforestation and prey restoration brings tigers back to Central Asia.",
+      "summary": "A female Amur tiger named Hope has been released into Kazakhstan's Ile-Balkhash Nature Reserve, the first tiger to roam the country in more than 70 years since the Caspian tiger went extinct. It's the result of a decade-long effort that began with rebuilding the habitat and restoring prey species like deer, antelope, and wild ass before any tigers arrived. Three more tigers, including two cubs, are being gradually acclimated for future release. If successful, Kazakhstan will become the first country to bring back a tiger population to a landscape it had vanished from.",
+      "deeper": "What makes this project unusual is the order things happened in. Rather than releasing tigers and hoping the ecosystem could support them, Kazakhstan spent years first: planting forest, then reintroducing deer, antelope, and wild ass so there would be enough prey for tigers to hunt on their own. Only once that foundation was in place did the tigers arrive, and even then, carefully. Hope, the first tiger released, spent time in a large enclosure adjusting to the sights and smells of her new home before being fitted with a GPS collar and let go. A male and two cubs are still being monitored to see if they're ready to hunt for themselves. Officials have also set up a response team to prevent conflicts with nearby communities, since the reserve isn't fenced and tigers may eventually roam beyond it. The Amur tiger stands in for the Caspian tiger, which vanished from the region decades ago and was its closest relative. If the population takes hold, it would mark the first time any country has restored a tiger species to land where it had gone extinct.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-metal-deposits-reveal-ice-ages.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/environmental-activists-in-kenya-concerned-over-billionaires-planned-oil-refinery/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582816-how-does-my-energy-use-differ-if-i-walk-jog-or-run-for-1-kilometre/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/on-the-front-lines-of-conservation-in-sumatra-rangers-safeguard-batutegi-forest/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        8.5,
+        9.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
