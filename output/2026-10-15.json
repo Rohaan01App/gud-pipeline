@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-15",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "027256e6580db54c328f",
+      "cluster": "discovery",
+      "headline": "New satellite maps reveal fine-scale microclimates across US landscapes",
+      "tease": "Scientists turn satellite big data into detailed maps of Earth's hidden microclimates.",
+      "summary": "Researchers at Michigan State University have turned raw satellite data into maps that show the small-scale variation across US landscapes. Kelly Kapsar and her team used satellite imagery to trace the exact contours of forested ridges in the Sierra Nevada and the peaks and valleys of the Rockies, alongside the pine flatwoods of southern Florida and the grasslands of the Kansas prairie. Different colors mark the precise heights and shapes of each place. The work takes enormous amounts of satellite data and turns it into images that are easy to read, giving a clearer view of how varied America's terrain really is, place by place.",
+      "deeper": "Satellite data covers huge areas, which is useful, but it can be hard to see what's actually happening on the ground in any one spot. Kelly Kapsar, a researcher at Michigan State University, has been working on maps that bring that data down to a human scale. She uses color to show the exact height of a ridge, the drop of a valley, or the flatness of a plain.\n\nIn her presentation, she showed the forested ridgelines of the Sierra Nevada and the sharp peaks and valleys of the Rockies. Then she showed something completely different: the shaded pine flatwoods of southern Florida and the smooth, rolling grasslands of the Kansas prairie. Side by side, the maps make it easy to see how differently the land behaves from one region to the next.\n\nIt's a simple idea \u2014 take satellite data that's normally too big and abstract to make sense of, and turn it into something you can actually look at and understand, ridge by ridge, field by field.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02432-5",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02350-6",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10874-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        6.5,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "31d398a29c678120b283",
+      "cluster": "progress",
+      "headline": "Sri Lankan farmers revive heirloom rice for health and resilience",
+      "tease": "Traditional rice varieties are helping Sri Lankan farmers manage disease and preserve indigenous knowledge.",
+      "summary": "In Sri Lanka, farmers and scientists are working to bring heirloom rice varieties back from the edge. Fewer than 30 of the roughly 2,500 traditional cultivars remain in wide use, but around 2,500 have been preserved as seed at the Plant Genetic Resources Centre, and farmers like Karu Herath still grow them the old way, rotating rice with millet and mung bean by season. Researchers have found many of these varieties carry anti-diabetic and anti-inflammatory properties, useful for managing chronic disease. Their revival keeps both genetic diversity and older, low-input farming knowledge alive for future seasons.",
+      "deeper": "For centuries, Sri Lankan farmers grew rice suited to their own soil, water and diet, not to export markets. That changed with the mid-20th century Green Revolution, when new high-yield varieties replaced most heirloom types to feed a growing population. Today fewer than 30 of an estimated 2,500 traditional varieties are still commonly grown.\n\nWhat's interesting is why some farmers and scientists want them back. It's not nostalgia. Studies suggest many heirloom rice types have a low glycemic index and properties that help manage diabetes and inflammation, earning them an old reputation as \"medicinal rice.\" Farmers like Karu Herath still grow them only in the wet season, resting the soil the rest of the year with millet and mung beans instead, a rotation that uses less water.\n\nScientists have now conserved about 2,500 heirloom varieties as seed, so the genetic diversity isn't lost even as farming modernizes further. Researchers are also issuing seasonal guidance to help farmers handle pests and unpredictable weather. None of this replaces high-yield rice, which still feeds most of the country. But it keeps an older, resilient option on the table, seed by seed, for whoever needs it next.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02388-6",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10953-2",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        8.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "a10c1639de36cfe40e32",
+      "cluster": "animals",
+      "headline": "Amur Tiger Released in Kazakhstan After Decade-Long Rewilding Effort",
+      "tease": "A decade of reforestation and prey restoration brings tigers back to Central Asia.",
+      "summary": "A female Amur tiger named Hope has been released into Kazakhstan's Ile-Balkhash Nature Reserve, the first tiger to roam the country in more than 70 years since the Caspian tiger went extinct. It's the result of a decade-long effort that began with rebuilding the habitat and restoring prey species like deer, antelope, and wild ass before any tigers arrived. Three more tigers, including two cubs, are being gradually acclimated for future release. If successful, Kazakhstan will become the first country to bring back a tiger population to a landscape it had vanished from.",
+      "deeper": "What makes this project unusual is the order things happened in. Rather than releasing tigers and hoping the ecosystem could support them, Kazakhstan spent years first: planting forest, then reintroducing deer, antelope, and wild ass so there would be enough prey for tigers to hunt on their own. Only once that foundation was in place did the tigers arrive, and even then, carefully. Hope, the first tiger released, spent time in a large enclosure adjusting to the sights and smells of her new home before being fitted with a GPS collar and let go. A male and two cubs are still being monitored to see if they're ready to hunt for themselves. Officials have also set up a response team to prevent conflicts with nearby communities, since the reserve isn't fenced and tigers may eventually roam beyond it. The Amur tiger stands in for the Caspian tiger, which vanished from the region decades ago and was its closest relative. If the population takes hold, it would mark the first time any country has restored a tiger species to land where it had gone extinct.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-metal-deposits-reveal-ice-ages.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/environmental-activists-in-kenya-concerned-over-billionaires-planned-oil-refinery/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582816-how-does-my-energy-use-differ-if-i-walk-jog-or-run-for-1-kilometre/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/on-the-front-lines-of-conservation-in-sumatra-rangers-safeguard-batutegi-forest/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        8.5,
+        9.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
