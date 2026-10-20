@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-21",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "a8c9102b755845723db9",
+      "cluster": "discovery",
+      "headline": "Silver nanocatalysts found to switch reaction sites with cell mode",
+      "tease": "A hidden switch in silver catalysts could make clean power and hydrogen more efficient.",
+      "summary": "Researchers in South Korea have found that a single silver catalyst used in clean-energy cells can shift where it does its work depending on the job at hand. When the cell is generating electricity, the key chemistry happens at the boundary where silver particles meet the electrode. When the cell is producing hydrogen, the action moves to the surface of the silver particles themselves. The team, led by scientists at Seoul National University with partners at KAIST and the Korea Basic Science Institute, built a precisely ordered model electrode to see this clearly. The insight offers a new way to design better solid oxide cells for electricity and hydrogen production.",
+      "deeper": "Solid oxide cells are versatile: run one way, they make electricity; run the other way, they split water into hydrogen. Silver added to these cells makes them work better, but nobody knew exactly where or how the silver was helping.\n\nTo find out, the researchers built a tidy, evenly spaced arrangement of silver particles on an electrode, rather than using the messy, tangled structures found in real devices. That let them watch closely where the chemistry actually happened.\n\nThe surprise: it depends on the direction the cell is running. Making electricity, the silver does its work at the edge where it touches the electrode. Making hydrogen, the silver does its work across its own surface. Using detailed imaging and calculations, the team showed the silver changes the electrode's surface behavior in each mode, favoring different chemical steps.\n\nThis matters because it means catalysts aren't just simple helpers bolted onto a device. Their role shifts with how the device is used. That opens a design strategy: engineer the catalyst's surface and its contact with the electrode separately, rather than as one fixed feature. Done well, it could make electricity generation and green hydrogen production more efficient, and support devices that do both jobs in one system.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02334-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10977-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "1ca157de398c712d8fa5",
+      "cluster": "progress",
+      "headline": "Museum restores censored figure in Pieter de Hooch painting",
+      "tease": "Conservators uncover a hidden soldier erased from a 17th-century Dutch drinking scene.",
+      "summary": "A Dutch museum has painted a missing man back into a 17th-century painting. In Pieter de Hooch's A Man Smoking and a Woman Drinking in a Courtyard, someone long ago painted over a soldier who once sat at the table with two other figures, leaving just a man and a woman. The Mauritshuis museum in the Netherlands used an identical version of the painting, held in Washington, D.C., as a guide to restore the soldier exactly as de Hooch intended. The painting has been renamed Figures in a Courtyard, and now shows its original, livelier scene of a 17th-century drinking game.",
+      "deeper": "For centuries, this painting looked like a quiet moment between a man and a woman sharing a drink. But that wasn't the whole picture. Someone, long before 1833, painted over a third figure, a soldier, erasing him from the table entirely. Nobody knows exactly why. It might have been a wish to make the painting seem more valuable and unique, or perhaps just a wish to make the scene look more proper.\n\nThe fix relied on a stroke of luck: de Hooch had painted a nearly identical version of the same scene, kept in a museum in Washington, D.C., where the soldier was never removed. Conservators in the Netherlands used that painting as a map to guide the soldier's return.\n\nWith him back, the meaning of the scene shifts. What once looked like a woman simply enjoying a beer now reads as her taking her turn in a drinking game, watched by two men. It is a small change, a single figure, but it restores what the painter meant people to see, and gives back a bit of missing mischief to 350-year-old art.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-geological-evidence-role-agulhas-leakage.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/these-mice-live-on-volcano-summits-at-extreme-elevations-study-finds-how/",
+          "tier": 2
+        },
+        {
+          "name": "Ars Technica Sci",
+          "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/from-radar-blobs-to-bird-species-ai-helps-transform-migration-tracking/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        6.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "d3d620ea47bc08ec03d3",
+      "cluster": "animals",
+      "headline": "Water voles return to Surrey's Hogsmill River",
+      "tease": "Tiny droppings reveal a quiet comeback for one of Britain's most endangered mammals.",
+      "summary": "Water voles are back on Surrey's Hogsmill River, and a year on, they're thriving. Conservation groups South East Rivers Trust and Citizen Zoo released 42 water voles into the chalk stream last July, ending a local absence of more than 20 years. Surveys now find burrows, droppings and camera-trap footage showing voles have spread both upstream and downstream of the release site. Their return has been helped by a parallel effort to remove non-native mink, which prey heavily on water voles, from the area. Conservationists say the voles' presence is also a sign the river itself is healthier, with better vegetation and more natural banks.",
+      "deeper": "The best proof that water voles are doing well, it turns out, is finding their droppings \u2014 specifically, squashed ones. Water voles have scent glands on their feet and press their tiny, Tic Tac-shaped droppings down to mark territory, so a flattened dropping outside a burrow means an active, established population. Urban rewilding officer Pia Trevelyan-Ashby has been searching riverbanks for exactly this since 42 voles were released into the Hogsmill last summer, and she's finding more burrows every visit.\n\nWater voles vanished from the area more than 20 years ago, hit by habitat loss and mink, a predator introduced from fur farms that can kill roughly one small animal a day. So alongside reintroducing the voles, teams have been working to clear mink from the river, giving the voles a real chance to survive their first winter, when populations typically fall sharply.\n\nThe voles matter beyond themselves. They keep waterside vegetation trimmed and sit near the bottom of the food chain, feeding other wildlife. Their return signals a river with better bankside habitat \u2014 a small, patient sign that the Hogsmill is recovering.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/07/sri-lanka-prepares-for-impending-el-nino-with-traditional-and-new-approaches/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/in-a-first-astronomers-may-have-spotted-a-supermassive-black-hole-that-wandered-to-the-edge-of-its-galaxy-180989233/",
+          "tier": 2
+        },
+        {
+          "name": "Optimist Daily",
+          "url": "https://www.optimistdaily.com/2026/08/the-robots-kids-build-to-preserve-native-american-languages/",
+          "tier": 3
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/environment/2026/aug/07/we-expected-it-but-now-its-here-on-the-frontline-of-australias-bird-flu-outbreak-people-are-distressed",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
