@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-22",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "44472a450dee89a2168a",
+      "cluster": "discovery",
+      "headline": "ESA's HydroGNSS satellites begin full science operations",
+      "tease": "Free new satellite data promises fresh insight into Earth's shifting water cycle.",
+      "summary": "Two small satellites built to watch Earth's water are now fully up and running, and their data is free for anyone to use. The HydroGNSS mission tracks navigation signals like GPS and Galileo after they bounce off the planet's surface, using the reflections to sense soil moisture, flooding, wetlands, freeze-thaw cycles, and plant growth. Since launching in November 2025, the team spent eight months testing and calibrating the system. It's ESA's first \"Scout\" mission, built quickly and cheaply by Surrey Satellite Technology, and it shows that low-cost satellites can still deliver useful science on how climate change is reshaping the water cycle.",
+      "deeper": "Here's the clever part: HydroGNSS doesn't send out its own signals. It just listens. Navigation satellites like GPS and Galileo are already broadcasting constantly, and their signals bounce off oceans, soil, ice and forests below. By comparing the reflected signal to the direct one, HydroGNSS can tell what it hit and how wet it was.\n\nThat trick turns out to have a real advantage. Radar satellites like Sentinel-1 struggle to see water hidden under thick forest canopy. HydroGNSS can spot it anyway, using a different kind of signal analysis. That matters because hidden wetlands play a real role in storing carbon, and scientists have had trouble mapping them properly.\n\nThe mission was built fast and cheap, as a proof-of-concept for how ESA does future missions. One nice detail: about half the signals HydroGNSS reflects and studies come from Galileo satellites, which were also built by the same UK company, SSTL. As project manager Peter Garner put it, the signals are \"coming home.\" The data is now open to any researcher who wants it.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "e9a15d377e2f89b691eb",
+      "cluster": "progress",
+      "headline": "Doe Run to pay $150m over childhood lead poisoning in Peru",
+      "tease": "After a two-decade fight, poisoned families near a Peruvian smelter finally win justice.",
+      "summary": "More than 1,300 people in La Oroya, Peru, who were poisoned by lead as children will share a $150m settlement from the Doe Run Company, the US firm that ran a smelter in their town. The payout, at least $100,000 per person, ends a 19-year legal fight led partly by Cardinal Pedro Barreto, who faced death threats for speaking out. It's one of the longest-running cases of a company being held accountable in a US court for harm caused abroad. The money won't undo the neurological damage many suffered, but it stands as recognition that the harm was real and that justice, however delayed, was possible.",
+      "deeper": "For years, La Oroya was known as one of the most polluted places on Earth. Nearly every young child tested there had dangerously high lead levels in their blood, absorbed from a nearby smelter's emissions. Cardinal Pedro Barreto, then a local archbishop, began speaking out in 2004 and was threatened for it, often by people worried about losing their jobs at the plant. He kept going anyway, eventually connecting affected families with lawyers in St Louis, where the company was based. What started as a case for 17 children in 2007 grew into a lawsuit representing over 1,300 people, now grown up. The legal team fought off attempts to move the case to Peru, where they believed it would have gone nowhere. The company admitted no wrongdoing, but agreed to pay. Barreto is careful to note that no amount of money restores what was lost \u2014 some of these children suffered lasting harm to their brains and growth. But the case shows that a company can be made to answer, in court, for damage done far from home.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2580566-will-a-new-kind-of-ai-that-understands-physical-reality-change-the-world-again/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/06/gambling-inducements-labor-coalition-greens-betting-companies",
+          "tier": 2
+        },
+        {
+          "name": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/towns-beloved-santa-claus-delivers-a-very-special-present-to-someone-in-need-his-donated-kidney/",
+          "tier": 3
+        }
+      ],
+      "scores": [
+        7.0,
+        8.0,
+        8.5,
+        7.0,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "415920cee74a4ba67947",
+      "cluster": "animals",
+      "headline": "First white storks released into wild in Cornwall",
+      "tease": "Twenty-one storks take flight over Bodmin Moor after a long reintroduction effort.",
+      "summary": "Twenty-one white storks took flight over Bodmin Moor this week, the first to be released into the wild in Cornwall. Most had hatched there this year at the Cornwall Stork Project, based at Hamatethy farm, an organic farm that also runs rewilding schemes. The birds will spend a couple of months getting used to freedom before migrating south for winter, perhaps to Spain or Morocco. Because storks have a strong homing instinct, the project raised them in breeding aviaries on the moor so they will hopefully return there in a few years to nest and raise chicks of their own.",
+      "deeper": "Founder Yan Swiderski, a former fund manager turned farmer, had tears in his eyes watching the storks step out of their aviary and into the sky. He said storks can't simply be released anywhere, since they try to return to wherever they were born. So the project bred and raised chicks on Bodmin Moor itself, hoping the birds' homing instinct will one day bring them back to nest there.\n\nThe project follows a similar effort at Knepp estate in Sussex, running since 2016, and the Cornish birds may even migrate south alongside the Knepp storks. Natural England, while not opposing the releases, points out storks were never native breeding birds in England and says such projects aren't a priority for it.\n\nSwiderski sees the storks' value differently. He believes their real purpose is drawing people into caring about nature more broadly \u2014 healthy soil, organic farming, wetlands, and the insects and small mammals that depend on them. Watching one glide low over the trees, he admitted, \"I don't think I'll get tired of the sight of them.\"",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "url": "https://theconversation.com/was-this-heatwave-caused-by-climate-change-were-asking-the-wrong-question-288637",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/us-news/2026/aug/04/protesters-occupy-tree-us-mexico-border",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
+          "tier": 2
+        },
+        {
+          "name": "Positive News",
+          "url": "https://www.positive.news/society/good-news-stories-from-week-32-of-2026/",
+          "tier": 3
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
