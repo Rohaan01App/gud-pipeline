@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-24",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "a8c9102b755845723db9",
+      "cluster": "discovery",
+      "headline": "Silver nanocatalysts found to switch reaction sites with cell mode",
+      "tease": "A hidden switch in silver catalysts could make clean power and hydrogen more efficient.",
+      "summary": "Researchers in South Korea have found that a single silver catalyst used in clean-energy cells can shift where it does its work depending on the job at hand. When the cell is generating electricity, the key chemistry happens at the boundary where silver particles meet the electrode. When the cell is producing hydrogen, the action moves to the surface of the silver particles themselves. The team, led by scientists at Seoul National University with partners at KAIST and the Korea Basic Science Institute, built a precisely ordered model electrode to see this clearly. The insight offers a new way to design better solid oxide cells for electricity and hydrogen production.",
+      "deeper": "Solid oxide cells are versatile: run one way, they make electricity; run the other way, they split water into hydrogen. Silver added to these cells makes them work better, but nobody knew exactly where or how the silver was helping.\n\nTo find out, the researchers built a tidy, evenly spaced arrangement of silver particles on an electrode, rather than using the messy, tangled structures found in real devices. That let them watch closely where the chemistry actually happened.\n\nThe surprise: it depends on the direction the cell is running. Making electricity, the silver does its work at the edge where it touches the electrode. Making hydrogen, the silver does its work across its own surface. Using detailed imaging and calculations, the team showed the silver changes the electrode's surface behavior in each mode, favoring different chemical steps.\n\nThis matters because it means catalysts aren't just simple helpers bolted onto a device. Their role shifts with how the device is used. That opens a design strategy: engineer the catalyst's surface and its contact with the electrode separately, rather than as one fixed feature. Done well, it could make electricity generation and green hydrogen production more efficient, and support devices that do both jobs in one system.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02334-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10977-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "31d398a29c678120b283",
+      "cluster": "progress",
+      "headline": "Sri Lankan farmers revive heirloom rice for health and resilience",
+      "tease": "Traditional rice varieties are helping Sri Lankan farmers manage disease and preserve indigenous knowledge.",
+      "summary": "In Sri Lanka, farmers and scientists are working to bring heirloom rice varieties back from the edge. Fewer than 30 of the roughly 2,500 traditional cultivars remain in wide use, but around 2,500 have been preserved as seed at the Plant Genetic Resources Centre, and farmers like Karu Herath still grow them the old way, rotating rice with millet and mung bean by season. Researchers have found many of these varieties carry anti-diabetic and anti-inflammatory properties, useful for managing chronic disease. Their revival keeps both genetic diversity and older, low-input farming knowledge alive for future seasons.",
+      "deeper": "For centuries, Sri Lankan farmers grew rice suited to their own soil, water and diet, not to export markets. That changed with the mid-20th century Green Revolution, when new high-yield varieties replaced most heirloom types to feed a growing population. Today fewer than 30 of an estimated 2,500 traditional varieties are still commonly grown.\n\nWhat's interesting is why some farmers and scientists want them back. It's not nostalgia. Studies suggest many heirloom rice types have a low glycemic index and properties that help manage diabetes and inflammation, earning them an old reputation as \"medicinal rice.\" Farmers like Karu Herath still grow them only in the wet season, resting the soil the rest of the year with millet and mung beans instead, a rotation that uses less water.\n\nScientists have now conserved about 2,500 heirloom varieties as seed, so the genetic diversity isn't lost even as farming modernizes further. Researchers are also issuing seasonal guidance to help farmers handle pests and unpredictable weather. None of this replaces high-yield rice, which still feeds most of the country. But it keeps an older, resilient option on the table, seed by seed, for whoever needs it next.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02388-6",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10953-2",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        8.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "05ae086a18b5b707c7f3",
+      "cluster": "animals",
+      "headline": "Osprey chicks hatch at Cumbria nature reserve for first time",
+      "tease": "A carefully placed nesting platform finally attracted breeding ospreys to Solway Firth.",
+      "summary": "Three osprey chicks have hatched at Campfield Marsh in Cumbria, the first time the birds have bred successfully at this RSPB reserve. The parents, both believed to be first-time breeders, were drawn in by a nesting platform built to attract the birds. Staff watched anxiously through the incubation period and were relieved when the eggs hatched in June. The chicks, named Ash, Bowness Bobbi and Beau by a local school, have been ringed so their movements can be tracked. It matters because ospreys were wiped out as a UK breeding bird in the early 1900s and have only slowly been returning since the 1950s.",
+      "deeper": "Ospreys almost vanished from Britain, hunted to extinction as a breeding bird by the early 1900s. They came back to Scotland in the 1950s and have been spreading to new areas ever since, one nesting site at a time. Campfield Marsh, a wetland reserve on the Solway Firth, built a platform hoping to tempt a pair in. It worked. A male osprey, ringed in Dumfries a few years ago, paired with an unringed female, and this year they raised three chicks together.\n\nSite manager Mhairi Maclauchlan said the team held their breath through the whole incubation period, then felt huge relief when the eggs finally hatched. She describes ospreys as gentler than you'd expect for birds with such sharp talons, and says they can be oddly funny too, fussing over tidying their nests.\n\nThe chicks, named Ash, Bowness Bobbi and Beau by children at a local school, have been ringed so scientists can follow where they go. They'll spend the summer learning to fish before migrating to Africa in autumn. Since ospreys tend to return to the same site and partner, this pair may well be back next year.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042824.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01845-6",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-triggered-evacuations-guatemala.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10884-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        6.0,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
