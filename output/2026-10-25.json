@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-25",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "67fff5c8e0af06100f90",
+      "cluster": "discovery",
+      "headline": "AI agents uncover decades-old errors in scientific papers",
+      "tease": "Automated tools are quietly correcting mistakes buried in the scientific record for decades.",
+      "summary": "AI agents are now sifting through the scientific literature and catching errors that have sat unnoticed for decades. According to a Nature report, the technology is proving good at this kind of close checking work, finding faults in old papers and in reference databases that scientists rely on. Humans built these archives over many years, and small mistakes can hide in them for a long time simply because no one has the time to re-check everything. Having AI agents comb through this backlog means old errors are being caught and, presumably, corrected, making the shared record of science a little more trustworthy.",
+      "deeper": "Science depends on a huge pile of past papers and reference databases that researchers cite and build on. Nobody has time to re-read all of it looking for mistakes, so small errors can sit there for decades, quietly getting passed along in citations and follow-up work.\n\nWhat's new here is that AI agents are being set loose on this old material, checking it the way a very patient, very thorough colleague might. According to Nature's reporting, they're proving good at this kind of work \u2014 spotting faults in old papers and in the databases scientists use as reference points.\n\nIt's a fairly modest-sounding job, but it matters: getting the record straight means the next study built on top of that old paper starts from firmer ground. The source doesn't say how the errors are being fixed once found, or how widely this checking is being used yet \u2014 but the basic finding is encouraging. Some of the tedious housekeeping of science, the kind humans rarely get around to, can now get done.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02083-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02386-8",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02235-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "1ca157de398c712d8fa5",
+      "cluster": "progress",
+      "headline": "Museum restores censored figure in Pieter de Hooch painting",
+      "tease": "Conservators uncover a hidden soldier erased from a 17th-century Dutch drinking scene.",
+      "summary": "A Dutch museum has painted a missing man back into a 17th-century painting. In Pieter de Hooch's A Man Smoking and a Woman Drinking in a Courtyard, someone long ago painted over a soldier who once sat at the table with two other figures, leaving just a man and a woman. The Mauritshuis museum in the Netherlands used an identical version of the painting, held in Washington, D.C., as a guide to restore the soldier exactly as de Hooch intended. The painting has been renamed Figures in a Courtyard, and now shows its original, livelier scene of a 17th-century drinking game.",
+      "deeper": "For centuries, this painting looked like a quiet moment between a man and a woman sharing a drink. But that wasn't the whole picture. Someone, long before 1833, painted over a third figure, a soldier, erasing him from the table entirely. Nobody knows exactly why. It might have been a wish to make the painting seem more valuable and unique, or perhaps just a wish to make the scene look more proper.\n\nThe fix relied on a stroke of luck: de Hooch had painted a nearly identical version of the same scene, kept in a museum in Washington, D.C., where the soldier was never removed. Conservators in the Netherlands used that painting as a map to guide the soldier's return.\n\nWith him back, the meaning of the scene shifts. What once looked like a woman simply enjoying a beer now reads as her taking her turn in a drinking game, watched by two men. It is a small change, a single figure, but it restores what the painter meant people to see, and gives back a bit of missing mischief to 350-year-old art.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-geological-evidence-role-agulhas-leakage.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/these-mice-live-on-volcano-summits-at-extreme-elevations-study-finds-how/",
+          "tier": 2
+        },
+        {
+          "name": "Ars Technica Sci",
+          "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/from-radar-blobs-to-bird-species-ai-helps-transform-migration-tracking/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        6.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "b363176d1a5aa110862d",
+      "cluster": "animals",
+      "headline": "Georgia Beaches Record Highest Loggerhead Turtle Nest Count in 37 Years",
+      "tease": "Decades of conservation work are paying off for threatened loggerhead sea turtles.",
+      "summary": "Loggerhead sea turtles nesting on Georgia's beaches have just set a new record: more than 4,110 nests this year, the most since counting began in 1989. Georgia's Department of Natural Resources calls it a slow but steady rebound for a species listed as threatened since 1978. Daily patrols by volunteers, researchers, and staff who mark and protect nests, along with 'turtle excluder' devices that keep the animals out of shrimp trawler nets since 1990, have helped nest counts grow about 4% a year since the early 1990s. The count has nearly doubled the original recovery goal for the species.",
+      "deeper": "Loggerheads are slow, patient animals, so any comeback takes decades to show up. Females don't lay their first eggs until they're 30 to 35 years old, so this year's record nests reflect protections put in place a generation ago. Each summer night, females haul themselves onto Georgia's barrier island beaches to bury about 100 eggs in the sand, then head back to sea. Volunteers and researchers with the Georgia Sea Turtle Cooperative walk those beaches at dawn every day, finding and protecting the nests. Shrimp boats now use devices that let turtles escape their nets, cutting down a major cause of death. The population still swings year to year, from a record low of 358 nests in 2004 to over 4,110 now. Officials expect numbers to level off for a while. But if protections stay in place, biologist Mark Dodd says nesting could eventually climb back to levels not seen in Georgia since the 1950s. It's a reminder that patient, unglamorous work, done daily for decades, can slowly turn a species' fortunes around.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-study-finds-it-where-you.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10830-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
