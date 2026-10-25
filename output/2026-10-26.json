@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-26",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "96307e6f3cc77e84db49",
+      "cluster": "discovery",
+      "headline": "Researchers generate quantum entanglement using ordinary sunlight",
+      "tease": "A simpler, lower-energy path to quantum technology may start with sunlight.",
+      "summary": "Researchers have shown that ordinary sunlight can create quantum entanglement, a task long thought to require lasers. A team from the University of Ottawa and the Max Planck Institute for the Science of Light built a solar concentrator to focus sunlight onto a tiny crystal, splitting photons into entangled pairs. Tests showed the entanglement was about 94% as strong as a perfect quantum state. Because quantum entanglement underpins secure communication and advanced computing, this opens the door to quantum technologies that don't depend on power-hungry lasers, including satellites that could generate secure encryption keys straight from sunlight already available in space.",
+      "deeper": "Quantum technology usually needs light that behaves in a very orderly way, which is why scientists have relied on lasers. Sunlight is the opposite of orderly: it scatters in every direction and comes in a jumble of colors. So most researchers assumed it simply wouldn't work for creating entangled photons, pairs of particles linked so that measuring one affects the other.\n\nA team including recent graduate Cheng Li set out to test that assumption anyway, building on earlier work showing that even light from an LED could produce entanglement. The trick was designing the setup so that only one property of the light, its polarization, mattered, letting them ignore all the sunlight's chaos in color and direction. A cone-shaped glass device built by collaborators in Germany funneled sunlight, collected through a lens the size of a window, down into a fiber as thin as a hair, aimed at a crystal smaller than a grain of rice.\n\nThe experiment worked, despite what Li described as repeated skepticism from other scientists. The result suggests future quantum devices, even ones in orbit, might run on sunlight instead of energy-hungry lasers, making the technology cheaper and easier to scale.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02388-6",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10953-2",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "e9a15d377e2f89b691eb",
+      "cluster": "progress",
+      "headline": "Doe Run to pay $150m over childhood lead poisoning in Peru",
+      "tease": "After a two-decade fight, poisoned families near a Peruvian smelter finally win justice.",
+      "summary": "More than 1,300 people in La Oroya, Peru, who were poisoned by lead as children will share a $150m settlement from the Doe Run Company, the US firm that ran a smelter in their town. The payout, at least $100,000 per person, ends a 19-year legal fight led partly by Cardinal Pedro Barreto, who faced death threats for speaking out. It's one of the longest-running cases of a company being held accountable in a US court for harm caused abroad. The money won't undo the neurological damage many suffered, but it stands as recognition that the harm was real and that justice, however delayed, was possible.",
+      "deeper": "For years, La Oroya was known as one of the most polluted places on Earth. Nearly every young child tested there had dangerously high lead levels in their blood, absorbed from a nearby smelter's emissions. Cardinal Pedro Barreto, then a local archbishop, began speaking out in 2004 and was threatened for it, often by people worried about losing their jobs at the plant. He kept going anyway, eventually connecting affected families with lawyers in St Louis, where the company was based. What started as a case for 17 children in 2007 grew into a lawsuit representing over 1,300 people, now grown up. The legal team fought off attempts to move the case to Peru, where they believed it would have gone nowhere. The company admitted no wrongdoing, but agreed to pay. Barreto is careful to note that no amount of money restores what was lost \u2014 some of these children suffered lasting harm to their brains and growth. But the case shows that a company can be made to answer, in court, for damage done far from home.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2580566-will-a-new-kind-of-ai-that-understands-physical-reality-change-the-world-again/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/06/gambling-inducements-labor-coalition-greens-betting-companies",
+          "tier": 2
+        },
+        {
+          "name": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/towns-beloved-santa-claus-delivers-a-very-special-present-to-someone-in-need-his-donated-kidney/",
+          "tier": 3
+        }
+      ],
+      "scores": [
+        7.0,
+        8.0,
+        8.5,
+        7.0,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "4aa300f0d98c3cf09085",
+      "cluster": "animals",
+      "headline": "Palawan villagers organize to protect sea turtle nests",
+      "tease": "Local communities are teaming with researchers to give olive ridley hatchlings a fighting chance.",
+      "summary": "On a beach in Palawan, Philippines, villagers walk the sand every night to protect sea turtle nests. Working with the research group LAMAVE, patrollers guard nesting olive ridley turtles from dogs, photograph them for identification, then carefully move their eggs to safe hatcheries. Left alone, most nests would be lost to stray dogs or flooding tides. In the hatcheries, about three in four eggs hatch successfully. Some patrollers, like Jerald Mahusay, once played with turtle eggs as children and now lead the very patrols that protect them \u2014 a shift in one generation from harm to care.",
+      "deeper": "The idea here is simple: a beach that used to lose almost every turtle nest now saves most of them, because people decided to watch over it. Volunteers in Santo Ni\u00f1o walk more than eight kilometers of shoreline at night, shift after shift, looking for nesting turtles. When they find one, they shield her from roaming dogs, take her photo so they can recognize her later, and once she's finished, they gently move her eggs to a guarded hatchery in the sand.\n\nIt isn't a perfect fix \u2014 hatchery success rates run a bit below what undisturbed natural nests would achieve, and everyone involved knows it's a stopgap. Project leader Kalei Suza put it simply: they'd rather the turtles nest safely on their own, because \"mama knows best.\" The long-term hope is for the community to manage the threats \u2014 mainly dogs and development \u2014 well enough that turtles won't need rescuing at all. For now, though, people who grew up near this beach, some who once treated turtle eggs as toys, are the ones keeping the hatchlings alive.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02289-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        8.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
