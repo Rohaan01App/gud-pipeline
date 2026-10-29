@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-30",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "2e958fef19f0a72ff475",
+      "cluster": "discovery",
+      "headline": "Levitating sensor may detect faint brain magnetic fields",
+      "tease": "A simple new device could rival complex tech for reading the brain's faintest signals.",
+      "summary": "Researchers have built a levitating sensor that can pick up extremely faint magnetic fields, including the kind produced by brain activity. The device works by suspending a small object so it responds to tiny magnetic changes around it, a much simpler setup than the complex equipment biophysics labs usually rely on. Despite its simplicity, early signs suggest it could match or rival those more elaborate systems. Beyond studying the brain, the same sensitivity could make it useful for other faint-signal searches, including efforts to detect dark matter. It's a reminder that better tools for reading the body's subtle signals don't always need to be more complicated.",
+      "deeper": "The idea here is neat: instead of building an ever more intricate machine to catch faint magnetic signals, researchers made something simpler that levitates. When an object floats freely, tiny forces acting on it \u2014 even ones as small as the magnetic field from firing neurons \u2014 can nudge it in ways that are easier to measure precisely.\n\nThat matters because brain activity produces magnetic fields so weak they're normally hard to detect without heavy, specialized equipment. A sensor with a simple design that can still keep up with the fancier alternatives could make this kind of measurement more accessible to more labs.\n\nWhat's especially interesting is the sensor's reach beyond biology. The same sensitivity that lets it sense a whisper of brain activity could also help physicists hunt for dark matter, the mysterious substance that makes up most of the universe's matter but has never been directly observed. One simple device, two very different frontiers \u2014 the inner workings of the brain and the outer edges of physics \u2014 showing how a clever bit of engineering can open doors nobody quite expected.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01360-8",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10963-0",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02458-9",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        6.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "75e3db5f9a9943da0e3d",
+      "cluster": "progress",
+      "headline": "Funders adopt lotteries to allocate tied grant proposals",
+      "tease": "When experts can't rank the best ideas, some funders let chance decide fairly.",
+      "summary": "A growing number of research funders are letting a lottery decide between grant proposals that reviewers rate equally strong. Rather than forcing panels to invent fine distinctions between applications that are genuinely tied, funders draw the winner at random once the shortlist is set. The approach works because it matches the honesty of the review process: reviewers often can't reliably rank top proposals against each other, so pretending otherwise adds noise, not fairness. Randomizing the final call saves reviewer time, removes pressure to justify arbitrary rankings, and gives equally deserving projects the same shot at funding.",
+      "deeper": "Grant panels have long faced an odd problem: when several proposals are all excellent, reviewers are asked to rank them anyway, even though the differences at that level are often too small to judge reliably. Some funders have started to admit this openly. Once a panel narrows the field to the strongest, tied applications, they let a lottery pick the winner instead of squeezing out a forced ranking.\n\nThe logic is simple. If reviewers genuinely can't tell which of the top proposals is best, insisting on a ranked order doesn't produce more fairness, it just hides the guesswork behind false precision. A random draw is honest about that uncertainty instead of papering over it.\n\nThis shift matters because it changes what expertise is being asked to do. Reviewers still do the hard work of identifying which proposals are strong enough to deserve funding. The lottery only steps in at the point where merit alone can't distinguish between them. It's a small procedural change, but it reflects a broader rethink of how science funding decisions should be made when certainty runs out.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01850-9",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02360-4",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        7.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "acf5c2bda722a98db6a1",
+      "cluster": "animals",
+      "headline": "White-Tailed Sea Eagle Chick Fledges at Irish Wildlife Park",
+      "tease": "A century after vanishing from Ireland, this majestic raptor's comeback gains a new chick.",
+      "summary": "A white-tailed sea eagle chick has fledged at Fota Wildlife Park in County Cork, the park's first in more than a decade. The eaglet hatched in April to parents \u00c1ine and Tony, who staff say have taken well to raising Europe's largest eagle. The bird was once wiped out across Ireland by human persecution, absent for more than a century. Since 2007, Ireland's National Parks and Wildlife Service and partners have released over 200 sea eagles nationwide, and the population is now considered self-sustaining. This new chick may one day join a European breeding programme, extending its impact beyond Cork.",
+      "deeper": "White-tailed sea eagles used to be a common sight along Ireland's coast, until people hunted them out entirely. For more than a hundred years, the country had none. Then, starting in 2007, wildlife groups began releasing eagles brought over with help from Norwegian researchers, working alongside farmers and local communities who agreed to give the birds a chance. More than 200 eagles later, the population can now sustain itself without more releases.\n\nThis spring's chick, born to parents \u00c1ine and Tony at Fota Wildlife Park, is a small but telling piece of that story. Staff say the pair have handled parenthood well, no small feat given that eaglets need close to a pound of food a day and the adults' wingspans can top eight feet. The park has now bred six such chicks since 1991.\n\nStaff hope this youngster might eventually join a Europe-wide breeding program for endangered birds. It's a reminder that a species people once erased from a place can come back \u2014 not by accident, but because enough people decided it mattered and kept at it for decades.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-unprecedented-biomass-loss-europe-forests.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10899-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        7.5,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
