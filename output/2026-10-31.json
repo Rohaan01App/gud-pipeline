@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-31",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "96307e6f3cc77e84db49",
+      "cluster": "discovery",
+      "headline": "Researchers generate quantum entanglement using ordinary sunlight",
+      "tease": "A simpler, lower-energy path to quantum technology may start with sunlight.",
+      "summary": "Researchers have shown that ordinary sunlight can create quantum entanglement, a task long thought to require lasers. A team from the University of Ottawa and the Max Planck Institute for the Science of Light built a solar concentrator to focus sunlight onto a tiny crystal, splitting photons into entangled pairs. Tests showed the entanglement was about 94% as strong as a perfect quantum state. Because quantum entanglement underpins secure communication and advanced computing, this opens the door to quantum technologies that don't depend on power-hungry lasers, including satellites that could generate secure encryption keys straight from sunlight already available in space.",
+      "deeper": "Quantum technology usually needs light that behaves in a very orderly way, which is why scientists have relied on lasers. Sunlight is the opposite of orderly: it scatters in every direction and comes in a jumble of colors. So most researchers assumed it simply wouldn't work for creating entangled photons, pairs of particles linked so that measuring one affects the other.\n\nA team including recent graduate Cheng Li set out to test that assumption anyway, building on earlier work showing that even light from an LED could produce entanglement. The trick was designing the setup so that only one property of the light, its polarization, mattered, letting them ignore all the sunlight's chaos in color and direction. A cone-shaped glass device built by collaborators in Germany funneled sunlight, collected through a lens the size of a window, down into a fiber as thin as a hair, aimed at a crystal smaller than a grain of rice.\n\nThe experiment worked, despite what Li described as repeated skepticism from other scientists. The result suggests future quantum devices, even ones in orbit, might run on sunlight instead of energy-hungry lasers, making the technology cheaper and easier to scale.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02388-6",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10953-2",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "a5f997f50d65a89e8d1c",
+      "cluster": "progress",
+      "headline": "Malaysia bans all electronic waste imports",
+      "tease": "Malaysia closes its borders to toxic e-waste, targeting illegal recycling and smuggling networks.",
+      "summary": "Malaysia has banned all imports of electronic waste, closing off a major route for the world's hazardous electronic scrap. The rule, in force since April 2026, targets illegal recycling yards that used falsified paperwork to smuggle e-waste past customs. A joint task force called Op Green Shield has already inspected hundreds of containers and sent thousands of tons of waste back to its country of origin. Legal recyclers say the ban helps them too, since illegal operators had been undercutting them by cherry-picking valuable scrap from imported loads. The move gives Malaysia room to focus on handling its own waste responsibly.",
+      "deeper": "For years, shipping containers labeled as ordinary raw materials arrived in Malaysia packed with old electronics instead. Illegal yards would strip them down, often by burning off the plastic to get at valuable metals inside \u2014 a process that releases mercury, cadmium and lead into the air. People living near Port Klang described the smell as bad enough to make breathing difficult.\n\nMalaysia's new law simply says no more: no e-waste imports, period. A task force called Op Green Shield is now checking containers and sending illegal shipments back where they came from. It's not easy work \u2014 the port handles millions of containers a year, and smugglers are practiced at faking paperwork.\n\nOne complication: the United States, a major source of e-waste, hasn't signed the international treaty meant to govern this kind of trade, so it faces no obligation to stop the flow at its end. That leaves Malaysia doing the enforcement alone.\n\nStill, local recyclers see a real upside. One recycling founder said the ban lets legal businesses compete fairly and lets the country focus on cleaning up its own waste instead of absorbing everyone else's.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-nature-isnt-size.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/malaysia-implements-total-e-waste-import-ban-to-curb-toxic-trade/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582815-at-what-point-does-my-family-tree-stop-doubling-and-start-decreasing/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/how-social-media-and-parrotfish-poop-are-protecting-the-maldives/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.5,
+        7.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "4aa300f0d98c3cf09085",
+      "cluster": "animals",
+      "headline": "Palawan villagers organize to protect sea turtle nests",
+      "tease": "Local communities are teaming with researchers to give olive ridley hatchlings a fighting chance.",
+      "summary": "On a beach in Palawan, Philippines, villagers walk the sand every night to protect sea turtle nests. Working with the research group LAMAVE, patrollers guard nesting olive ridley turtles from dogs, photograph them for identification, then carefully move their eggs to safe hatcheries. Left alone, most nests would be lost to stray dogs or flooding tides. In the hatcheries, about three in four eggs hatch successfully. Some patrollers, like Jerald Mahusay, once played with turtle eggs as children and now lead the very patrols that protect them \u2014 a shift in one generation from harm to care.",
+      "deeper": "The idea here is simple: a beach that used to lose almost every turtle nest now saves most of them, because people decided to watch over it. Volunteers in Santo Ni\u00f1o walk more than eight kilometers of shoreline at night, shift after shift, looking for nesting turtles. When they find one, they shield her from roaming dogs, take her photo so they can recognize her later, and once she's finished, they gently move her eggs to a guarded hatchery in the sand.\n\nIt isn't a perfect fix \u2014 hatchery success rates run a bit below what undisturbed natural nests would achieve, and everyone involved knows it's a stopgap. Project leader Kalei Suza put it simply: they'd rather the turtles nest safely on their own, because \"mama knows best.\" The long-term hope is for the community to manage the threats \u2014 mainly dogs and development \u2014 well enough that turtles won't need rescuing at all. For now, though, people who grew up near this beach, some who once treated turtle eggs as toys, are the ones keeping the hatchlings alive.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02289-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        8.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
