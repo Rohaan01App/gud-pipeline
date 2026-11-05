@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-06",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "6a1daf4deff1851d35e4",
+      "cluster": "discovery",
+      "headline": "Blocking a brain transporter eases autism traits in mice",
+      "tease": "Early research suggests the adult brain may still be treatable for autism-linked behaviors.",
+      "summary": "Scientists have found a way to ease autism traits in adult mice by blocking a single brain transporter. The team, led by Eunjoon Kim at the Institute for Basic Science, targeted a protein called Slc6a20a, which sits mainly in brain regions tied to thinking and memory. Blocking it restored the normal work of NMDA receptors, which brain cells rely on to communicate. In mice with autism-linked gene mutations, this improved social behavior and reduced repetitive actions \u2014 even though the mice were already fully grown. The same approach worked in human brain tissue grown from stem cells, and one treatment lasted at least eight weeks with no side effects seen.",
+      "deeper": "Autism has been linked to weak signaling between brain cells, specifically through a receptor that needs two ingredients to switch on fully. Earlier attempts to boost one of those ingredients ran into trouble, because the transporter they blocked was also active in brain areas that control breathing, causing unwanted side effects. This team picked a better-hidden target instead \u2014 a transporter found mostly in the thinking and memory parts of the brain, not the ones that keep you alive. Blocking it with a short genetic treatment restored normal signaling in mice bred with autism-related mutations, easing their social and repetitive-behavior difficulties. What stands out is that this worked in adult mice, not just young ones, hinting the brain may stay open to this kind of fix later than expected. The team also tested it in miniature human brain tissue grown from stem cells, with similar results. It's early work, done in mice and lab-grown tissue rather than people, but the researchers think the same idea could eventually help with related conditions like schizophrenia, since they share the same underlying signaling problem.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02419-2",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10958-x",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10970-1",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "a5f997f50d65a89e8d1c",
+      "cluster": "progress",
+      "headline": "Malaysia bans all electronic waste imports",
+      "tease": "Malaysia closes its borders to toxic e-waste, targeting illegal recycling and smuggling networks.",
+      "summary": "Malaysia has banned all imports of electronic waste, closing off a major route for the world's hazardous electronic scrap. The rule, in force since April 2026, targets illegal recycling yards that used falsified paperwork to smuggle e-waste past customs. A joint task force called Op Green Shield has already inspected hundreds of containers and sent thousands of tons of waste back to its country of origin. Legal recyclers say the ban helps them too, since illegal operators had been undercutting them by cherry-picking valuable scrap from imported loads. The move gives Malaysia room to focus on handling its own waste responsibly.",
+      "deeper": "For years, shipping containers labeled as ordinary raw materials arrived in Malaysia packed with old electronics instead. Illegal yards would strip them down, often by burning off the plastic to get at valuable metals inside \u2014 a process that releases mercury, cadmium and lead into the air. People living near Port Klang described the smell as bad enough to make breathing difficult.\n\nMalaysia's new law simply says no more: no e-waste imports, period. A task force called Op Green Shield is now checking containers and sending illegal shipments back where they came from. It's not easy work \u2014 the port handles millions of containers a year, and smugglers are practiced at faking paperwork.\n\nOne complication: the United States, a major source of e-waste, hasn't signed the international treaty meant to govern this kind of trade, so it faces no obligation to stop the flow at its end. That leaves Malaysia doing the enforcement alone.\n\nStill, local recyclers see a real upside. One recycling founder said the ban lets legal businesses compete fairly and lets the country focus on cleaning up its own waste instead of absorbing everyone else's.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-nature-isnt-size.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/malaysia-implements-total-e-waste-import-ban-to-curb-toxic-trade/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582815-at-what-point-does-my-family-tree-stop-doubling-and-start-decreasing/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/how-social-media-and-parrotfish-poop-are-protecting-the-maldives/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.5,
+        7.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "05ae086a18b5b707c7f3",
+      "cluster": "animals",
+      "headline": "Osprey chicks hatch at Cumbria nature reserve for first time",
+      "tease": "A carefully placed nesting platform finally attracted breeding ospreys to Solway Firth.",
+      "summary": "Three osprey chicks have hatched at Campfield Marsh in Cumbria, the first time the birds have bred successfully at this RSPB reserve. The parents, both believed to be first-time breeders, were drawn in by a nesting platform built to attract the birds. Staff watched anxiously through the incubation period and were relieved when the eggs hatched in June. The chicks, named Ash, Bowness Bobbi and Beau by a local school, have been ringed so their movements can be tracked. It matters because ospreys were wiped out as a UK breeding bird in the early 1900s and have only slowly been returning since the 1950s.",
+      "deeper": "Ospreys almost vanished from Britain, hunted to extinction as a breeding bird by the early 1900s. They came back to Scotland in the 1950s and have been spreading to new areas ever since, one nesting site at a time. Campfield Marsh, a wetland reserve on the Solway Firth, built a platform hoping to tempt a pair in. It worked. A male osprey, ringed in Dumfries a few years ago, paired with an unringed female, and this year they raised three chicks together.\n\nSite manager Mhairi Maclauchlan said the team held their breath through the whole incubation period, then felt huge relief when the eggs finally hatched. She describes ospreys as gentler than you'd expect for birds with such sharp talons, and says they can be oddly funny too, fussing over tidying their nests.\n\nThe chicks, named Ash, Bowness Bobbi and Beau by children at a local school, have been ringed so scientists can follow where they go. They'll spend the summer learning to fish before migrating to Africa in autumn. Since ospreys tend to return to the same site and partner, this pair may well be back next year.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042824.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01845-6",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-triggered-evacuations-guatemala.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10884-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        6.0,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
