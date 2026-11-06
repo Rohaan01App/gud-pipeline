@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-07",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "1a12fd24a73ae4463243",
+      "cluster": "discovery",
+      "headline": "Fruit fly study reveals method to retrieve lost memories",
+      "tease": "Researchers found a way to recover forgotten memories, using fruit flies as an unlikely guide.",
+      "summary": "Scientists working with fruit flies have found that memories which seem forgotten may still be tucked away in the brain, waiting for the right cue. The flies were trained to avoid a smell linked to a mild shock, and a day later they'd stopped avoiding it. But when researchers recreated the exact setting of the original training, the flies remembered and avoided the smell again. Brain scans showed the original memory pattern had faded, but a quiet trace lived on in a different set of neurons, ready to be switched back on by the right reminder.",
+      "deeper": "Here's the interesting part: the memory wasn't gone, it was just quiet. Swiss researchers trained flies to link a smell with a mild shock. The flies avoided the smell at first, then seemed to forget it a day later. But putting them back in a room with the same lighting and texture as their training brought the memory rushing back.\n\nLooking inside the flies' brains, the scientists found the original memory pattern had faded, but a hidden trace remained in other neurons. The right reminder could reactivate it.\n\nThere's a catch, though. The flies could also form false memories: when exposed to a harmless smell they'd never been shocked with, but presented as if it were the \"reminder,\" they started avoiding that one too. Interestingly, the brain used different pathways for genuine recovered memories versus these false ones.\n\nFly brains aren't human brains, and the researchers are careful about that. But the study hints that remembering isn't just about what's stored \u2014 it's about rebuilding it from context, and that process can sometimes go wrong in ways that create memories that never happened.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/documentary-captures-impacts-of-diamond-mining-along-south-africas-west-coast/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582580-the-once-impossible-black-holes-that-could-break-thermodynamics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Science",
+          "url": "https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.5,
+        7.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "c57d650293c8a3079a8c",
+      "cluster": "progress",
+      "headline": "Study finds urban canals cool nearby areas during heatwaves",
+      "tease": "Researchers show how city waterways create natural relief from extreme heat.",
+      "summary": "Canals running through British and Irish cities cool the streets around them, new research shows, with the effect strongest exactly when it's needed most: during heatwaves. Researchers modelled 68 urban canals over a full year and found they lower nearby air temperatures by up to 20\u201350 metres from the banks, cooling by over 2\u00b0C during extreme heat. The canals do warm the air slightly at night, but only by about 0.2\u00b0C. Given that roughly 6.2 million people live within a 15-minute walk of a canal, this quiet cooling effect could matter for the comfort and health of a lot of city dwellers.",
+      "deeper": "Cities are full of canals left over from the Industrial Revolution, but nobody had really checked what they do to the air around them. So a team of researchers built a model tracking how canal water heats and cools through the seasons, and how that plays off the surrounding streets and buildings. The pattern that emerged: water absorbs heat slowly, so on hot days canals stay cooler than the pavement and buildings nearby, and that coolness spreads a short distance into the neighbourhood. The effect is small most of the year but grows sharply during heatwaves, exactly when people need relief. At night the canals give a little warmth back, though far less than they take away during the day. The researchers note this matters because so many people live, work, or simply walk near canals \u2014 hundreds of millions of visits are made to UK canals every year. It's a reminder that ordinary infrastructure built for other reasons, like moving goods two centuries ago, can still be quietly useful now, in a much hotter present.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02397-5",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02428-1",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080923.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10883-z",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "4aa300f0d98c3cf09085",
+      "cluster": "animals",
+      "headline": "Palawan villagers organize to protect sea turtle nests",
+      "tease": "Local communities are teaming with researchers to give olive ridley hatchlings a fighting chance.",
+      "summary": "On a beach in Palawan, Philippines, villagers walk the sand every night to protect sea turtle nests. Working with the research group LAMAVE, patrollers guard nesting olive ridley turtles from dogs, photograph them for identification, then carefully move their eggs to safe hatcheries. Left alone, most nests would be lost to stray dogs or flooding tides. In the hatcheries, about three in four eggs hatch successfully. Some patrollers, like Jerald Mahusay, once played with turtle eggs as children and now lead the very patrols that protect them \u2014 a shift in one generation from harm to care.",
+      "deeper": "The idea here is simple: a beach that used to lose almost every turtle nest now saves most of them, because people decided to watch over it. Volunteers in Santo Ni\u00f1o walk more than eight kilometers of shoreline at night, shift after shift, looking for nesting turtles. When they find one, they shield her from roaming dogs, take her photo so they can recognize her later, and once she's finished, they gently move her eggs to a guarded hatchery in the sand.\n\nIt isn't a perfect fix \u2014 hatchery success rates run a bit below what undisturbed natural nests would achieve, and everyone involved knows it's a stopgap. Project leader Kalei Suza put it simply: they'd rather the turtles nest safely on their own, because \"mama knows best.\" The long-term hope is for the community to manage the threats \u2014 mainly dogs and development \u2014 well enough that turtles won't need rescuing at all. For now, though, people who grew up near this beach, some who once treated turtle eggs as toys, are the ones keeping the hatchlings alive.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02289-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        8.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
