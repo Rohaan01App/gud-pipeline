@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-09",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "b0ef32c96a1c6a507410",
+      "cluster": "discovery",
+      "headline": "Seismic sensors show promise for hurricane intensity forecasts",
+      "tease": "Stanford researchers repurpose earthquake instruments to help predict how hurricanes strengthen.",
+      "summary": "Stanford researchers have found that seismic sensors built to study earthquakes can also pick up key signals about hurricanes. The instruments capture details about storms that help meteorologists understand how they are likely to change and grow stronger. Hurricane intensity has long been hard to predict, so a new source of data is useful. By tapping into networks already in place for earthquake monitoring, scientists gain another way to track storms as they develop, without needing to build new infrastructure from scratch.",
+      "deeper": "Earthquake sensors sit quietly in the ground, listening for tremors. It turns out they pick up more than that. Stanford researchers found these instruments also register signals tied to hurricanes, information that can help forecasters understand how a storm is likely to change as it moves.\n\nPredicting how strong a hurricane will get, not just where it will go, has always been one of the trickier parts of forecasting. This finding offers a new angle: sensor networks already built and maintained for earthquake research turn out to double as storm watchers.\n\nThe appeal is practical. These seismic networks already exist, spread across many locations, quietly recording data all the time. Rather than requiring new equipment, forecasters could potentially draw on information that is already being collected for a different purpose. It's an example of scientists finding unexpected value in existing tools, using data gathered for one kind of disaster to better understand another.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729010705.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-social-vulnerability-evolve-tropical-cyclone.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/amazon-canopy-bridges-enable-15000-wildlife-crossings-without-a-single-roadkill/",
+          "tier": 2
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-earthquake-sensors-hurricanes.html",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        6.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "b94bf45b050693cf4b0f",
+      "cluster": "progress",
+      "headline": "HIV Infections and Deaths Hit 30-Year Lows, UN Reports",
+      "tease": "Seven countries near-eliminated new HIV infections, a UNAIDS report reveals.",
+      "summary": "New HIV infections and AIDS-related deaths have dropped to their lowest levels in more than 30 years, according to a UNAIDS report released for the International AIDS Conference in Rio de Janeiro. Seven countries, including Kenya, Rwanda, and Zimbabwe, cut new infections by nearly 80% since 2010, and 11 countries hit ambitious treatment targets where almost everyone with HIV knows their status, gets treatment, and has the virus under control. New prevention options, including long-acting injections and pills in development, are expanding fast. Brazil alone increased access to prevention medicine by 41% in a year. Funders are now working to reach 3 million people with a twice-yearly injection by 2028.",
+      "deeper": "The most hopeful part of this report isn't just the numbers going down. It's what's driving the change: prevention medicine that works almost like a vaccine. A twice-yearly injection called lenacapavir showed zero infections among 3,200 young women in a recent trial, a result researchers called nearly unthinkable a few years ago. Countries like Brazil, Ethiopia, and Uganda are pushing to get these tools to more people, and South Africa is negotiating prices so the injections become affordable at scale. Global health funders have already started pooling money to reach 3 million people with lenacapavir by 2028. None of this erases the hard truth that HIV still kills people and that access remains uneven. But UNAIDS director Winnie Byanyima framed it plainly: ending AIDS is still within reach, if governments and partners keep pushing. The report's real message is that decades of patient work, on testing, treatment, and now prevention, are compounding into something that finally looks like a turning point.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/07/drifting-tuna-fishing-gear-enter-half-of-marine-protected-areas-study-finds/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/two-peope-died-after-getting-sick-with-cyclosporiasis-marking-the-first-known-deaths-linked-to-the-ongoing-multi-state-outbreak-180989256/",
+          "tier": 2
+        },
+        {
+          "name": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/un-summit-on-hiv-aids-shows-incredible-progress-in-infection-rates-deaths-treatment-access/",
+          "tier": 3
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        8.5,
+        8.0,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "a10c1639de36cfe40e32",
+      "cluster": "animals",
+      "headline": "Amur Tiger Released in Kazakhstan After Decade-Long Rewilding Effort",
+      "tease": "A decade of reforestation and prey restoration brings tigers back to Central Asia.",
+      "summary": "A female Amur tiger named Hope has been released into Kazakhstan's Ile-Balkhash Nature Reserve, the first tiger to roam the country in more than 70 years since the Caspian tiger went extinct. It's the result of a decade-long effort that began with rebuilding the habitat and restoring prey species like deer, antelope, and wild ass before any tigers arrived. Three more tigers, including two cubs, are being gradually acclimated for future release. If successful, Kazakhstan will become the first country to bring back a tiger population to a landscape it had vanished from.",
+      "deeper": "What makes this project unusual is the order things happened in. Rather than releasing tigers and hoping the ecosystem could support them, Kazakhstan spent years first: planting forest, then reintroducing deer, antelope, and wild ass so there would be enough prey for tigers to hunt on their own. Only once that foundation was in place did the tigers arrive, and even then, carefully. Hope, the first tiger released, spent time in a large enclosure adjusting to the sights and smells of her new home before being fitted with a GPS collar and let go. A male and two cubs are still being monitored to see if they're ready to hunt for themselves. Officials have also set up a response team to prevent conflicts with nearby communities, since the reserve isn't fenced and tigers may eventually roam beyond it. The Amur tiger stands in for the Caspian tiger, which vanished from the region decades ago and was its closest relative. If the population takes hold, it would mark the first time any country has restored a tiger species to land where it had gone extinct.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-metal-deposits-reveal-ice-ages.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/environmental-activists-in-kenya-concerned-over-billionaires-planned-oil-refinery/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582816-how-does-my-energy-use-differ-if-i-walk-jog-or-run-for-1-kilometre/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/on-the-front-lines-of-conservation-in-sumatra-rangers-safeguard-batutegi-forest/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        8.5,
+        9.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
