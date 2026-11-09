@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-10",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "6e6280250a9dbc96a22a",
+      "cluster": "discovery",
+      "headline": "Sheep wool keratin helps regrow bone in animal study",
+      "tease": "A humble farm byproduct shows promise for repairing damaged bone.",
+      "summary": "Researchers at King's College London have turned sheep's wool into a material that helps bone heal. The key ingredient is keratin, a protein found in wool and often thrown away by farmers as waste. When tested in animals with skull damage too large to heal on its own, keratin membranes guided new bone growth that was more organized and closely resembled natural bone than tissue grown with collagen, the current standard material. The wool-based scaffold also stayed stable and blended smoothly with surrounding tissue. It's an early step, but one that points toward a cheaper, more sustainable way to repair bone.",
+      "deeper": "For years, doctors repairing damaged bone have relied on collagen scaffolds to hold the space open while new bone grows in. Collagen works, but it's costly to produce, can be fiddly to extract, and sometimes breaks down too fast to handle real strain. Researchers at King's College London wondered if wool, a material farmers often discard, might do better. Wool contains keratin, a sturdy protein, and the team turned it into thin membranes and tested them first on human bone cells, then in rats with skull injuries too large to heal on their own. The keratin scaffolds produced less bone overall than collagen did, but what grew was better organized, with fibers arranged more like real, healthy bone. The material also held its shape and merged well with surrounding tissue. Dr. Sherif Elsharkawy, who led the work, called it a step that moves the idea \"significantly closer\" to real patients. It's still animal research, not a treatment yet, but it suggests a waste product from farming could one day help mend bones more naturally, and more cheaply, than current methods.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02398-4",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02429-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": false
+    },
+    "progress": {
+      "id": "b94bf45b050693cf4b0f",
+      "cluster": "progress",
+      "headline": "HIV Infections and Deaths Hit 30-Year Lows, UN Reports",
+      "tease": "Seven countries near-eliminated new HIV infections, a UNAIDS report reveals.",
+      "summary": "New HIV infections and AIDS-related deaths have dropped to their lowest levels in more than 30 years, according to a UNAIDS report released for the International AIDS Conference in Rio de Janeiro. Seven countries, including Kenya, Rwanda, and Zimbabwe, cut new infections by nearly 80% since 2010, and 11 countries hit ambitious treatment targets where almost everyone with HIV knows their status, gets treatment, and has the virus under control. New prevention options, including long-acting injections and pills in development, are expanding fast. Brazil alone increased access to prevention medicine by 41% in a year. Funders are now working to reach 3 million people with a twice-yearly injection by 2028.",
+      "deeper": "The most hopeful part of this report isn't just the numbers going down. It's what's driving the change: prevention medicine that works almost like a vaccine. A twice-yearly injection called lenacapavir showed zero infections among 3,200 young women in a recent trial, a result researchers called nearly unthinkable a few years ago. Countries like Brazil, Ethiopia, and Uganda are pushing to get these tools to more people, and South Africa is negotiating prices so the injections become affordable at scale. Global health funders have already started pooling money to reach 3 million people with lenacapavir by 2028. None of this erases the hard truth that HIV still kills people and that access remains uneven. But UNAIDS director Winnie Byanyima framed it plainly: ending AIDS is still within reach, if governments and partners keep pushing. The report's real message is that decades of patient work, on testing, treatment, and now prevention, are compounding into something that finally looks like a turning point.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/07/drifting-tuna-fishing-gear-enter-half-of-marine-protected-areas-study-finds/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/two-peope-died-after-getting-sick-with-cyclosporiasis-marking-the-first-known-deaths-linked-to-the-ongoing-multi-state-outbreak-180989256/",
+          "tier": 2
+        },
+        {
+          "name": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/un-summit-on-hiv-aids-shows-incredible-progress-in-infection-rates-deaths-treatment-access/",
+          "tier": 3
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        8.5,
+        8.0,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "a10c1639de36cfe40e32",
+      "cluster": "animals",
+      "headline": "Amur Tiger Released in Kazakhstan After Decade-Long Rewilding Effort",
+      "tease": "A decade of reforestation and prey restoration brings tigers back to Central Asia.",
+      "summary": "A female Amur tiger named Hope has been released into Kazakhstan's Ile-Balkhash Nature Reserve, the first tiger to roam the country in more than 70 years since the Caspian tiger went extinct. It's the result of a decade-long effort that began with rebuilding the habitat and restoring prey species like deer, antelope, and wild ass before any tigers arrived. Three more tigers, including two cubs, are being gradually acclimated for future release. If successful, Kazakhstan will become the first country to bring back a tiger population to a landscape it had vanished from.",
+      "deeper": "What makes this project unusual is the order things happened in. Rather than releasing tigers and hoping the ecosystem could support them, Kazakhstan spent years first: planting forest, then reintroducing deer, antelope, and wild ass so there would be enough prey for tigers to hunt on their own. Only once that foundation was in place did the tigers arrive, and even then, carefully. Hope, the first tiger released, spent time in a large enclosure adjusting to the sights and smells of her new home before being fitted with a GPS collar and let go. A male and two cubs are still being monitored to see if they're ready to hunt for themselves. Officials have also set up a response team to prevent conflicts with nearby communities, since the reserve isn't fenced and tigers may eventually roam beyond it. The Amur tiger stands in for the Caspian tiger, which vanished from the region decades ago and was its closest relative. If the population takes hold, it would mark the first time any country has restored a tiger species to land where it had gone extinct.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-metal-deposits-reveal-ice-ages.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/environmental-activists-in-kenya-concerned-over-billionaires-planned-oil-refinery/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582816-how-does-my-energy-use-differ-if-i-walk-jog-or-run-for-1-kilometre/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/on-the-front-lines-of-conservation-in-sumatra-rangers-safeguard-batutegi-forest/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        8.5,
+        9.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
