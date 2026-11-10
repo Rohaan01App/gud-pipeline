@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-11",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "a8c9102b755845723db9",
+      "cluster": "discovery",
+      "headline": "Silver nanocatalysts found to switch reaction sites with cell mode",
+      "tease": "A hidden switch in silver catalysts could make clean power and hydrogen more efficient.",
+      "summary": "Researchers in South Korea have found that a single silver catalyst used in clean-energy cells can shift where it does its work depending on the job at hand. When the cell is generating electricity, the key chemistry happens at the boundary where silver particles meet the electrode. When the cell is producing hydrogen, the action moves to the surface of the silver particles themselves. The team, led by scientists at Seoul National University with partners at KAIST and the Korea Basic Science Institute, built a precisely ordered model electrode to see this clearly. The insight offers a new way to design better solid oxide cells for electricity and hydrogen production.",
+      "deeper": "Solid oxide cells are versatile: run one way, they make electricity; run the other way, they split water into hydrogen. Silver added to these cells makes them work better, but nobody knew exactly where or how the silver was helping.\n\nTo find out, the researchers built a tidy, evenly spaced arrangement of silver particles on an electrode, rather than using the messy, tangled structures found in real devices. That let them watch closely where the chemistry actually happened.\n\nThe surprise: it depends on the direction the cell is running. Making electricity, the silver does its work at the edge where it touches the electrode. Making hydrogen, the silver does its work across its own surface. Using detailed imaging and calculations, the team showed the silver changes the electrode's surface behavior in each mode, favoring different chemical steps.\n\nThis matters because it means catalysts aren't just simple helpers bolted onto a device. Their role shifts with how the device is used. That opens a design strategy: engineer the catalyst's surface and its contact with the electrode separately, rather than as one fixed feature. Done well, it could make electricity generation and green hydrogen production more efficient, and support devices that do both jobs in one system.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02334-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10977-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "31d398a29c678120b283",
+      "cluster": "progress",
+      "headline": "Sri Lankan farmers revive heirloom rice for health and resilience",
+      "tease": "Traditional rice varieties are helping Sri Lankan farmers manage disease and preserve indigenous knowledge.",
+      "summary": "In Sri Lanka, farmers and scientists are working to bring heirloom rice varieties back from the edge. Fewer than 30 of the roughly 2,500 traditional cultivars remain in wide use, but around 2,500 have been preserved as seed at the Plant Genetic Resources Centre, and farmers like Karu Herath still grow them the old way, rotating rice with millet and mung bean by season. Researchers have found many of these varieties carry anti-diabetic and anti-inflammatory properties, useful for managing chronic disease. Their revival keeps both genetic diversity and older, low-input farming knowledge alive for future seasons.",
+      "deeper": "For centuries, Sri Lankan farmers grew rice suited to their own soil, water and diet, not to export markets. That changed with the mid-20th century Green Revolution, when new high-yield varieties replaced most heirloom types to feed a growing population. Today fewer than 30 of an estimated 2,500 traditional varieties are still commonly grown.\n\nWhat's interesting is why some farmers and scientists want them back. It's not nostalgia. Studies suggest many heirloom rice types have a low glycemic index and properties that help manage diabetes and inflammation, earning them an old reputation as \"medicinal rice.\" Farmers like Karu Herath still grow them only in the wet season, resting the soil the rest of the year with millet and mung beans instead, a rotation that uses less water.\n\nScientists have now conserved about 2,500 heirloom varieties as seed, so the genetic diversity isn't lost even as farming modernizes further. Researchers are also issuing seasonal guidance to help farmers handle pests and unpredictable weather. None of this replaces high-yield rice, which still feeds most of the country. But it keeps an older, resilient option on the table, seed by seed, for whoever needs it next.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02388-6",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10953-2",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        8.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "fc62a2c795dbdd33300f",
+      "cluster": "animals",
+      "headline": "New deed protects Papua New Guinea's tree kangaroo forests",
+      "tease": "Local leaders signed a landmark agreement safeguarding rainforest, wildlife, and communities together.",
+      "summary": "On June 30, 266 clan leaders from 41 villages in Papua New Guinea's Torricelli Mountains signed a legally binding conservation deed protecting more than 125,000 hectares of rainforest, home to the critically endangered tenkile and weimang tree kangaroos. The deed, built through two years of community consultation, bans commercial logging, mining, and hunting of threatened species, and renews every five years. It came after decades of stalled efforts to secure official government protection left communities exposed to logging pressure. Because conservation deeds rely on PNG's customary land laws, they've held up in court before, giving the people of the Torricellis a real legal shield they helped design themselves.",
+      "deeper": "For over 20 years, the Tenkile Conservation Alliance worked with villages in Papua New Guinea's Torricelli Mountains to protect their forests and the tree kangaroos living there. Government efforts to formally designate the area a protected zone kept stalling, while loggers kept pressing in. So the group tried something else: a conservation deed, a contract that clan leaders write and agree to themselves, using land rights already recognized under PNG law.\n\nIt took two years of conversations across 41 villages before 266 clan leaders signed on a hilltop, followed by celebration, dancing and song. The deed bans logging, mining and hunting of threatened species, and it renews every five years. Similar deeds elsewhere in PNG have already survived court challenges, giving people real legal ground to stand on against loggers.\n\nThe effort has already paid off for the tenkile tree kangaroo, whose numbers have roughly tripled since local hunting bans began years ago. Now the alliance hopes the deed does the same for the forest itself \u2014 and plans to use it as a model for protecting other threatened areas nearby.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-el-nino-adding-fuel-planet.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/new-conservation-deed-aims-to-protect-tree-kangaroos-forests-people-in-papua-new-guinea/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/cn8n19wz4e6o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/this-marine-life-mosaic-discovered-near-the-colosseum-offers-a-surprising-clue-its-building-may-have-housed-firefighters-in-ancient-rome-180989273/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.5,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
