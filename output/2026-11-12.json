@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-12",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "2e958fef19f0a72ff475",
+      "cluster": "discovery",
+      "headline": "Levitating sensor may detect faint brain magnetic fields",
+      "tease": "A simple new device could rival complex tech for reading the brain's faintest signals.",
+      "summary": "Researchers have built a levitating sensor that can pick up extremely faint magnetic fields, including the kind produced by brain activity. The device works by suspending a small object so it responds to tiny magnetic changes around it, a much simpler setup than the complex equipment biophysics labs usually rely on. Despite its simplicity, early signs suggest it could match or rival those more elaborate systems. Beyond studying the brain, the same sensitivity could make it useful for other faint-signal searches, including efforts to detect dark matter. It's a reminder that better tools for reading the body's subtle signals don't always need to be more complicated.",
+      "deeper": "The idea here is neat: instead of building an ever more intricate machine to catch faint magnetic signals, researchers made something simpler that levitates. When an object floats freely, tiny forces acting on it \u2014 even ones as small as the magnetic field from firing neurons \u2014 can nudge it in ways that are easier to measure precisely.\n\nThat matters because brain activity produces magnetic fields so weak they're normally hard to detect without heavy, specialized equipment. A sensor with a simple design that can still keep up with the fancier alternatives could make this kind of measurement more accessible to more labs.\n\nWhat's especially interesting is the sensor's reach beyond biology. The same sensitivity that lets it sense a whisper of brain activity could also help physicists hunt for dark matter, the mysterious substance that makes up most of the universe's matter but has never been directly observed. One simple device, two very different frontiers \u2014 the inner workings of the brain and the outer edges of physics \u2014 showing how a clever bit of engineering can open doors nobody quite expected.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01360-8",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10963-0",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02458-9",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        6.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "20d74a2eacdec677db57",
+      "cluster": "progress",
+      "headline": "AI models extend cyclone warning times by 30 hours",
+      "tease": "New forecasting tools give coastal communities a longer head start against destructive storms.",
+      "summary": "New AI forecasting models can give people up to 30 hours more warning before a tropical cyclone hits, compared with current methods. That extra time comes from a specific improvement: today's forecasts are fairly good at tracking where a storm is heading, but much weaker at predicting how strong it will get. The new models close that gap, catching intensity changes earlier. More lead time means more chance to prepare, evacuate, or secure what needs securing before a storm turns dangerous. It's a case where a modest technical fix, done well, translates directly into something that matters: time.",
+      "deeper": "Cyclones are hard to forecast in two different ways. Tracking where one is headed has gotten fairly reliable over the years. But guessing how strong it will actually be when it arrives \u2014 whether it fizzles or turns into something severe \u2014 has lagged behind. That gap matters, because a storm's path tells you where to worry, but its strength tells you how much to worry and what to do about it.\n\nThe new AI models are aimed squarely at that weak spot. By getting better at predicting intensity changes, they let forecasters issue warnings earlier and with more confidence \u2014 up to 30 hours earlier than before, according to the researchers.\n\nThirty hours doesn't sound dramatic, but in a storm warning, it's the difference between a rushed evacuation and an orderly one, between boarding up windows in daylight or in a downpour. It's a quiet kind of progress: no new sensors, no new satellites, just software that reads the same data more usefully. The tools still need testing against real storms, but the direction is encouraging \u2014 better warnings, sooner, for the people in a cyclone's path.",
+      "scene": "ozone",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-human-arctic-occurrence-satellite-analysis.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10887-9",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.0,
+        7.5,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "acf5c2bda722a98db6a1",
+      "cluster": "animals",
+      "headline": "White-Tailed Sea Eagle Chick Fledges at Irish Wildlife Park",
+      "tease": "A century after vanishing from Ireland, this majestic raptor's comeback gains a new chick.",
+      "summary": "A white-tailed sea eagle chick has fledged at Fota Wildlife Park in County Cork, the park's first in more than a decade. The eaglet hatched in April to parents \u00c1ine and Tony, who staff say have taken well to raising Europe's largest eagle. The bird was once wiped out across Ireland by human persecution, absent for more than a century. Since 2007, Ireland's National Parks and Wildlife Service and partners have released over 200 sea eagles nationwide, and the population is now considered self-sustaining. This new chick may one day join a European breeding programme, extending its impact beyond Cork.",
+      "deeper": "White-tailed sea eagles used to be a common sight along Ireland's coast, until people hunted them out entirely. For more than a hundred years, the country had none. Then, starting in 2007, wildlife groups began releasing eagles brought over with help from Norwegian researchers, working alongside farmers and local communities who agreed to give the birds a chance. More than 200 eagles later, the population can now sustain itself without more releases.\n\nThis spring's chick, born to parents \u00c1ine and Tony at Fota Wildlife Park, is a small but telling piece of that story. Staff say the pair have handled parenthood well, no small feat given that eaglets need close to a pound of food a day and the adults' wingspans can top eight feet. The park has now bred six such chicks since 1991.\n\nStaff hope this youngster might eventually join a Europe-wide breeding program for endangered birds. It's a reminder that a species people once erased from a place can come back \u2014 not by accident, but because enough people decided it mattered and kept at it for decades.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-unprecedented-biomass-loss-europe-forests.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10899-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        7.5,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
