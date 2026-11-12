@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-13",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "027256e6580db54c328f",
+      "cluster": "discovery",
+      "headline": "New satellite maps reveal fine-scale microclimates across US landscapes",
+      "tease": "Scientists turn satellite big data into detailed maps of Earth's hidden microclimates.",
+      "summary": "Researchers at Michigan State University have turned raw satellite data into maps that show the small-scale variation across US landscapes. Kelly Kapsar and her team used satellite imagery to trace the exact contours of forested ridges in the Sierra Nevada and the peaks and valleys of the Rockies, alongside the pine flatwoods of southern Florida and the grasslands of the Kansas prairie. Different colors mark the precise heights and shapes of each place. The work takes enormous amounts of satellite data and turns it into images that are easy to read, giving a clearer view of how varied America's terrain really is, place by place.",
+      "deeper": "Satellite data covers huge areas, which is useful, but it can be hard to see what's actually happening on the ground in any one spot. Kelly Kapsar, a researcher at Michigan State University, has been working on maps that bring that data down to a human scale. She uses color to show the exact height of a ridge, the drop of a valley, or the flatness of a plain.\n\nIn her presentation, she showed the forested ridgelines of the Sierra Nevada and the sharp peaks and valleys of the Rockies. Then she showed something completely different: the shaded pine flatwoods of southern Florida and the smooth, rolling grasslands of the Kansas prairie. Side by side, the maps make it easy to see how differently the land behaves from one region to the next.\n\nIt's a simple idea \u2014 take satellite data that's normally too big and abstract to make sense of, and turn it into something you can actually look at and understand, ridge by ridge, field by field.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02432-5",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02350-6",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10874-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        6.5,
+        7.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "75e3db5f9a9943da0e3d",
+      "cluster": "progress",
+      "headline": "Funders adopt lotteries to allocate tied grant proposals",
+      "tease": "When experts can't rank the best ideas, some funders let chance decide fairly.",
+      "summary": "A growing number of research funders are letting a lottery decide between grant proposals that reviewers rate equally strong. Rather than forcing panels to invent fine distinctions between applications that are genuinely tied, funders draw the winner at random once the shortlist is set. The approach works because it matches the honesty of the review process: reviewers often can't reliably rank top proposals against each other, so pretending otherwise adds noise, not fairness. Randomizing the final call saves reviewer time, removes pressure to justify arbitrary rankings, and gives equally deserving projects the same shot at funding.",
+      "deeper": "Grant panels have long faced an odd problem: when several proposals are all excellent, reviewers are asked to rank them anyway, even though the differences at that level are often too small to judge reliably. Some funders have started to admit this openly. Once a panel narrows the field to the strongest, tied applications, they let a lottery pick the winner instead of squeezing out a forced ranking.\n\nThe logic is simple. If reviewers genuinely can't tell which of the top proposals is best, insisting on a ranked order doesn't produce more fairness, it just hides the guesswork behind false precision. A random draw is honest about that uncertainty instead of papering over it.\n\nThis shift matters because it changes what expertise is being asked to do. Reviewers still do the hard work of identifying which proposals are strong enough to deserve funding. The lottery only steps in at the point where merit alone can't distinguish between them. It's a small procedural change, but it reflects a broader rethink of how science funding decisions should be made when certainty runs out.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01850-9",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02360-4",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.5,
+        7.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "47d8ef99444ff87178cb",
+      "cluster": "animals",
+      "headline": "Detection dogs help scientists study rare, elusive species",
+      "tease": "Trained dogs sniff out scat, opening a window into secretive wildlife like black-footed cats and pangolins.",
+      "summary": "In South Africa's Karoo, two German Shorthaired Pointers named Lyka and Sebala are sniffing out scat from some of the region's hardest-to-study animals, including black-footed cats and Temminck's pangolins. Working with conservation biologist Michelle Schroeder, the dogs have found hundreds of samples in months, work that took a human researcher over a year to match on her own. Each scat carries genetic clues about an animal's sex, health, diet, and relationships to others nearby. That data is helping scientists estimate population sizes, track gene flow across the landscape, and even flag habitats worth protecting from development.",
+      "deeper": "Some animals are just hard to see. Black-footed cats hide in burrows by day and leave droppings almost anywhere, with no pattern to follow. Pangolins are nocturnal, camouflaged, and their droppings vanish within a day or two. So researchers turned to dogs, whose noses can pick up what humans simply can't.\n\nMichelle Schroeder's dogs, Lyka and Sebala, found in a few months what she'd spent over a year searching for alone. Each dropping they find holds what she calls \"nuggets of genetic data\" \u2014 enough to tell researchers an animal's sex, sometimes its identity, and how populations connect across the landscape. Early results from the Karoo suggest black-footed cats there still have healthy genetic diversity and can move freely between areas, though researchers caution this may not hold everywhere.\n\nThe same approach is helping protect riverine rabbits, too. When dogs and camera traps confirmed rabbits were living in land proposed for wind-energy projects, it gave conservationists solid evidence to push back on development in sensitive habitat.\n\nThe work isn't glamorous, and funding is tight \u2014 a pangolin tracking project stalled this year for lack of money. But for Schroeder and her colleagues, the dogs are more than tools. They're partners who, when the fieldwork ends, get to just be dogs again.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02398-4",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02429-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
