@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-16",
+  "stories": {
+    "nature": {
+      "id": "68c673c245f9ba26baa8",
+      "cluster": "nature",
+      "headline": "Four Pacific nations plan connected network of marine reserves",
+      "tease": "Papua New Guinea, Vanuatu, Fiji, and Solomon Islands unite to protect a vast ocean corridor.",
+      "summary": "Four Melanesian nations \u2014 Papua New Guinea, Vanuatu, Fiji, and the Solomon Islands \u2014 are planning to link their marine reserves into one connected corridor across a stretch of the Pacific packed with coral, sharks, rays, dugongs, and whales. Papua New Guinea plans a no-take sanctuary near Manus roughly the size of Great Britain. Vanuatu has set aside a large protected zone around Torba Province, and Fiji aims to protect 15% of its waters by the end of 2026. Connecting these areas could safeguard migration routes and spawning grounds, and shared rules could make it harder for industrial fishing fleets to exploit gaps between separate reserves.",
+      "deeper": "The idea is simple: ocean life doesn't stay inside lines on a map. Fish, coral larvae, and whales move between reefs and across borders, so a protected area that stops at a national boundary only does half the job. By linking their reserves into one corridor, these four countries hope to protect entire pathways \u2014 not just isolated patches \u2014 through waters that hold an outsized share of the world's coral species.\n\nIt's an ambitious idea, but still mostly a plan on paper. The governments haven't yet released maps, boundaries, or details on how enforcement or funding will work. Some areas have far more capacity to monitor their waters than others, which could leave gaps for illegal fishing. And across Melanesia, coastal communities have managed their own fishing grounds for generations under customary rules \u2014 how that local authority fits into a regional system hasn't been decided.\n\nA regional environment agency is helping draft the legal framework, but for now this is a declaration of intent, not a working system. The next real test will be whether boundaries, rules, and enforcement get agreed on the ground.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/four-pacific-nations-are-planning-one-of-the-worlds-largest-ocean-corridors/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/c75gvlrznzdo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/science-nature/big-waves-meet-biodiversity-why-surfing-paradises-could-offer-a-key-opportunity-for-marine-conservation-180989119/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.0,
+        8.0,
+        8.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "6435e314a59954e21e56",
+      "cluster": "discovery",
+      "headline": "Superworms Tested as Alternative for Cleaning Museum Skeletons",
+      "tease": "Researchers find these larvae strip flesh from bones gently, offering museums a safer prep method.",
+      "summary": "A chance mistake at a research lab has turned into a promising new tool for museums. Scientists ran out of vegetables to feed a colony of superworms kept for injured wild birds, gave them a leftover chicken bone instead, and watched the larvae strip it clean in no time. That led them to test the worms on eight animal skeletons, from a gray wolf to a Eurasian eagle owl. At the right ratio, the larvae cleaned bones in hours to days without damaging them. Superworms are cheap, easy to keep, and reusable for months, offering institutions a simpler alternative to boiling, chemicals, or beetle colonies.",
+      "deeper": "The idea came about by accident. Researchers who kept a colony of superworms to feed injured wild birds ran out of vegetable scraps one day and tossed in a leftover chicken bone instead. The larvae tore through it so fast that the team wondered if they could handle something trickier: cleaning skeletons for museum collections.\n\nSo they tried it, testing the worms on skinned, de-organed carcasses of animals like a gray wolf, an alligator gar, and a Eurasian eagle owl. With the right number of worms per gram of carcass, the larvae picked bones clean in hours or days, leaving them undamaged. Afterward, the worms went back to eating vegetables and got time to recover before their next job.\n\nCompared to traditional methods, like colonies of flesh-eating beetles, superworms are simpler to manage. They stay in their larval stage for months as long as they're kept together, so there's less risk of insects escaping and damaging other specimens. They're also cheap and already sold widely as pet food.\n\nResearchers don't think superworms will replace every cleaning method. But for museums or labs short on space, staff, or money, they could be a low-cost, low-risk option worth trying, especially on delicate specimens that need a gentler touch.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-07-climate-west-headwaters.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/a-shy-bird-found-only-in-nepal-is-waiting-for-the-world-to-notice/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/flesh-eating-superworms-could-become-a-new-skeleton-cleaning-crew-for-museum-and-research-specimens-180989258/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2583523-its-good-for-the-planet-to-scrap-a-new-petrol-car-and-buy-electric/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        6.5,
+        6.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "92a124b51cd911abe349",
+      "cluster": "progress",
+      "headline": "Gold metacrystal sorts quantum light without deep-freeze cooling",
+      "tease": "A tiny gold crystal could let quantum devices ditch bulky cryogenic freezers entirely.",
+      "summary": "Physicists at LSU have built a tiny gold crystal that can sort different quantum states of light and move them around without needing deep-freeze cooling. Almost all quantum materials only work near absolute zero, because heat makes atoms jiggle and destroys the delicate effects scientists rely on. The team got around this by engineering their own material: a thin gold layer cut with hundreds of tiny slits, each acting like an artificial atom. Arranging these slits carefully lets the crystal act as a filter, sorting light by its quantum behavior at room temperature. That could make quantum computers, sensors, and communication devices smaller and cheaper to build.",
+      "deeper": "Light seems simple, but sunlight, laser light, and fluorescent light are all made of photons that behave subtly differently at the quantum level. Normally, telling these differences apart takes bulky equipment cooled to near absolute zero and huge numbers of measurements. The LSU team built something new instead: a gold chip etched with hundreds of tiny slits, each acting like an artificial atom. Together these form a crystal that doesn't exist in nature, one that sorts incoming light by its quantum properties and guides different types along separate paths, all at room temperature.\n\nOne researcher described the appeal simply, saying they built something nature doesn't provide on its own, and watching it work as predicted felt rewarding. The team calls this a new class of material and says the same design approach could be used to build others like it, rather than being a one-off discovery.\n\nThe practical promise is that quantum devices could shed their dependence on expensive cooling systems, making them smaller and easier to actually use. The researchers also suggest the same light-guiding trick might help solar cells waste less sunlight as heat, though that idea is still early.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/august-2026-satellite-puzzler/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth/",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "4aa300f0d98c3cf09085",
+      "cluster": "animals",
+      "headline": "Palawan villagers organize to protect sea turtle nests",
+      "tease": "Local communities are teaming with researchers to give olive ridley hatchlings a fighting chance.",
+      "summary": "On a beach in Palawan, Philippines, villagers walk the sand every night to protect sea turtle nests. Working with the research group LAMAVE, patrollers guard nesting olive ridley turtles from dogs, photograph them for identification, then carefully move their eggs to safe hatcheries. Left alone, most nests would be lost to stray dogs or flooding tides. In the hatcheries, about three in four eggs hatch successfully. Some patrollers, like Jerald Mahusay, once played with turtle eggs as children and now lead the very patrols that protect them \u2014 a shift in one generation from harm to care.",
+      "deeper": "The idea here is simple: a beach that used to lose almost every turtle nest now saves most of them, because people decided to watch over it. Volunteers in Santo Ni\u00f1o walk more than eight kilometers of shoreline at night, shift after shift, looking for nesting turtles. When they find one, they shield her from roaming dogs, take her photo so they can recognize her later, and once she's finished, they gently move her eggs to a guarded hatchery in the sand.\n\nIt isn't a perfect fix \u2014 hatchery success rates run a bit below what undisturbed natural nests would achieve, and everyone involved knows it's a stopgap. Project leader Kalei Suza put it simply: they'd rather the turtles nest safely on their own, because \"mama knows best.\" The long-term hope is for the community to manage the threats \u2014 mainly dogs and development \u2014 well enough that turtles won't need rescuing at all. For now, though, people who grew up near this beach, some who once treated turtle eggs as toys, are the ones keeping the hatchlings alive.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02289-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        8.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
