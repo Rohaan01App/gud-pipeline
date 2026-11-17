@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-18",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "b18986ed2db1ffc8e157",
+      "cluster": "discovery",
+      "headline": "Cell-like nanoreactor produces hydrogen peroxide using sunlight",
+      "tease": "A tiny cell-inspired device turns light into a useful chemical, cleanly.",
+      "summary": "Scientists have built a tiny artificial structure that copies how living cells work, and used it to turn sunlight and water into hydrogen peroxide, a useful chemical for cleaning and industry. The device has a hollow center surrounded by a porous outer layer, much like a cell wall, which lets light and molecules gather and react efficiently inside. A chemical relay in the shell helps shuttle protons around, keeping the reaction balanced and steady. Researchers at the Dalian Institute of Chemical Physics and Inner Mongolia University also embedded the tiny reactors in a gel, making a solid, reusable material that keeps working under ordinary sunlight.",
+      "deeper": "Cells are remarkably good at complicated chemistry, mostly because everything happens in tightly organized spaces where molecules can meet and react in just the right way. Researchers wanted to borrow that trick for a man-made material. So they built a microscopic hollow sphere with a shell that acts a bit like a cell membrane, complete with a chemical pair inside that passes protons back and forth, helping keep a light-powered reaction running smoothly and efficiently.\n\nThe payoff is hydrogen peroxide, made straight from sunlight and water rather than through the usual industrial process. Because the reaction happens inside a confined hollow space, light and reactants stay close together, which makes the whole thing work better.\n\nThe team, led by Prof. Li Can at the Dalian Institute of Chemical Physics with colleagues at Inner Mongolia University, went a step further and set the tiny reactors into a gel, creating a solid material that can be reused again and again under normal daylight. Li says the approach could open doors for artificial photosynthesis and cleaner ways of making useful chemicals, borrowing more of nature's tricks as the work continues.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02334-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10977-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "18078615541ee7988f18",
+      "cluster": "progress",
+      "headline": "New 3D-printing method aligns hydrogel fibres to regrow muscle",
+      "tease": "A clever printing trick turns soft gel particles into muscle-mimicking fibres that speed healing.",
+      "summary": "Scientists have found a way to 3D print hydrogel material so that its fibres line up in one direction, similar to how muscle fibres are naturally arranged. As the material is extruded, tiny particles transform into aligned microfibres rather than a jumbled mesh. This matters because muscle needs that kind of directional structure to regrow properly. In tests, the aligned printing sped up muscle tissue regeneration. It's an early step, but it points to a simpler way of making lab-grown tissue that behaves more like the real thing.",
+      "deeper": "Muscle isn't just a blob of cells. Its fibres run in neat, parallel lines, which is part of how it contracts and heals. That's been hard to copy with 3D printing, which often produces soft, disordered material.\n\nThe new trick is in how the printing happens. As the hydrogel is pushed through the printer's nozzle, tiny particles inside it stretch and link up into fine fibres that all point the same way, instead of tangling randomly. So the alignment isn't added afterward with extra tools or scaffolding \u2014 it happens naturally as the material flows.\n\nWhen the researchers tested this printed material, muscle tissue regenerated faster than it did with unaligned versions. The structure seems to give cells a clearer path to grow along.\n\nIt's a small technical change with a useful result: a way to make lab-made tissue that's structurally closer to real muscle, without complicated extra steps. That could make future tissue engineering for injuries or muscle damage more practical, though this is still early-stage research.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02397-5",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02428-1",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080923.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10883-z",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        6.5,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "b363176d1a5aa110862d",
+      "cluster": "animals",
+      "headline": "Georgia Beaches Record Highest Loggerhead Turtle Nest Count in 37 Years",
+      "tease": "Decades of conservation work are paying off for threatened loggerhead sea turtles.",
+      "summary": "Loggerhead sea turtles nesting on Georgia's beaches have just set a new record: more than 4,110 nests this year, the most since counting began in 1989. Georgia's Department of Natural Resources calls it a slow but steady rebound for a species listed as threatened since 1978. Daily patrols by volunteers, researchers, and staff who mark and protect nests, along with 'turtle excluder' devices that keep the animals out of shrimp trawler nets since 1990, have helped nest counts grow about 4% a year since the early 1990s. The count has nearly doubled the original recovery goal for the species.",
+      "deeper": "Loggerheads are slow, patient animals, so any comeback takes decades to show up. Females don't lay their first eggs until they're 30 to 35 years old, so this year's record nests reflect protections put in place a generation ago. Each summer night, females haul themselves onto Georgia's barrier island beaches to bury about 100 eggs in the sand, then head back to sea. Volunteers and researchers with the Georgia Sea Turtle Cooperative walk those beaches at dawn every day, finding and protecting the nests. Shrimp boats now use devices that let turtles escape their nets, cutting down a major cause of death. The population still swings year to year, from a record low of 358 nests in 2004 to over 4,110 now. Officials expect numbers to level off for a while. But if protections stay in place, biologist Mark Dodd says nesting could eventually climb back to levels not seen in Georgia since the 1950s. It's a reminder that patient, unglamorous work, done daily for decades, can slowly turn a species' fortunes around.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-study-finds-it-where-you.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10830-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        8.0,
+        7.5,
+        8.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
