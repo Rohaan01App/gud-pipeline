@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-20",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "b18986ed2db1ffc8e157",
+      "cluster": "discovery",
+      "headline": "Cell-like nanoreactor produces hydrogen peroxide using sunlight",
+      "tease": "A tiny cell-inspired device turns light into a useful chemical, cleanly.",
+      "summary": "Scientists have built a tiny artificial structure that copies how living cells work, and used it to turn sunlight and water into hydrogen peroxide, a useful chemical for cleaning and industry. The device has a hollow center surrounded by a porous outer layer, much like a cell wall, which lets light and molecules gather and react efficiently inside. A chemical relay in the shell helps shuttle protons around, keeping the reaction balanced and steady. Researchers at the Dalian Institute of Chemical Physics and Inner Mongolia University also embedded the tiny reactors in a gel, making a solid, reusable material that keeps working under ordinary sunlight.",
+      "deeper": "Cells are remarkably good at complicated chemistry, mostly because everything happens in tightly organized spaces where molecules can meet and react in just the right way. Researchers wanted to borrow that trick for a man-made material. So they built a microscopic hollow sphere with a shell that acts a bit like a cell membrane, complete with a chemical pair inside that passes protons back and forth, helping keep a light-powered reaction running smoothly and efficiently.\n\nThe payoff is hydrogen peroxide, made straight from sunlight and water rather than through the usual industrial process. Because the reaction happens inside a confined hollow space, light and reactants stay close together, which makes the whole thing work better.\n\nThe team, led by Prof. Li Can at the Dalian Institute of Chemical Physics with colleagues at Inner Mongolia University, went a step further and set the tiny reactors into a gel, creating a solid material that can be reused again and again under normal daylight. Li says the approach could open doors for artificial photosynthesis and cleaner ways of making useful chemicals, borrowing more of nature's tricks as the work continues.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02334-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10977-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "b94bf45b050693cf4b0f",
+      "cluster": "progress",
+      "headline": "HIV Infections and Deaths Hit 30-Year Lows, UN Reports",
+      "tease": "Seven countries near-eliminated new HIV infections, a UNAIDS report reveals.",
+      "summary": "New HIV infections and AIDS-related deaths have dropped to their lowest levels in more than 30 years, according to a UNAIDS report released for the International AIDS Conference in Rio de Janeiro. Seven countries, including Kenya, Rwanda, and Zimbabwe, cut new infections by nearly 80% since 2010, and 11 countries hit ambitious treatment targets where almost everyone with HIV knows their status, gets treatment, and has the virus under control. New prevention options, including long-acting injections and pills in development, are expanding fast. Brazil alone increased access to prevention medicine by 41% in a year. Funders are now working to reach 3 million people with a twice-yearly injection by 2028.",
+      "deeper": "The most hopeful part of this report isn't just the numbers going down. It's what's driving the change: prevention medicine that works almost like a vaccine. A twice-yearly injection called lenacapavir showed zero infections among 3,200 young women in a recent trial, a result researchers called nearly unthinkable a few years ago. Countries like Brazil, Ethiopia, and Uganda are pushing to get these tools to more people, and South Africa is negotiating prices so the injections become affordable at scale. Global health funders have already started pooling money to reach 3 million people with lenacapavir by 2028. None of this erases the hard truth that HIV still kills people and that access remains uneven. But UNAIDS director Winnie Byanyima framed it plainly: ending AIDS is still within reach, if governments and partners keep pushing. The report's real message is that decades of patient work, on testing, treatment, and now prevention, are compounding into something that finally looks like a turning point.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/07/drifting-tuna-fishing-gear-enter-half-of-marine-protected-areas-study-finds/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/two-peope-died-after-getting-sick-with-cyclosporiasis-marking-the-first-known-deaths-linked-to-the-ongoing-multi-state-outbreak-180989256/",
+          "tier": 2
+        },
+        {
+          "name": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/un-summit-on-hiv-aids-shows-incredible-progress-in-infection-rates-deaths-treatment-access/",
+          "tier": 3
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.5,
+        7.5,
+        8.5,
+        8.0,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "47d8ef99444ff87178cb",
+      "cluster": "animals",
+      "headline": "Detection dogs help scientists study rare, elusive species",
+      "tease": "Trained dogs sniff out scat, opening a window into secretive wildlife like black-footed cats and pangolins.",
+      "summary": "In South Africa's Karoo, two German Shorthaired Pointers named Lyka and Sebala are sniffing out scat from some of the region's hardest-to-study animals, including black-footed cats and Temminck's pangolins. Working with conservation biologist Michelle Schroeder, the dogs have found hundreds of samples in months, work that took a human researcher over a year to match on her own. Each scat carries genetic clues about an animal's sex, health, diet, and relationships to others nearby. That data is helping scientists estimate population sizes, track gene flow across the landscape, and even flag habitats worth protecting from development.",
+      "deeper": "Some animals are just hard to see. Black-footed cats hide in burrows by day and leave droppings almost anywhere, with no pattern to follow. Pangolins are nocturnal, camouflaged, and their droppings vanish within a day or two. So researchers turned to dogs, whose noses can pick up what humans simply can't.\n\nMichelle Schroeder's dogs, Lyka and Sebala, found in a few months what she'd spent over a year searching for alone. Each dropping they find holds what she calls \"nuggets of genetic data\" \u2014 enough to tell researchers an animal's sex, sometimes its identity, and how populations connect across the landscape. Early results from the Karoo suggest black-footed cats there still have healthy genetic diversity and can move freely between areas, though researchers caution this may not hold everywhere.\n\nThe same approach is helping protect riverine rabbits, too. When dogs and camera traps confirmed rabbits were living in land proposed for wind-energy projects, it gave conservationists solid evidence to push back on development in sensitive habitat.\n\nThe work isn't glamorous, and funding is tight \u2014 a pangolin tracking project stalled this year for lack of money. But for Schroeder and her colleagues, the dogs are more than tools. They're partners who, when the fieldwork ends, get to just be dogs again.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02398-4",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02429-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
