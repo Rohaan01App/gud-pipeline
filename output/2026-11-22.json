@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-22",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "b18986ed2db1ffc8e157",
+      "cluster": "discovery",
+      "headline": "Cell-like nanoreactor produces hydrogen peroxide using sunlight",
+      "tease": "A tiny cell-inspired device turns light into a useful chemical, cleanly.",
+      "summary": "Scientists have built a tiny artificial structure that copies how living cells work, and used it to turn sunlight and water into hydrogen peroxide, a useful chemical for cleaning and industry. The device has a hollow center surrounded by a porous outer layer, much like a cell wall, which lets light and molecules gather and react efficiently inside. A chemical relay in the shell helps shuttle protons around, keeping the reaction balanced and steady. Researchers at the Dalian Institute of Chemical Physics and Inner Mongolia University also embedded the tiny reactors in a gel, making a solid, reusable material that keeps working under ordinary sunlight.",
+      "deeper": "Cells are remarkably good at complicated chemistry, mostly because everything happens in tightly organized spaces where molecules can meet and react in just the right way. Researchers wanted to borrow that trick for a man-made material. So they built a microscopic hollow sphere with a shell that acts a bit like a cell membrane, complete with a chemical pair inside that passes protons back and forth, helping keep a light-powered reaction running smoothly and efficiently.\n\nThe payoff is hydrogen peroxide, made straight from sunlight and water rather than through the usual industrial process. Because the reaction happens inside a confined hollow space, light and reactants stay close together, which makes the whole thing work better.\n\nThe team, led by Prof. Li Can at the Dalian Institute of Chemical Physics with colleagues at Inner Mongolia University, went a step further and set the tiny reactors into a gel, creating a solid material that can be reused again and again under normal daylight. Li says the approach could open doors for artificial photosynthesis and cleaner ways of making useful chemicals, borrowing more of nature's tricks as the work continues.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02334-6",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02426-3",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10977-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "7f9f7ca65c7dbc530c54",
+      "cluster": "progress",
+      "headline": "New evaporation method improves perovskite-silicon solar cells",
+      "tease": "Scientists found a scalable way to build efficient tandem solar cells using heat.",
+      "summary": "Researchers have found a way to build perovskite-silicon tandem solar cells using heat rather than the wet chemical steps that usually go into making them. The method relies on a formamidinium eutectic material and applies it through thermal evaporation, a process where thin layers are deposited by vaporizing materials in a vacuum. Tandem cells stack two light-absorbing layers to capture more of the sun's spectrum than a single layer can. Making that stack easier to manufacture matters because simpler, more reliable production methods are often what stand between a promising lab result and a solar panel you could actually buy.",
+      "deeper": "Solar cells that combine perovskite with silicon can capture more sunlight than ordinary silicon panels, because the two materials absorb different parts of the light spectrum. The tricky part has always been putting them together well, since the usual perovskite-making methods involve wet chemical coatings that can be hard to control precisely across a large surface.\n\nThis new work does the layering by heating materials until they turn to vapor and settle onto the surface below, a technique known as thermal evaporation. The team used a specific combination of ingredients, described as a formamidinium eutectic, to make this heat-based approach work for the perovskite layer.\n\nThe appeal of evaporation is that it's a familiar, well-understood process in electronics manufacturing, so a method that fits it more easily could be simpler to scale up than wet-chemistry alternatives. The source doesn't give performance numbers or timelines for real-world use, but the core idea is straightforward: a more manufacturable way to build high-performing solar cells is a genuinely useful step, even before it shows up on a rooftop.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02419-2",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10958-x",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10970-1",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "a10c1639de36cfe40e32",
+      "cluster": "animals",
+      "headline": "Amur Tiger Released in Kazakhstan After Decade-Long Rewilding Effort",
+      "tease": "A decade of reforestation and prey restoration brings tigers back to Central Asia.",
+      "summary": "A female Amur tiger named Hope has been released into Kazakhstan's Ile-Balkhash Nature Reserve, the first tiger to roam the country in more than 70 years since the Caspian tiger went extinct. It's the result of a decade-long effort that began with rebuilding the habitat and restoring prey species like deer, antelope, and wild ass before any tigers arrived. Three more tigers, including two cubs, are being gradually acclimated for future release. If successful, Kazakhstan will become the first country to bring back a tiger population to a landscape it had vanished from.",
+      "deeper": "What makes this project unusual is the order things happened in. Rather than releasing tigers and hoping the ecosystem could support them, Kazakhstan spent years first: planting forest, then reintroducing deer, antelope, and wild ass so there would be enough prey for tigers to hunt on their own. Only once that foundation was in place did the tigers arrive, and even then, carefully. Hope, the first tiger released, spent time in a large enclosure adjusting to the sights and smells of her new home before being fitted with a GPS collar and let go. A male and two cubs are still being monitored to see if they're ready to hunt for themselves. Officials have also set up a response team to prevent conflicts with nearby communities, since the reserve isn't fenced and tigers may eventually roam beyond it. The Amur tiger stands in for the Caspian tiger, which vanished from the region decades ago and was its closest relative. If the population takes hold, it would mark the first time any country has restored a tiger species to land where it had gone extinct.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-metal-deposits-reveal-ice-ages.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/environmental-activists-in-kenya-concerned-over-billionaires-planned-oil-refinery/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582816-how-does-my-energy-use-differ-if-i-walk-jog-or-run-for-1-kilometre/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/on-the-front-lines-of-conservation-in-sumatra-rangers-safeguard-batutegi-forest/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        8.5,
+        9.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
