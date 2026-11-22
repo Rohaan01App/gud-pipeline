@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-23",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "96307e6f3cc77e84db49",
+      "cluster": "discovery",
+      "headline": "Researchers generate quantum entanglement using ordinary sunlight",
+      "tease": "A simpler, lower-energy path to quantum technology may start with sunlight.",
+      "summary": "Researchers have shown that ordinary sunlight can create quantum entanglement, a task long thought to require lasers. A team from the University of Ottawa and the Max Planck Institute for the Science of Light built a solar concentrator to focus sunlight onto a tiny crystal, splitting photons into entangled pairs. Tests showed the entanglement was about 94% as strong as a perfect quantum state. Because quantum entanglement underpins secure communication and advanced computing, this opens the door to quantum technologies that don't depend on power-hungry lasers, including satellites that could generate secure encryption keys straight from sunlight already available in space.",
+      "deeper": "Quantum technology usually needs light that behaves in a very orderly way, which is why scientists have relied on lasers. Sunlight is the opposite of orderly: it scatters in every direction and comes in a jumble of colors. So most researchers assumed it simply wouldn't work for creating entangled photons, pairs of particles linked so that measuring one affects the other.\n\nA team including recent graduate Cheng Li set out to test that assumption anyway, building on earlier work showing that even light from an LED could produce entanglement. The trick was designing the setup so that only one property of the light, its polarization, mattered, letting them ignore all the sunlight's chaos in color and direction. A cone-shaped glass device built by collaborators in Germany funneled sunlight, collected through a lens the size of a window, down into a fiber as thin as a hair, aimed at a crystal smaller than a grain of rice.\n\nThe experiment worked, despite what Li described as repeated skepticism from other scientists. The result suggests future quantum devices, even ones in orbit, might run on sunlight instead of energy-hungry lasers, making the technology cheaper and easier to scale.",
+      "scene": "vial",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02388-6",
+          "tier": 1
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
+          "tier": 1
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10953-2",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        6.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "b1898fd1dce3bce904de",
+      "cluster": "progress",
+      "headline": "Australia sets $31.30 minimum wage for gig delivery drivers",
+      "tease": "A new industrial ruling gives delivery drivers guaranteed pay and injury insurance nationwide.",
+      "summary": "Delivery drivers across Australia will now earn a guaranteed minimum of $31.30 an hour, under new standards approved by the Fair Work Commission. The rules also require delivery platforms to provide personal accident insurance for workers, while keeping the flexibility gig work is known for. The change came after the Transport Workers' Union joined forces with DoorDash and UberEats to jointly request the protections, following years of talks. Officials and union leaders called the result \"world-leading,\" and it's expected to apply broadly across on-demand food, drink, and grocery delivery platforms, offering a safety net to hundreds of thousands of workers.",
+      "deeper": "For years, gig delivery work has meant unpredictable pay \u2014 riders and drivers might wait unpaid for a restaurant order, with no guarantee of a minimum wage or protection if they got hurt on the job. That's changing in Australia. Starting in August, delivery platforms must pay workers a guaranteed hourly rate, and organise insurance that covers them if they're injured while working.\n\nWhat makes this notable is how it came together: the union representing gig workers didn't fight the platforms alone in court \u2014 it worked with DoorDash and UberEats to jointly propose the new rules to the industrial umpire. Both sides gave a little. Workers are now called \"employee-like\" rather than full employees, and they'll need to insure their own vehicles against damage to others. In exchange, they get steady minimum pay and injury cover, without losing the flexibility to choose their own hours.\n\nIt's a rare case of a gig economy fight ending in a shared framework rather than a standoff. Officials are calling it a milestone, and it's likely to be watched closely elsewhere, since similar gig-work disputes are playing out in many countries.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582737-climate-change-could-eliminate-malaria-from-west-and-central-africa/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
+          "tier": 2
+        },
+        {
+          "name": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        8.0,
+        7.0,
+        8.0,
+        6.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "acf5c2bda722a98db6a1",
+      "cluster": "animals",
+      "headline": "White-Tailed Sea Eagle Chick Fledges at Irish Wildlife Park",
+      "tease": "A century after vanishing from Ireland, this majestic raptor's comeback gains a new chick.",
+      "summary": "A white-tailed sea eagle chick has fledged at Fota Wildlife Park in County Cork, the park's first in more than a decade. The eaglet hatched in April to parents \u00c1ine and Tony, who staff say have taken well to raising Europe's largest eagle. The bird was once wiped out across Ireland by human persecution, absent for more than a century. Since 2007, Ireland's National Parks and Wildlife Service and partners have released over 200 sea eagles nationwide, and the population is now considered self-sustaining. This new chick may one day join a European breeding programme, extending its impact beyond Cork.",
+      "deeper": "White-tailed sea eagles used to be a common sight along Ireland's coast, until people hunted them out entirely. For more than a hundred years, the country had none. Then, starting in 2007, wildlife groups began releasing eagles brought over with help from Norwegian researchers, working alongside farmers and local communities who agreed to give the birds a chance. More than 200 eagles later, the population can now sustain itself without more releases.\n\nThis spring's chick, born to parents \u00c1ine and Tony at Fota Wildlife Park, is a small but telling piece of that story. Staff say the pair have handled parenthood well, no small feat given that eaglets need close to a pound of food a day and the adults' wingspans can top eight feet. The park has now bred six such chicks since 1991.\n\nStaff hope this youngster might eventually join a Europe-wide breeding program for endangered birds. It's a reminder that a species people once erased from a place can come back \u2014 not by accident, but because enough people decided it mattered and kept at it for decades.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-unprecedented-biomass-loss-europe-forests.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10899-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        7.5,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
