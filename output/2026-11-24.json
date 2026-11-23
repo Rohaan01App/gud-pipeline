@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-24",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "1a12fd24a73ae4463243",
+      "cluster": "discovery",
+      "headline": "Fruit fly study reveals method to retrieve lost memories",
+      "tease": "Researchers found a way to recover forgotten memories, using fruit flies as an unlikely guide.",
+      "summary": "Scientists working with fruit flies have found that memories which seem forgotten may still be tucked away in the brain, waiting for the right cue. The flies were trained to avoid a smell linked to a mild shock, and a day later they'd stopped avoiding it. But when researchers recreated the exact setting of the original training, the flies remembered and avoided the smell again. Brain scans showed the original memory pattern had faded, but a quiet trace lived on in a different set of neurons, ready to be switched back on by the right reminder.",
+      "deeper": "Here's the interesting part: the memory wasn't gone, it was just quiet. Swiss researchers trained flies to link a smell with a mild shock. The flies avoided the smell at first, then seemed to forget it a day later. But putting them back in a room with the same lighting and texture as their training brought the memory rushing back.\n\nLooking inside the flies' brains, the scientists found the original memory pattern had faded, but a hidden trace remained in other neurons. The right reminder could reactivate it.\n\nThere's a catch, though. The flies could also form false memories: when exposed to a harmless smell they'd never been shocked with, but presented as if it were the \"reminder,\" they started avoiding that one too. Interestingly, the brain used different pathways for genuine recovered memories versus these false ones.\n\nFly brains aren't human brains, and the researchers are careful about that. But the study hints that remembering isn't just about what's stored \u2014 it's about rebuilding it from context, and that process can sometimes go wrong in ways that create memories that never happened.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/documentary-captures-impacts-of-diamond-mining-along-south-africas-west-coast/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582580-the-once-impossible-black-holes-that-could-break-thermodynamics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Science",
+          "url": "https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.5,
+        7.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "d701af74cdadb2112bbe",
+      "cluster": "progress",
+      "headline": "Thermal drones help Kenyan farmers deter elephant crop raids",
+      "tease": "A quiet tech fix is easing decades-old conflict between farmers and elephants near Amboseli.",
+      "summary": "Farmers near Kenya's Amboseli National Park are using thermal drones to steer elephants away from their fields, cutting down on dangerous nighttime confrontations. The park has no perimeter fence, so elephants often wander into farmland, leading to crop damage and, in the past, retaliatory violence against the animals. Now conservation teams fly drones equipped with infrared sensors to spot elephants in the dark and gently guide them back toward the park, using the sound of the propellers to move herds along. In just two months this year, drones helped resolve dozens of incidents, and workers say retaliatory injuries and deaths have dropped.",
+      "deeper": "For years, farmers near Amboseli stayed up all night guarding their crops from elephants that wandered in from the unfenced park. One farmer, Dominic Mutua, described chasing elephants off his land in the dark, again and again.\n\nNow a small drone can do the job more safely. Fitted with thermal cameras, it can spot elephants at night even when they're hidden in darkness or thick bush. A pilot flies it just above or behind a herd, and the buzzing propellers \u2014 described by one farmer as sounding like a swarm of bees \u2014 are enough to nudge the elephants back toward the park instead of deeper into farmland.\n\nIt's a small technological fix for a very old problem: people and elephants sharing the same land, with elephants spending most of their time outside the park's boundaries. Drones don't replace fences or rangers, but conservationists say they add precision \u2014 letting teams find and move elephants before things escalate into damage or danger. Researchers caution that elephants can get used to drones over time, so the approach still needs care. But for farmers like Mutua, the drones already feel like real relief \u2014 a way to protect their crops without putting themselves or the elephants at risk.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02022-5",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-pacific-islands-alarmed-trump-deep.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10806-y",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "acf5c2bda722a98db6a1",
+      "cluster": "animals",
+      "headline": "White-Tailed Sea Eagle Chick Fledges at Irish Wildlife Park",
+      "tease": "A century after vanishing from Ireland, this majestic raptor's comeback gains a new chick.",
+      "summary": "A white-tailed sea eagle chick has fledged at Fota Wildlife Park in County Cork, the park's first in more than a decade. The eaglet hatched in April to parents \u00c1ine and Tony, who staff say have taken well to raising Europe's largest eagle. The bird was once wiped out across Ireland by human persecution, absent for more than a century. Since 2007, Ireland's National Parks and Wildlife Service and partners have released over 200 sea eagles nationwide, and the population is now considered self-sustaining. This new chick may one day join a European breeding programme, extending its impact beyond Cork.",
+      "deeper": "White-tailed sea eagles used to be a common sight along Ireland's coast, until people hunted them out entirely. For more than a hundred years, the country had none. Then, starting in 2007, wildlife groups began releasing eagles brought over with help from Norwegian researchers, working alongside farmers and local communities who agreed to give the birds a chance. More than 200 eagles later, the population can now sustain itself without more releases.\n\nThis spring's chick, born to parents \u00c1ine and Tony at Fota Wildlife Park, is a small but telling piece of that story. Staff say the pair have handled parenthood well, no small feat given that eaglets need close to a pound of food a day and the adults' wingspans can top eight feet. The park has now bred six such chicks since 1991.\n\nStaff hope this youngster might eventually join a Europe-wide breeding program for endangered birds. It's a reminder that a species people once erased from a place can come back \u2014 not by accident, but because enough people decided it mattered and kept at it for decades.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-unprecedented-biomass-loss-europe-forests.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10899-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        7.5,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
