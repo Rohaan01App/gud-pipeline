@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-25",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "2e958fef19f0a72ff475",
+      "cluster": "discovery",
+      "headline": "Levitating sensor may detect faint brain magnetic fields",
+      "tease": "A simple new device could rival complex tech for reading the brain's faintest signals.",
+      "summary": "Researchers have built a levitating sensor that can pick up extremely faint magnetic fields, including the kind produced by brain activity. The device works by suspending a small object so it responds to tiny magnetic changes around it, a much simpler setup than the complex equipment biophysics labs usually rely on. Despite its simplicity, early signs suggest it could match or rival those more elaborate systems. Beyond studying the brain, the same sensitivity could make it useful for other faint-signal searches, including efforts to detect dark matter. It's a reminder that better tools for reading the body's subtle signals don't always need to be more complicated.",
+      "deeper": "The idea here is neat: instead of building an ever more intricate machine to catch faint magnetic signals, researchers made something simpler that levitates. When an object floats freely, tiny forces acting on it \u2014 even ones as small as the magnetic field from firing neurons \u2014 can nudge it in ways that are easier to measure precisely.\n\nThat matters because brain activity produces magnetic fields so weak they're normally hard to detect without heavy, specialized equipment. A sensor with a simple design that can still keep up with the fancier alternatives could make this kind of measurement more accessible to more labs.\n\nWhat's especially interesting is the sensor's reach beyond biology. The same sensitivity that lets it sense a whisper of brain activity could also help physicists hunt for dark matter, the mysterious substance that makes up most of the universe's matter but has never been directly observed. One simple device, two very different frontiers \u2014 the inner workings of the brain and the outer edges of physics \u2014 showing how a clever bit of engineering can open doors nobody quite expected.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-01360-8",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10963-0",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02458-9",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        6.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "03f9af3e6862339705e6",
+      "cluster": "progress",
+      "headline": "Bangladesh installs rope canopy bridges to protect wildlife",
+      "tease": "Simple rope bridges are helping animals cross roads safely in fragmented forests.",
+      "summary": "Bangladesh's Forest Department has strung five rope bridges over a highway that cuts through Madhupur National Park, giving monkeys, langurs and other tree-dwelling animals a safe way to cross above the traffic. The bridges, each about 30 meters long, cost roughly $5,000 total and were built after officials noticed frequent collisions between vehicles and wildlife like rhesus macaques and capped langurs. The idea builds on smaller pilot projects by researchers elsewhere in the country, which recorded over a thousand safe animal crossings in a single year. Road authorities are now planning to fund more bridges, and officials hope to install them in other fragmented forests too.",
+      "deeper": "The problem is simple: roads cut through forests, and animals that live in the treetops have no way to cross except by climbing down into traffic. In Bangladesh's Madhupur National Park, that has meant regular roadkill among macaques, langurs and small carnivores as a highway slices through their habitat.\n\nThe fix is just as simple \u2014 rope bridges strung high above the road, letting animals climb across the canopy instead of crossing the tarmac. It's cheap, low-tech, and it works: a similar bridge project in another Bangladeshi forest recorded over a thousand animal crossings in a year, including langurs and slow lorises escaping not just cars but also village dogs.\n\nNot every attempt has held up. Some earlier bridges were damaged, stolen, or fell when linking trees collapsed, and monitoring has sometimes suffered from a lack of funds or working cameras. Researchers who pioneered the approach say future bridges need careful site selection and community involvement to last.\n\nStill, the momentum is real. Bangladesh's road authority has agreed to help fund more crossings, and forest officials are eyeing several other fragmented reserves for the same treatment \u2014 a small, affordable idea spreading because it visibly keeps animals alive.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        7.5,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "acf5c2bda722a98db6a1",
+      "cluster": "animals",
+      "headline": "White-Tailed Sea Eagle Chick Fledges at Irish Wildlife Park",
+      "tease": "A century after vanishing from Ireland, this majestic raptor's comeback gains a new chick.",
+      "summary": "A white-tailed sea eagle chick has fledged at Fota Wildlife Park in County Cork, the park's first in more than a decade. The eaglet hatched in April to parents \u00c1ine and Tony, who staff say have taken well to raising Europe's largest eagle. The bird was once wiped out across Ireland by human persecution, absent for more than a century. Since 2007, Ireland's National Parks and Wildlife Service and partners have released over 200 sea eagles nationwide, and the population is now considered self-sustaining. This new chick may one day join a European breeding programme, extending its impact beyond Cork.",
+      "deeper": "White-tailed sea eagles used to be a common sight along Ireland's coast, until people hunted them out entirely. For more than a hundred years, the country had none. Then, starting in 2007, wildlife groups began releasing eagles brought over with help from Norwegian researchers, working alongside farmers and local communities who agreed to give the birds a chance. More than 200 eagles later, the population can now sustain itself without more releases.\n\nThis spring's chick, born to parents \u00c1ine and Tony at Fota Wildlife Park, is a small but telling piece of that story. Staff say the pair have handled parenthood well, no small feat given that eaglets need close to a pound of food a day and the adults' wingspans can top eight feet. The park has now bred six such chicks since 1991.\n\nStaff hope this youngster might eventually join a Europe-wide breeding program for endangered birds. It's a reminder that a species people once erased from a place can come back \u2014 not by accident, but because enough people decided it mattered and kept at it for decades.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-unprecedented-biomass-loss-europe-forests.html",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10899-5",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        6.5,
+        7.5,
+        7.5,
+        9.5,
+        7.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
