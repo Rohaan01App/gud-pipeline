@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-26",
+  "stories": {
+    "nature": {
+      "id": "cde1e90c6eee6a12f0a1",
+      "cluster": "nature",
+      "headline": "Cumbrian couple rewilds inherited farm over 30 years",
+      "tease": "A family farm is slowly being transformed into a haven for wildlife.",
+      "summary": "Jessie and Joe Roper have committed their inherited Cumbrian farm to a 30-year nature recovery plan, using grazing cattle and traditional hay cuts to restore habitats across the 80-acre site. Jessie grew up on the farm but had little farming experience; when her father died suddenly in 2023, she and Joe moved back rather than sell. Rather than farm traditionally, they partnered with biodiversity organisation Environment Bank, which pays them through lease payments and land management work. The arrangement gives them guaranteed income for three decades, a security they say ordinary farming, with its unpredictable weather and yields, couldn't offer.",
+      "deeper": "When Jessie Roper's father died suddenly, she and her husband Joe faced a choice: sell the family farm, or take it on themselves, despite neither having run one before. They chose to keep it, but not as a traditional dairy and beef operation. Instead, they're letting an organisation called Environment Bank help turn the 80 acres into a long-term wildlife project, using cattle grazing and old-fashioned hay cutting to bring back habitats that farming had squeezed out.\n\nWhat makes this work isn't just good intentions. Environment Bank pays the Ropers for managing the land this way, giving them thirty years of steady income instead of the boom-and-bust of relying on weather-dependent harvests. After a brutal first winter with flooded cellars and a broken tractor, that stability mattered.\n\nOther farmers nearby were sceptical, and Jessie says they've felt like the local guinea pigs. But Joe believes her father, who loved nature, would have approved. It's a quiet kind of tribute: keeping the land in the family by changing what it's for, and betting that letting it go a little wild might be the more lasting choice.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02371-1",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02379-7",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02445-0",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.5,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "a2c44ec386eabfde68c8",
+      "cluster": "discovery",
+      "headline": "Scientists keep vaccines stable at room temperature for a year",
+      "tease": "A cold-chain breakthrough could cut the vaccines wasted worldwide in half.",
+      "summary": "UK scientists have successfully trialled a vaccine that stays stable at room temperature for a year, no fridge needed. Researchers turned a tetanus-diphtheria vaccine into a dry powder using a sugar called trehalose, then mixed it with water before injecting it into 60 volunteers. It worked as well as the standard version and was safe and well tolerated. Around half of all vaccines are currently wasted worldwide, largely because they get too hot or too cold in transit. A fridge-free version could cut that waste and make it easier to reach remote or war-torn areas where refrigeration is unreliable.",
+      "deeper": "The idea came from an unlikely source: a plant that can dry out completely and look dead, then come back to life the moment it rains. Scientists noticed it survives by making a sugar that protects its cells during the dry spell. They used the same sugar to protect a vaccine, drying it into a powder that can sit at room temperature for a year before being mixed with water and used.\n\nThis matters because keeping vaccines cold, from the factory to the clinic, is one of the hardest parts of getting them to people. Doctors who've worked in remote areas describe the anxiety of racing against time with cool boxes on rough roads, hoping the vaccines survive the journey. Half of all vaccines worldwide are wasted, often because that cold chain breaks down somewhere along the way.\n\nA larger trial with 160 people is starting soon. The vaccine used in this study is already approved, so this could move toward wider use faster than a brand-new vaccine would. Researchers still want to check how it holds up with regular temperature swings and in more diverse groups of people, but the early signs suggest a future where more vaccines can reach more places, fridge or no fridge.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/07/listening-offers-a-clearer-picture-of-indias-hidden-finless-porpoises/",
+          "tier": 2
+        },
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "BBC Health",
+          "url": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
+          "tier": 2
+        },
+        {
+          "name": "Guardian Environ",
+          "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/07/australias-best-sustainable-architecture-for-2026-in-pictures",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        7.0,
+        8.0,
+        9.5,
+        7.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "7f9f7ca65c7dbc530c54",
+      "cluster": "progress",
+      "headline": "New evaporation method improves perovskite-silicon solar cells",
+      "tease": "Scientists found a scalable way to build efficient tandem solar cells using heat.",
+      "summary": "Researchers have found a way to build perovskite-silicon tandem solar cells using heat rather than the wet chemical steps that usually go into making them. The method relies on a formamidinium eutectic material and applies it through thermal evaporation, a process where thin layers are deposited by vaporizing materials in a vacuum. Tandem cells stack two light-absorbing layers to capture more of the sun's spectrum than a single layer can. Making that stack easier to manufacture matters because simpler, more reliable production methods are often what stand between a promising lab result and a solar panel you could actually buy.",
+      "deeper": "Solar cells that combine perovskite with silicon can capture more sunlight than ordinary silicon panels, because the two materials absorb different parts of the light spectrum. The tricky part has always been putting them together well, since the usual perovskite-making methods involve wet chemical coatings that can be hard to control precisely across a large surface.\n\nThis new work does the layering by heating materials until they turn to vapor and settle onto the surface below, a technique known as thermal evaporation. The team used a specific combination of ingredients, described as a formamidinium eutectic, to make this heat-based approach work for the perovskite layer.\n\nThe appeal of evaporation is that it's a familiar, well-understood process in electronics manufacturing, so a method that fits it more easily could be simpler to scale up than wet-chemistry alternatives. The source doesn't give performance numbers or timelines for real-world use, but the core idea is straightforward: a more manufacturable way to build high-performing solar cells is a genuinely useful step, even before it shows up on a rooftop.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02419-2",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10958-x",
+          "tier": 1
+        },
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
+          "tier": 1
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/s41586-026-10970-1",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.0,
+        7.0,
+        8.0,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "a10c1639de36cfe40e32",
+      "cluster": "animals",
+      "headline": "Amur Tiger Released in Kazakhstan After Decade-Long Rewilding Effort",
+      "tease": "A decade of reforestation and prey restoration brings tigers back to Central Asia.",
+      "summary": "A female Amur tiger named Hope has been released into Kazakhstan's Ile-Balkhash Nature Reserve, the first tiger to roam the country in more than 70 years since the Caspian tiger went extinct. It's the result of a decade-long effort that began with rebuilding the habitat and restoring prey species like deer, antelope, and wild ass before any tigers arrived. Three more tigers, including two cubs, are being gradually acclimated for future release. If successful, Kazakhstan will become the first country to bring back a tiger population to a landscape it had vanished from.",
+      "deeper": "What makes this project unusual is the order things happened in. Rather than releasing tigers and hoping the ecosystem could support them, Kazakhstan spent years first: planting forest, then reintroducing deer, antelope, and wild ass so there would be enough prey for tigers to hunt on their own. Only once that foundation was in place did the tigers arrive, and even then, carefully. Hope, the first tiger released, spent time in a large enclosure adjusting to the sights and smells of her new home before being fitted with a GPS collar and let go. A male and two cubs are still being monitored to see if they're ready to hunt for themselves. Officials have also set up a response team to prevent conflicts with nearby communities, since the reserve isn't fenced and tigers may eventually roam beyond it. The Amur tiger stands in for the Caspian tiger, which vanished from the region decades ago and was its closest relative. If the population takes hold, it would mark the first time any country has restored a tiger species to land where it had gone extinct.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-metal-deposits-reveal-ice-ages.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/environmental-activists-in-kenya-concerned-over-billionaires-planned-oil-refinery/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582816-how-does-my-energy-use-differ-if-i-walk-jog-or-run-for-1-kilometre/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/on-the-front-lines-of-conservation-in-sumatra-rangers-safeguard-batutegi-forest/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        8.5,
+        9.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
