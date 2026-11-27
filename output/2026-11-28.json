@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-28",
+  "stories": {
+    "nature": {
+      "id": "32f0784bf6f7bb1ed419",
+      "cluster": "nature",
+      "headline": "Study finds primate conservation shields thousands of other species",
+      "tease": "Protecting primate habitats could serve as an efficient shortcut for saving broader biodiversity.",
+      "summary": "Protecting primates may be one of the most efficient ways to protect biodiversity overall, a new study finds. Researchers analyzed the habitats of 16 primate species in China's Yunnan province alongside 601 threatened and endemic animal species and 4,010 plant species. They found that designating just 30% of Yunnan as a primate conservation priority would protect about a third of the habitat for 86% of the animals and 72% of the plants studied \u2014 plus more than half the province's annual carbon storage. Because primates need large, healthy stretches of forest, saving space for them shelters countless other species too.",
+      "deeper": "Primates make good 'umbrella species' \u2014 protect enough forest for them, and you end up sheltering the whole neighborhood. Researchers mapped this out in China's Yunnan province, home to 16 primate species, and found that setting aside less than a third of the land for primates would cover a meaningful share of habitat for hundreds of other animals and thousands of plants, plus a large chunk of the region's carbon storage.\n\nIt's not just about geography. Primates disperse seeds by eating fruit and dropping it elsewhere, so they help keep forests regenerating. Conservationists say their decline is often an early warning sign \u2014 when primates vanish from a forest, it's usually already in trouble. They're also easier to raise money for than, say, a beetle or a fungus, since people care about charismatic animals.\n\nThis isn't a new idea \u2014 groups protecting gorillas in Congo and orangutans in Borneo and Sumatra have made similar arguments, estimating tens of thousands of species could benefit. Experts note the approach works well in practice; the real obstacles are political and human, not conceptual. Still, it's a reminder that saving one much-loved species can be a shortcut to saving many others.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-climaterelated-silent-coping-strategies.html",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-heatstroke-lions-japan-zoo.html",
+          "tier": 1
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2582834-tom-gauld/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/protecting-primates-could-protect-thousands-of-other-species-study-finds/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        6.5,
+        6.0,
+        8.0,
+        9.0,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "discovery": {
+      "id": "6435e314a59954e21e56",
+      "cluster": "discovery",
+      "headline": "Superworms Tested as Alternative for Cleaning Museum Skeletons",
+      "tease": "Researchers find these larvae strip flesh from bones gently, offering museums a safer prep method.",
+      "summary": "A chance mistake at a research lab has turned into a promising new tool for museums. Scientists ran out of vegetables to feed a colony of superworms kept for injured wild birds, gave them a leftover chicken bone instead, and watched the larvae strip it clean in no time. That led them to test the worms on eight animal skeletons, from a gray wolf to a Eurasian eagle owl. At the right ratio, the larvae cleaned bones in hours to days without damaging them. Superworms are cheap, easy to keep, and reusable for months, offering institutions a simpler alternative to boiling, chemicals, or beetle colonies.",
+      "deeper": "The idea came about by accident. Researchers who kept a colony of superworms to feed injured wild birds ran out of vegetable scraps one day and tossed in a leftover chicken bone instead. The larvae tore through it so fast that the team wondered if they could handle something trickier: cleaning skeletons for museum collections.\n\nSo they tried it, testing the worms on skinned, de-organed carcasses of animals like a gray wolf, an alligator gar, and a Eurasian eagle owl. With the right number of worms per gram of carcass, the larvae picked bones clean in hours or days, leaving them undamaged. Afterward, the worms went back to eating vegetables and got time to recover before their next job.\n\nCompared to traditional methods, like colonies of flesh-eating beetles, superworms are simpler to manage. They stay in their larval stage for months as long as they're kept together, so there's less risk of insects escaping and damaging other specimens. They're also cheap and already sold widely as pet food.\n\nResearchers don't think superworms will replace every cleaning method. But for museums or labs short on space, staff, or money, they could be a low-cost, low-risk option worth trying, especially on delicate specimens that need a gentler touch.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-07-climate-west-headwaters.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/a-shy-bird-found-only-in-nepal-is-waiting-for-the-world-to-notice/",
+          "tier": 2
+        },
+        {
+          "name": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/flesh-eating-superworms-could-become-a-new-skeleton-cleaning-crew-for-museum-and-research-specimens-180989258/",
+          "tier": 2
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2583523-its-good-for-the-planet-to-scrap-a-new-petrol-car-and-buy-electric/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        6.5,
+        6.5,
+        9.5,
+        8.5
+      ],
+      "evergreen": true
+    },
+    "progress": {
+      "id": "1ca157de398c712d8fa5",
+      "cluster": "progress",
+      "headline": "Museum restores censored figure in Pieter de Hooch painting",
+      "tease": "Conservators uncover a hidden soldier erased from a 17th-century Dutch drinking scene.",
+      "summary": "A Dutch museum has painted a missing man back into a 17th-century painting. In Pieter de Hooch's A Man Smoking and a Woman Drinking in a Courtyard, someone long ago painted over a soldier who once sat at the table with two other figures, leaving just a man and a woman. The Mauritshuis museum in the Netherlands used an identical version of the painting, held in Washington, D.C., as a guide to restore the soldier exactly as de Hooch intended. The painting has been renamed Figures in a Courtyard, and now shows its original, livelier scene of a 17th-century drinking game.",
+      "deeper": "For centuries, this painting looked like a quiet moment between a man and a woman sharing a drink. But that wasn't the whole picture. Someone, long before 1833, painted over a third figure, a soldier, erasing him from the table entirely. Nobody knows exactly why. It might have been a wish to make the painting seem more valuable and unique, or perhaps just a wish to make the scene look more proper.\n\nThe fix relied on a stroke of luck: de Hooch had painted a nearly identical version of the same scene, kept in a museum in Washington, D.C., where the soldier was never removed. Conservators in the Netherlands used that painting as a map to guide the soldier's return.\n\nWith him back, the meaning of the scene shifts. What once looked like a woman simply enjoying a beer now reads as her taking her turn in a drinking game, watched by two men. It is a small change, a single figure, but it restores what the painter meant people to see, and gives back a bit of missing mischief to 350-year-old art.",
+      "scene": "kakapo",
+      "sources": [
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-geological-evidence-role-agulhas-leakage.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/these-mice-live-on-volcano-summits-at-extreme-elevations-study-finds-how/",
+          "tier": 2
+        },
+        {
+          "name": "Ars Technica Sci",
+          "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+          "tier": 2
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/2026/08/from-radar-blobs-to-bird-species-ai-helps-transform-migration-tracking/",
+          "tier": 2
+        }
+      ],
+      "scores": [
+        7.0,
+        6.0,
+        7.5,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    },
+    "animals": {
+      "id": "4aa300f0d98c3cf09085",
+      "cluster": "animals",
+      "headline": "Palawan villagers organize to protect sea turtle nests",
+      "tease": "Local communities are teaming with researchers to give olive ridley hatchlings a fighting chance.",
+      "summary": "On a beach in Palawan, Philippines, villagers walk the sand every night to protect sea turtle nests. Working with the research group LAMAVE, patrollers guard nesting olive ridley turtles from dogs, photograph them for identification, then carefully move their eggs to safe hatcheries. Left alone, most nests would be lost to stray dogs or flooding tides. In the hatcheries, about three in four eggs hatch successfully. Some patrollers, like Jerald Mahusay, once played with turtle eggs as children and now lead the very patrols that protect them \u2014 a shift in one generation from harm to care.",
+      "deeper": "The idea here is simple: a beach that used to lose almost every turtle nest now saves most of them, because people decided to watch over it. Volunteers in Santo Ni\u00f1o walk more than eight kilometers of shoreline at night, shift after shift, looking for nesting turtles. When they find one, they shield her from roaming dogs, take her photo so they can recognize her later, and once she's finished, they gently move her eggs to a guarded hatchery in the sand.\n\nIt isn't a perfect fix \u2014 hatchery success rates run a bit below what undisturbed natural nests would achieve, and everyone involved knows it's a stopgap. Project leader Kalei Suza put it simply: they'd rather the turtles nest safely on their own, because \"mama knows best.\" The long-term hope is for the community to manage the threats \u2014 mainly dogs and development \u2014 well enough that turtles won't need rescuing at all. For now, though, people who grew up near this beach, some who once treated turtle eggs as toys, are the ones keeping the hatchlings alive.",
+      "scene": "whale",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+          "tier": 1
+        },
+        {
+          "name": "Phys.org Earth",
+          "url": "https://phys.org/news/2026-08-fuego-volcano-spews-ash-mud.html",
+          "tier": 1
+        },
+        {
+          "name": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/",
+          "tier": 2
+        },
+        {
+          "name": "Nature News",
+          "url": "https://www.nature.com/articles/d41586-026-02289-8",
+          "tier": 1
+        }
+      ],
+      "scores": [
+        7.5,
+        8.0,
+        7.0,
+        9.5,
+        8.0
+      ],
+      "evergreen": true
+    }
+  },
+  "ledger": 119
+}
